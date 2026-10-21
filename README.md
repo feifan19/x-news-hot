@@ -4,8 +4,8 @@
 
 ## 在线地址
 
-- 站点：https://liujuntao123.github.io/x-news-hot/
-- 仓库：https://github.com/liujuntao123/x-news-hot
+- 站点：https://feifan19.github.io/x-news-hot/
+- 仓库：https://github.com/feifan19/x-news-hot
 
 ## 本地预览
 

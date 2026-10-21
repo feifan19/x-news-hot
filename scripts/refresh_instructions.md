@@ -9,7 +9,7 @@
 - 合并去重（按 story `id`），**最终 `count >= 30`**，至少覆盖 5 个领域
 - 跳过 NSFW、低质 meme / 纯段子
 - 重写 `/workspace/x-news-site/data/news.json`（或仓库内同路径）
-- `commit` + `push` 到 `liujuntao123/x-news-hot` 的 `main`，触发 GitHub Pages 更新
+- `commit` + `push` 到 `feifan19/x-news-hot` 的 `main`，触发 GitHub Pages 更新
 
 ## 采集建议
 
@@ -63,7 +63,7 @@
    git commit -m "chore: refresh X hot news $(date +%Y-%m-%d-%H)"
    git push origin main
    ```
-4. Pages 通常 1–2 分钟内生效：https://liujuntao123.github.io/x-news-hot/
+4. Pages 通常 1–2 分钟内生效：https://feifan19.github.io/x-news-hot/
 
 ## 注意
 

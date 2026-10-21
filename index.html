@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="X 新闻热点 — 多领域实时汇总" />
+  <title>X 新闻热点</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">𝕏</span>
+        <div>
+          <h1>X 新闻热点</h1>
+          <p class="tagline">多领域热点 · 整点自动更新</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <div class="count-pill" id="totalCount">— 条</div>
+        <div class="updated" id="updatedAt">更新中…</div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <nav class="filters" id="filters" aria-label="领域筛选">
+      <button class="filter-btn active" data-domain="全部">全部</button>
+    </nav>
+
+    <section class="stats-bar" id="statsBar"></section>
+
+    <section class="grid" id="newsGrid" aria-live="polite">
+      <div class="loading">正在加载热点…</div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>内容来自 X 帖子汇总，可能随后变化。重要事实建议点开原文核对。</p>
+      <p class="footer-links">
+        <a href="https://x.com" target="_blank" rel="noopener">X / Twitter</a>
+        ·
+        <a href="https://github.com/liujuntao123/x-news-hot" target="_blank" rel="noopener">源码</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -6,7 +6,7 @@
 
 - 使用 `x` MCP：`search_news`（必要时辅以 `get_trends_by_woeid`）
 - 覆盖领域：科技 / 商业 / 中国 / 国际 / 体育 / 娱乐 / 科学
-- 合并去重（按 story `id`），**最终 `count >= 30`**，至少覆盖 5 个领域
+- 合并去重（按 story `id`），**最终 `count >= 70`（目标约 80–100）**，各领域尽量 10–15 条，至少覆盖 5 个领域
 - 跳过 NSFW、低质 meme / 纯段子
 - 重写 `/workspace/x-news-site/data/news.json`（或仓库内同路径）
 - **每条必须含中英字段**（见下）；中文为新闻体自然表述，勿机翻堆砌
@@ -14,7 +14,7 @@
 
 ## 采集建议
 
-每个领域 1 次 `search_news`，`max_results` 10–15，`max_age_hours` 24–48。示例 query：
+每个领域优先 1–2 次不同角度的 `search_news`，`max_results` 15–25（贴近单次上限），`max_age_hours` 24–48。示例 query：
 
 | 领域 | query 示例 |
 |------|-----------|

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21 18:05 Asia/Shanghai",
-  "updated_at_iso": "2026-10-21T10:05:00Z",
+  "updated_at": "2026-10-21 19:06 Asia/Shanghai",
+  "updated_at_iso": "2026-10-21T11:06:54Z",
   "count": 91,
   "domains": [
     "科技",
@@ -107,6 +107,25 @@
       "updated_at": "2026-10-21T08:41:04.000Z"
     },
     {
+      "id": "2112684362596766177",
+      "domain": "科技",
+      "title_en": "Viggle JST-2 and Dream Labs Dream-1 Launch Fast AI Tools for 3D and Robots",
+      "title_zh": "Viggle JST-2 与 Dream Labs Dream-1 推出快速 3D 与机器人 AI 工具",
+      "hook_en": "Imagine generating a full 3D world in one second for under a penny, or powering robots you've never seen before at just $3 an hour. Two new AI models make these feats real this week.",
+      "hook_zh": "一秒生成完整三维世界、成本不到一美分，或是用每小时约 3 美元驱动从未见过的机器人——两款新模型本周让这些场景成真。",
+      "summary_en": "Viggle released JST-2, the first full-stack physics-native world foundation model that builds 3D scenes from scratch in about one second for less than a cent, allowing real-time expansion from any angle with characters and motion from text or video. Dream Labs debuted Dream-1 from stealth, a robot foundation model backed by a $90 million seed round, which controls unfamiliar bimanual robots on new tasks via a public API starting at $3 per hour. Early testers praised quick successes like playground tasks on rover arms, though finer precision needs work, pointing to lower barriers for creators in simulations, games, and robotics.",
+      "summary_zh": "Viggle 发布 JST-2，号称首个全栈、物理原生的世界基础模型，可在约一秒内从零构建三维场景，成本不足一美分，并能从任意角度实时扩展，用文本或视频加入角色与动作。Dream Labs 则从隐身状态亮相 Dream-1，这是一款机器人基础模型，获 9000 万美元种子轮支持，可通过公开 API 以每小时约 3 美元起控制陌生双臂机器人完成新任务。早期测试者称在漫游车机械臂上能较快完成场地任务，但精细精度仍待提升，整体降低了仿真、游戏与机器人创作者的门槛。",
+      "body_en": "Viggle JST-2 and Dream Labs Dream-1 Launch Fast AI Tools for 3D and Robots.\n\nImagine generating a full 3D world in one second for under a penny, or powering robots you've never seen before at just $3 an hour. Two new AI models make these feats real this week.\n\nViggle released JST-2, the first full-stack physics-native world foundation model that builds 3D scenes from scratch in about one second for less than a cent, allowing real-time expansion from any angle with characters and motion from text or video.\n\nDream Labs debuted Dream-1 from stealth, a robot foundation model backed by a $90 million seed round, which controls unfamiliar bimanual robots on new tasks via a public API starting at $3 per hour. Early testers praised quick successes like playground tasks on rover arms, though finer precision needs work, pointing to lower barriers for creators in simulations, games, and robotics.",
+      "body_zh": "Viggle JST-2 与 Dream Labs Dream-1 推出快速 3D 与机器人 AI 工具。\n\n一秒生成完整三维世界、成本不到一美分，或是用每小时约 3 美元驱动从未见过的机器人——两款新模型本周让这些场景成真。\n\nViggle 发布 JST-2，号称首个全栈、物理原生的世界基础模型，可在约一秒内从零构建三维场景，成本不足一美分，并能从任意角度实时扩展，用文本或视频加入角色与动作。\n\nDream Labs 则从隐身状态亮相 Dream-1，这是一款机器人基础模型，获 9000 万美元种子轮支持，可通过公开 API 以每小时约 3 美元起控制陌生双臂机器人完成新任务。早期测试者称在漫游车机械臂上能较快完成场地任务，但精细精度仍待提升，整体降低了仿真、游戏与机器人创作者的门槛。",
+      "url": "https://x.com/i/trending/2112684362596766177",
+      "category": "News",
+      "topics": [
+        "Technology",
+        "AI"
+      ],
+      "updated_at": "2026-10-20T23:23:26.000Z"
+    },
+    {
       "id": "2112595601669919101",
       "domain": "科技",
       "title_en": "OpenAI Quiets Support for AI Chip Export Limits to China",
@@ -146,23 +165,43 @@
       "updated_at": "2026-10-20T13:52:24.000Z"
     },
     {
-      "id": "2112525486228156479",
+      "id": "2112741574346162483",
       "domain": "科技",
-      "title_en": "DeepSeek V4.1 Flash Outperforms OpenAI's GPT-6 Sol on Cybersecurity Benchmarks",
-      "title_zh": "DeepSeek V4.1 Flash 在网络安全基准上胜过 OpenAI GPT-6 Sol",
-      "hook_en": "In simulated corporate networks, DeepSeek V4.1 Flash 1017 completed more multi-step offensive cybersecurity objectives than a restricted version of OpenAI’s GPT-6 Sol. This open-weight model from China delivered results at lower cost, even using more tokens.",
-      "hook_zh": "在模拟企业网络中，DeepSeek V4.1 Flash 1017 完成的多步进攻性网络安全目标多于受限版 OpenAI GPT-6 Sol。这款来自中国的开源权重模型成本更低，即便消耗更多 token。",
-      "summary_en": "Vals AI's benchmarks show DeepSeek V4.1 Flash 1017, released around October 17, excelling in agentic tasks with a 1-million-token context window and open MIT-licensed weights on Hugging Face. It achieved strong scores like 42.7 objectives in its own harness and runs locally on hardware like two NVIDIA DGX Spark systems, with developers calling the speed a potential national security risk. MiniMax M3.1 Flash competes closely, offering lower costs on coding and visual tasks, as reactions blend excitement over affordable frontier performance with caution about dual-use cyber capabilities now openly available.",
-      "summary_zh": "Vals AI 基准显示，约 10 月 17 日发布的 DeepSeek V4.1 Flash 1017 在智能体任务上表现突出，具备 100 万 token 上下文，并以 MIT 许可在 Hugging Face 开放权重。它在自有评测中取得如 42.7 个目标等强成绩，可在两台 NVIDIA DGX Spark 等硬件上本地运行，有开发者称其速度构成潜在国家安全风险。MiniMax M3.1 Flash 紧随其后，在编程与视觉任务上成本更低。舆论既兴奋于可负担的前沿性能，也警惕现已公开可用的双用途网络能力。",
-      "body_en": "DeepSeek V4.1 Flash Outperforms OpenAI's GPT-6 Sol on Cybersecurity Benchmarks.\n\nIn simulated corporate networks, DeepSeek V4.1 Flash 1017 completed more multi-step offensive cybersecurity objectives than a restricted version of OpenAI’s GPT-6 Sol. This open-weight model from China delivered results at lower cost, even using more tokens.\n\nVals AI's benchmarks show DeepSeek V4.1 Flash 1017, released around October 17, excelling in agentic tasks with a 1-million-token context window and open MIT-licensed weights on Hugging Face.\n\nIt achieved strong scores like 42.7 objectives in its own harness and runs locally on hardware like two NVIDIA DGX Spark systems, with developers calling the speed a potential national security risk. MiniMax M3.1 Flash competes closely, offering lower costs on coding and visual tasks, as reactions blend excitement over affordable frontier performance with caution about dual-use cyber capabilities now openly available.",
-      "body_zh": "DeepSeek V4.1 Flash 在网络安全基准上胜过 OpenAI GPT-6 Sol。\n\n在模拟企业网络中，DeepSeek V4.1 Flash 1017 完成的多步进攻性网络安全目标多于受限版 OpenAI GPT-6 Sol。这款来自中国的开源权重模型成本更低，即便消耗更多 token。\n\nVals AI 基准显示，约 10 月 17 日发布的 DeepSeek V4.1 Flash 1017 在智能体任务上表现突出，具备 100 万 token 上下文，并以 MIT 许可在 Hugging Face 开放权重。它在自有评测中取得如 42.7 个目标等强成绩，可在两台 NVIDIA DGX Spark 等硬件上本地运行，有开发者称其速度构成潜在国家安全风险。",
-      "url": "https://x.com/i/trending/2112525486228156479",
+      "title_en": "Nvidia in Talks for Hundreds of Millions Investment in Firmus After Scrapped IPO",
+      "title_zh": "Nvidia 洽谈向 Firmus 注资数亿美元，Firmus 已搁置 IPO",
+      "hook_en": "Firmus had its sights set on a massive IPO, but pulled back amid market jitters. Now Nvidia, already a partner, is stepping up with talks of a huge cash infusion.",
+      "hook_zh": "Firmus 本瞄准大型 IPO，却因市场紧张而撤回；已是合作方的 Nvidia，正讨论大规模注资。",
+      "summary_en": "Australian AI cloud provider Firmus abandoned its planned blockbuster IPO on the Australian Securities Exchange earlier this month due to investor concerns over high valuations and its short track record. Nvidia, which already invests in Firmus and partners on a major GPU deployment in Indonesia's Batam campus, is now discussing an equity investment of several hundred million dollars—possibly at least AU$500 million. This move aligns with Nvidia's strategy to back neocloud operators amid surging AI computing demand, as Firmus pivots to private funding up to US$3 billion. No final deal details are confirmed yet.",
+      "summary_zh": "澳大利亚 AI 云服务商 Firmus 本月初因投资者担忧估值过高与业绩记录偏短，放弃在澳大利亚证券交易所的大型 IPO。已投资 Firmus、并在印尼巴淡岛校园合作大规模 GPU 部署的 Nvidia，正讨论数亿美元股权投资，金额可能至少 5 亿澳元。此举契合 Nvidia 在 AI 算力需求飙升背景下支持 neocloud 运营商的策略；Firmus 则转向最高可达约 30 亿美元的私募融资。最终交易细节尚未确认。",
+      "body_en": "Nvidia in Talks for Hundreds of Millions Investment in Firmus After Scrapped IPO.\n\nFirmus had its sights set on a massive IPO, but pulled back amid market jitters. Now Nvidia, already a partner, is stepping up with talks of a huge cash infusion.\n\nAustralian AI cloud provider Firmus abandoned its planned blockbuster IPO on the Australian Securities Exchange earlier this month due to investor concerns over high valuations and its short track record. Nvidia, which already invests in Firmus and partners on a major GPU deployment in Indonesia's Batam campus, is now discussing an equity investment of several hundred million dollars—possibly at least AU$500 million.\n\nThis move aligns with Nvidia's strategy to back neocloud operators amid surging AI computing demand, as Firmus pivots to private funding up to US$3 billion. No final deal details are confirmed yet.",
+      "body_zh": "Nvidia 洽谈向 Firmus 注资数亿美元，Firmus 已搁置 IPO。\n\nFirmus 本瞄准大型 IPO，却因市场紧张而撤回；已是合作方的 Nvidia，正讨论大规模注资。\n\n澳大利亚 AI 云服务商 Firmus 本月初因投资者担忧估值过高与业绩记录偏短，放弃在澳大利亚证券交易所的大型 IPO。已投资 Firmus、并在印尼巴淡岛校园合作大规模 GPU 部署的 Nvidia，正讨论数亿美元股权投资，金额可能至少 5 亿澳元。\n\n此举契合 Nvidia 在 AI 算力需求飙升背景下支持 neocloud 运营商的策略；Firmus 则转向最高可达约 30 亿美元的私募融资。最终交易细节尚未确认。",
+      "url": "https://x.com/i/trending/2112741574346162483",
       "category": "News",
       "topics": [
         "Technology",
-        "AI"
+        "AI",
+        "Business & Finance"
       ],
-      "updated_at": "2026-10-20T17:46:45.000Z"
+      "updated_at": "2026-10-21T04:17:50.000Z"
+    },
+    {
+      "id": "2112613033243721837",
+      "domain": "科技",
+      "title_en": "OpenAI Acquires Orchestra Bio to Speed Drug Development",
+      "title_zh": "OpenAI 收购 Orchestra Bio，加速药物研发",
+      "hook_en": "OpenAI just brought in a team that's been streamlining drug development for four years, right on the startup's anniversary.",
+      "hook_zh": "创业四周年那天，Ashoka Rajendra 得知 OpenAI 将把团队收入麾下。",
+      "summary_en": "On October 20, 2026, OpenAI announced its acquisition of Orchestra Bio, a four-year-old platform that coordinates biopharma teams on tasks like monitoring studies and flagging delays. The deal merges Orchestra's technology with OpenAI's Rosalind AI tools to help scientists link discoveries to treatments faster, using agents that handle operational workflows. OpenAI President Greg Brockman called it an exciting step toward accelerating medicines, while founder Ashoka Rajendra noted AI's growing role in teaming up with people. This move aligns with rivals like Anthropic entering life sciences.",
+      "summary_zh": "OpenAI 收购 Orchestra Bio，将其生物制药协作工具与面向生物、化学的 Rosalind AI 模型结合，推动发现更快转化为疗法。",
+      "body_en": "OpenAI Acquires Orchestra Bio to Speed Drug Development.\n\nImagine AI agents spotting a failed drug batch and instantly suggesting fixes to keep treatments on track for patients.\n\nOpenAI acquired Orchestra Bio, a four-year-old startup founded by Ashoka Rajendra, to integrate its platform with Rosalind AI tools for life sciences. The deal equips biopharma teams with agents that monitor studies, track timelines, flag delays, and coordinate across partners, aiming to turn scientific discoveries into patient treatments faster.\n\nIt builds on OpenAI's work with customers like Moderna and Novo Nordisk, amid a trend of AI labs entering biotech. Investors and leaders like Greg Brockman expressed excitement about accelerating the 10-15 year drug development process.",
+      "body_zh": "OpenAI 收购 Orchestra Bio，加速药物研发。\n\n创业四周年那天，Ashoka Rajendra 得知 OpenAI 将把团队收入麾下。\n\nOpenAI 收购 Orchestra Bio，将其生物制药协作工具与面向生物、化学的 Rosalind AI 模型结合，推动发现更快转化为疗法。\n\n综合以上信息，OpenAI 收购 Orchestra Bio，加速药物研发一事持续引发关注。",
+      "url": "https://x.com/i/trending/2112613033243721837",
+      "category": "News",
+      "topics": [
+        "Technology",
+        "Biotech"
+      ],
+      "updated_at": "2026-10-21T10:08:04.000Z"
     },
     {
       "id": "2112496630352281688",
@@ -184,80 +223,40 @@
       "updated_at": "2026-10-20T10:54:58.000Z"
     },
     {
-      "id": "2112613033243721837",
+      "id": "2112536423253643495",
       "domain": "科技",
-      "title_en": "OpenAI Acquires Orchestra Bio to Speed Drug Development",
-      "title_zh": "OpenAI 收购 Orchestra Bio，加速药物研发",
-      "hook_en": "Imagine AI agents spotting a failed drug batch and instantly suggesting fixes to keep treatments on track for patients.",
-      "hook_zh": "创业四周年那天，Ashoka Rajendra 得知 OpenAI 将把团队收入麾下。",
-      "summary_en": "OpenAI acquired Orchestra Bio, a four-year-old startup founded by Ashoka Rajendra, to integrate its platform with Rosalind AI tools for life sciences. The deal equips biopharma teams with agents that monitor studies, track timelines, flag delays, and coordinate across partners, aiming to turn scientific discoveries into patient treatments faster. It builds on OpenAI's work with customers like Moderna and Novo Nordisk, amid a trend of AI labs entering biotech. Investors and leaders like Greg Brockman expressed excitement about accelerating the 10-15 year drug development process.",
-      "summary_zh": "OpenAI 收购 Orchestra Bio，将其生物制药协作工具与面向生物、化学的 Rosalind AI 模型结合，推动发现更快转化为疗法。",
-      "body_en": "OpenAI Acquires Orchestra Bio to Speed Drug Development.\n\nImagine AI agents spotting a failed drug batch and instantly suggesting fixes to keep treatments on track for patients.\n\nOpenAI acquired Orchestra Bio, a four-year-old startup founded by Ashoka Rajendra, to integrate its platform with Rosalind AI tools for life sciences. The deal equips biopharma teams with agents that monitor studies, track timelines, flag delays, and coordinate across partners, aiming to turn scientific discoveries into patient treatments faster.\n\nIt builds on OpenAI's work with customers like Moderna and Novo Nordisk, amid a trend of AI labs entering biotech. Investors and leaders like Greg Brockman expressed excitement about accelerating the 10-15 year drug development process.",
-      "body_zh": "OpenAI 收购 Orchestra Bio，加速药物研发。\n\n创业四周年那天，Ashoka Rajendra 得知 OpenAI 将把团队收入麾下。\n\nOpenAI 收购 Orchestra Bio，将其生物制药协作工具与面向生物、化学的 Rosalind AI 模型结合，推动发现更快转化为疗法。\n\n综合以上信息，OpenAI 收购 Orchestra Bio，加速药物研发一事持续引发关注。",
-      "url": "https://x.com/i/trending/2112613033243721837",
+      "title_en": "California Wealth Tax Faces Backlash as Billionaires Exit State",
+      "title_zh": "加州拟征财富税引反弹，多名亿万富豪迁出",
+      "hook_en": "Dozens of California's billionaires, including Larry Page, Sergey Brin, and Peter Thiel, have left ahead of a key residency deadline, dodging a proposed 5% wealth tax.",
+      "hook_zh": "包括拉里·佩奇、谢尔盖·布林与彼得·蒂尔在内的数十名加州亿万富豪，赶在关键居民身份期限前离开，以规避拟议中的 5% 财富税。",
+      "summary_en": "Proposition 40 aims to tax the worldwide net worth of residents worth $1 billion or more as of January 1, 2026, to fund Medi-Cal healthcare, but Stanford economists now estimate just $30 billion in revenue after accounting for exits—far below the initial $100 billion projection. These departures, representing over $577 billion in net worth from just seven confirmed cases, could cost the state $69 billion in future income taxes, leading to a projected net loss of nearly $39 billion. While supporters like Rep. Ro Khanna defend it as vital for healthcare, opponents highlight the risk to long-term revenues, with a competing measure backed by Gov. Newsom gaining traction amid tight polls.",
+      "summary_zh": "第 40 号提案拟对截至 2026 年 1 月 1 日净资产达 10 亿美元及以上的居民按全球净值征税，用于资助 Medi-Cal 医保。斯坦福经济学家在计入迁出效应后，将收入预估下调至约 300 亿美元，远低于最初的 1000 亿美元。仅七起已确认迁出案例所涉净资产就超过 5770 亿美元，或使州政府未来损失约 690 亿美元所得税，净损失接近 390 亿美元。众议员罗·卡纳等支持者称该税对医保至关重要，反对者则强调长期财政收入风险；纽森州长支持的竞争性议案在民调胶着中升温。",
+      "body_en": "California Wealth Tax Faces Backlash as Billionaires Exit State.\n\nDozens of California's billionaires, including Larry Page, Sergey Brin, and Peter Thiel, have left ahead of a key residency deadline, dodging a proposed 5% wealth tax.\n\nProposition 40 aims to tax the worldwide net worth of residents worth $1 billion or more as of January 1, 2026, to fund Medi-Cal healthcare, but Stanford economists now estimate just $30 billion in revenue after accounting for exits—far below the initial $100 billion projection. These departures, representing over $577 billion in net worth from just seven confirmed cases, could cost the state $69 billion in future income taxes, leading to a projected net loss of nearly $39 billion.\n\nWhile supporters like Rep. Ro Khanna defend it as vital for healthcare, opponents highlight the risk to long-term revenues, with a competing measure backed by Gov. Newsom gaining traction amid tight polls.",
+      "body_zh": "加州拟征财富税引反弹，多名亿万富豪迁出。\n\n包括拉里·佩奇、谢尔盖·布林与彼得·蒂尔在内的数十名加州亿万富豪，赶在关键居民身份期限前离开，以规避拟议中的 5% 财富税。\n\n第 40 号提案拟对截至 2026 年 1 月 1 日净资产达 10 亿美元及以上的居民按全球净值征税，用于资助 Medi-Cal 医保。斯坦福经济学家在计入迁出效应后，将收入预估下调至约 300 亿美元，远低于最初的 1000 亿美元。\n\n仅七起已确认迁出案例所涉净资产就超过 5770 亿美元，或使州政府未来损失约 690 亿美元所得税，净损失接近 390 亿美元。众议员罗·卡纳等支持者称该税对医保至关重要，反对者则强调长期财政收入风险；纽森州长支持的竞争性议案在民调胶着中升温。",
+      "url": "https://x.com/i/trending/2112536423253643495",
       "category": "News",
       "topics": [
-        "Technology",
-        "Biotech"
+        "Politics"
       ],
-      "updated_at": "2026-10-21T08:47:48.000Z"
+      "updated_at": "2026-10-21T09:56:05.000Z"
     },
     {
-      "id": "2112684362596766177",
+      "id": "2112281282239664552",
       "domain": "科技",
-      "title_en": "Viggle JST-2 and Dream Labs Dream-1 Launch Fast AI Tools for 3D and Robots",
-      "title_zh": "Viggle JST-2 与 Dream Labs Dream-1 推出快速 3D 与机器人 AI 工具",
-      "hook_en": "Imagine generating a full 3D world in one second for under a penny, or powering robots you've never seen before at just $3 an hour. Two new AI models make these feats real this week.",
-      "hook_zh": "一秒生成完整三维世界、成本不到一美分，或是用每小时约 3 美元驱动从未见过的机器人——两款新模型本周让这些场景成真。",
-      "summary_en": "Viggle released JST-2, the first full-stack physics-native world foundation model that builds 3D scenes from scratch in about one second for less than a cent, allowing real-time expansion from any angle with characters and motion from text or video. Dream Labs debuted Dream-1 from stealth, a robot foundation model backed by a $90 million seed round, which controls unfamiliar bimanual robots on new tasks via a public API starting at $3 per hour. Early testers praised quick successes like playground tasks on rover arms, though finer precision needs work, pointing to lower barriers for creators in simulations, games, and robotics.",
-      "summary_zh": "Viggle 发布 JST-2，号称首个全栈、物理原生的世界基础模型，可在约一秒内从零构建三维场景，成本不足一美分，并能从任意角度实时扩展，用文本或视频加入角色与动作。Dream Labs 则从隐身状态亮相 Dream-1，这是一款机器人基础模型，获 9000 万美元种子轮支持，可通过公开 API 以每小时约 3 美元起控制陌生双臂机器人完成新任务。早期测试者称在漫游车机械臂上能较快完成场地任务，但精细精度仍待提升，整体降低了仿真、游戏与机器人创作者的门槛。",
-      "body_en": "Viggle JST-2 and Dream Labs Dream-1 Launch Fast AI Tools for 3D and Robots.\n\nImagine generating a full 3D world in one second for under a penny, or powering robots you've never seen before at just $3 an hour. Two new AI models make these feats real this week.\n\nViggle released JST-2, the first full-stack physics-native world foundation model that builds 3D scenes from scratch in about one second for less than a cent, allowing real-time expansion from any angle with characters and motion from text or video.\n\nDream Labs debuted Dream-1 from stealth, a robot foundation model backed by a $90 million seed round, which controls unfamiliar bimanual robots on new tasks via a public API starting at $3 per hour. Early testers praised quick successes like playground tasks on rover arms, though finer precision needs work, pointing to lower barriers for creators in simulations, games, and robotics.",
-      "body_zh": "Viggle JST-2 与 Dream Labs Dream-1 推出快速 3D 与机器人 AI 工具。\n\n一秒生成完整三维世界、成本不到一美分，或是用每小时约 3 美元驱动从未见过的机器人——两款新模型本周让这些场景成真。\n\nViggle 发布 JST-2，号称首个全栈、物理原生的世界基础模型，可在约一秒内从零构建三维场景，成本不足一美分，并能从任意角度实时扩展，用文本或视频加入角色与动作。\n\nDream Labs 则从隐身状态亮相 Dream-1，这是一款机器人基础模型，获 9000 万美元种子轮支持，可通过公开 API 以每小时约 3 美元起控制陌生双臂机器人完成新任务。早期测试者称在漫游车机械臂上能较快完成场地任务，但精细精度仍待提升，整体降低了仿真、游戏与机器人创作者的门槛。",
-      "url": "https://x.com/i/trending/2112684362596766177",
-      "category": "News",
-      "topics": [
-        "Technology",
-        "AI"
-      ],
-      "updated_at": "2026-10-20T23:23:26.000Z"
-    },
-    {
-      "id": "2112339042494742975",
-      "domain": "科技",
-      "title_en": "ChatGPT Slides Gains Real-Time Team Collaboration",
-      "title_zh": "ChatGPT 幻灯片上线实时团队协作",
-      "hook_en": "Imagine teams and AI agents editing the same presentation slide by slide, with comments flying in real time. OpenAI just made that a reality inside ChatGPT.",
-      "hook_zh": "团队与 AI 智能体可逐页共编同一演示文稿，评论实时飞来飞去——OpenAI 已把这场景带进 ChatGPT。",
-      "summary_en": "OpenAI launched real-time collaboration for ChatGPT Slides, allowing Pro, Business, and Enterprise users to share decks, edit together, leave comments, and let ChatGPT apply feedback instantly. Features include direct tweaks to text, charts, images, and shapes, starting from conversations or files, with exports to PowerPoint or Google Slides. OpenAI's Platon Mazarakis shared pride in building a multiplayer editor from the start, while users like Emily Dahin called multi-human-agent work magical for future coworking. The rollout began around October 16, 2026, positioning ChatGPT as a strong rival to tools like Canva and Figma.",
-      "summary_zh": "OpenAI 为 ChatGPT Slides 推出实时协作，Pro、Business 与 Enterprise 用户可共享幻灯片、共同编辑、留言评论，并由 ChatGPT 即时落实反馈。功能涵盖文字、图表、图片与形状的直接调整，可从对话或文件起步，并导出到 PowerPoint 或 Google 幻灯片。OpenAI 的 Platon Mazarakis 称从一开始就按多人编辑器设计；用户 Emily Dahin 则把「多人与智能体」共创形容为未来协作的魔力。功能约自 2026 年 10 月 16 日起陆续开放，令 ChatGPT 更直接对标 Canva、Figma 等工具。",
-      "body_en": "ChatGPT Slides Gains Real-Time Team Collaboration.\n\nImagine teams and AI agents editing the same presentation slide by slide, with comments flying in real time. OpenAI just made that a reality inside ChatGPT.\n\nOpenAI launched real-time collaboration for ChatGPT Slides, allowing Pro, Business, and Enterprise users to share decks, edit together, leave comments, and let ChatGPT apply feedback instantly. Features include direct tweaks to text, charts, images, and shapes, starting from conversations or files, with exports to PowerPoint or Google Slides.\n\nOpenAI's Platon Mazarakis shared pride in building a multiplayer editor from the start, while users like Emily Dahin called multi-human-agent work magical for future coworking. The rollout began around October 16, 2026, positioning ChatGPT as a strong rival to tools like Canva and Figma.",
-      "body_zh": "ChatGPT 幻灯片上线实时团队协作。\n\n团队与 AI 智能体可逐页共编同一演示文稿，评论实时飞来飞去——OpenAI 已把这场景带进 ChatGPT。\n\nOpenAI 为 ChatGPT Slides 推出实时协作，Pro、Business 与 Enterprise 用户可共享幻灯片、共同编辑、留言评论，并由 ChatGPT 即时落实反馈。功能涵盖文字、图表、图片与形状的直接调整，可从对话或文件起步，并导出到 PowerPoint 或 Google 幻灯片。\n\nOpenAI 的 Platon Mazarakis 称从一开始就按多人编辑器设计；用户 Emily Dahin 则把「多人与智能体」共创形容为未来协作的魔力。功能约自 2026 年 10 月 16 日起陆续开放，令 ChatGPT 更直接对标 Canva、Figma 等工具。",
-      "url": "https://x.com/i/trending/2112339042494742975",
+      "title_en": "NVIDIA Runs Record 104-Qubit Quantum Simulation on JUPITER Supercomputer",
+      "title_zh": "英伟达在 JUPITER 超算上完成创纪录 104 量子比特模拟",
+      "hook_en": "NVIDIA researchers pushed classical computing to mimic a fault-tolerant quantum system with 104 qubits—the largest simulation yet—using thousands of GPUs in Germany.",
+      "hook_zh": "英伟达研究人员用德国数千块 GPU，推动经典计算模拟容错量子系统，达 104 量子比特——迄今最大规模。",
+      "summary_en": "On Europe’s JUPITER supercomputer at the Jülich Supercomputing Centre, NVIDIA simulated a 104-qubit fault-tolerant quantum processor with 8,192 GH200 GPUs, including realistic hardware noise that past efforts overlooked. The simulation validated magic state cultivation, a method that slashes physical qubit needs by about 90 percent, guiding error mitigation for drug discovery, financial modeling, and materials science. CEO Jensen Huang highlighted how such digital twins of factories will let workers design AI cars and robotic plants virtually first. This bridges GPU simulations with real quantum hardware, de-risking development and speeding practical machines.",
+      "summary_zh": "在于利希超算中心的欧洲 JUPITER 超算上，英伟达用 8192 块 GH200 GPU 模拟了 104 量子比特容错量子处理器，并纳入以往常被忽略的真实硬件噪声。模拟验证了「魔法态培育」方法，可将物理量子比特需求削减约 90%，为药物发现、金融建模与材料科学的误差缓解提供指引。CEO 黄仁勋强调，此类工厂数字孪生可让工人先虚拟设计 AI 汽车与机器人产线。此举衔接 GPU 模拟与真实量子硬件，降低开发风险并加速实用化。",
+      "body_en": "NVIDIA Runs Record 104-Qubit Quantum Simulation on JUPITER Supercomputer.\n\nNVIDIA researchers pushed classical computing to mimic a fault-tolerant quantum system with 104 qubits—the largest simulation yet—using thousands of GPUs in Germany.\n\nOn Europe’s JUPITER supercomputer at the Jülich Supercomputing Centre, NVIDIA simulated a 104-qubit fault-tolerant quantum processor with 8,192 GH200 GPUs, including realistic hardware noise that past efforts overlooked. The simulation validated magic state cultivation, a method that slashes physical qubit needs by about 90 percent, guiding error mitigation for drug discovery, financial modeling, and materials science.\n\nCEO Jensen Huang highlighted how such digital twins of factories will let workers design AI cars and robotic plants virtually first. This bridges GPU simulations with real quantum hardware, de-risking development and speeding practical machines.",
+      "body_zh": "英伟达在 JUPITER 超算上完成创纪录 104 量子比特模拟。\n\n英伟达研究人员用德国数千块 GPU，推动经典计算模拟容错量子系统，达 104 量子比特——迄今最大规模。\n\n在于利希超算中心的欧洲 JUPITER 超算上，英伟达用 8192 块 GH200 GPU 模拟了 104 量子比特容错量子处理器，并纳入以往常被忽略的真实硬件噪声。模拟验证了「魔法态培育」方法，可将物理量子比特需求削减约 90%，为药物发现、金融建模与材料科学的误差缓解提供指引。\n\nCEO 黄仁勋强调，此类工厂数字孪生可让工人先虚拟设计 AI 汽车与机器人产线。此举衔接 GPU 模拟与真实量子硬件，降低开发风险并加速实用化。",
+      "url": "https://x.com/i/trending/2112281282239664552",
       "category": "News",
       "topics": [
         "Technology"
       ],
-      "updated_at": "2026-10-20T00:30:15.000Z"
-    },
-    {
-      "id": "2112741574346162483",
-      "domain": "科技",
-      "title_en": "Nvidia in Talks for Hundreds of Millions Investment in Firmus After Scrapped IPO",
-      "title_zh": "Nvidia 洽谈向 Firmus 注资数亿美元，Firmus 已搁置 IPO",
-      "hook_en": "Firmus had its sights set on a massive IPO, but pulled back amid market jitters. Now Nvidia, already a partner, is stepping up with talks of a huge cash infusion.",
-      "hook_zh": "Firmus 本瞄准大型 IPO，却因市场紧张而撤回；已是合作方的 Nvidia，正讨论大规模注资。",
-      "summary_en": "Australian AI cloud provider Firmus abandoned its planned blockbuster IPO on the Australian Securities Exchange earlier this month due to investor concerns over high valuations and its short track record. Nvidia, which already invests in Firmus and partners on a major GPU deployment in Indonesia's Batam campus, is now discussing an equity investment of several hundred million dollars—possibly at least AU$500 million. This move aligns with Nvidia's strategy to back neocloud operators amid surging AI computing demand, as Firmus pivots to private funding up to US$3 billion. No final deal details are confirmed yet.",
-      "summary_zh": "澳大利亚 AI 云服务商 Firmus 本月初因投资者担忧估值过高与业绩记录偏短，放弃在澳大利亚证券交易所的大型 IPO。已投资 Firmus、并在印尼巴淡岛校园合作大规模 GPU 部署的 Nvidia，正讨论数亿美元股权投资，金额可能至少 5 亿澳元。此举契合 Nvidia 在 AI 算力需求飙升背景下支持 neocloud 运营商的策略；Firmus 则转向最高可达约 30 亿美元的私募融资。最终交易细节尚未确认。",
-      "body_en": "Nvidia in Talks for Hundreds of Millions Investment in Firmus After Scrapped IPO.\n\nFirmus had its sights set on a massive IPO, but pulled back amid market jitters. Now Nvidia, already a partner, is stepping up with talks of a huge cash infusion.\n\nAustralian AI cloud provider Firmus abandoned its planned blockbuster IPO on the Australian Securities Exchange earlier this month due to investor concerns over high valuations and its short track record. Nvidia, which already invests in Firmus and partners on a major GPU deployment in Indonesia's Batam campus, is now discussing an equity investment of several hundred million dollars—possibly at least AU$500 million.\n\nThis move aligns with Nvidia's strategy to back neocloud operators amid surging AI computing demand, as Firmus pivots to private funding up to US$3 billion. No final deal details are confirmed yet.",
-      "body_zh": "Nvidia 洽谈向 Firmus 注资数亿美元，Firmus 已搁置 IPO。\n\nFirmus 本瞄准大型 IPO，却因市场紧张而撤回；已是合作方的 Nvidia，正讨论大规模注资。\n\n澳大利亚 AI 云服务商 Firmus 本月初因投资者担忧估值过高与业绩记录偏短，放弃在澳大利亚证券交易所的大型 IPO。已投资 Firmus、并在印尼巴淡岛校园合作大规模 GPU 部署的 Nvidia，正讨论数亿美元股权投资，金额可能至少 5 亿澳元。\n\n此举契合 Nvidia 在 AI 算力需求飙升背景下支持 neocloud 运营商的策略；Firmus 则转向最高可达约 30 亿美元的私募融资。最终交易细节尚未确认。",
-      "url": "https://x.com/i/trending/2112741574346162483",
-      "category": "News",
-      "topics": [
-        "Technology",
-        "AI",
-        "Business & Finance"
-      ],
-      "updated_at": "2026-10-21T04:17:50.000Z"
+      "updated_at": "2026-10-19T20:43:59.000Z"
     },
     {
       "id": "2112796521959985524",
@@ -370,100 +369,6 @@
       "updated_at": "2026-10-20T19:09:54.000Z"
     },
     {
-      "id": "2112795003680342391",
-      "domain": "商业",
-      "title_en": "S&P 500's Top 15 Stocks Hit Record 46.7% Share",
-      "title_zh": "标普 500 前 15 大股权重创纪录达 46.7%",
-      "hook_en": "A handful of tech giants now steer the entire S&P 500, with Nvidia alone claiming 7.5% of the index's value. Everyday investors in broad funds might not realize how much they're riding on these leaders.",
-      "hook_zh": "少数科技巨头主导整个标普 500，仅英伟达就占指数市值约 7.5%。买宽基基金的普通投资者未必意识到自己有多依赖这些龙头。",
-      "summary_en": "The 15 largest S&P 500 stocks account for a record 46.7% of the index's total market value, far exceeding the 27.2% seen at the 2000 dot-com peak. Nvidia tops the list at 7.5%, followed by Apple at 7.1%, Alphabet at 5.9%, and Microsoft at 5.6%, with these four alone making up 26.1%. The top five equal the market cap of the bottom 434 companies, prompting market watchers to question diversification in popular index funds and ETFs. While some highlight the leaders' strong cash flows, others note that any slowdown could hit passive portfolios hard.",
-      "summary_zh": "标普 500 最大的 15 只股票合计占指数总市值创纪录的 46.7%，远超 2000 年互联网泡沫顶峰时的 27.2%。英伟达以 7.5% 居首，苹果 7.1%、Alphabet 5.9%、微软 5.6%，四家合计 26.1%。前五名市值相当于后 434 家之和，引发对热门指数基金与 ETF「分散」成色的质疑。有人强调龙头现金流强劲，也有人警告一旦放缓，被动组合将承压。",
-      "body_en": "S&P 500's Top 15 Stocks Hit Record 46.7% Share.\n\nA handful of tech giants now steer the entire S&P 500, with Nvidia alone claiming 7.5% of the index's value. Everyday investors in broad funds might not realize how much they're riding on these leaders.\n\nThe 15 largest S&P 500 stocks account for a record 46.7% of the index's total market value, far exceeding the 27.2% seen at the 2000 dot-com peak. Nvidia tops the list at 7.5%, followed by Apple at 7.1%, Alphabet at 5.9%, and Microsoft at 5.6%, with these four alone making up 26.1%.\n\nThe top five equal the market cap of the bottom 434 companies, prompting market watchers to question diversification in popular index funds and ETFs. While some highlight the leaders' strong cash flows, others note that any slowdown could hit passive portfolios hard.",
-      "body_zh": "标普 500 前 15 大股权重创纪录达 46.7%。\n\n少数科技巨头主导整个标普 500，仅英伟达就占指数市值约 7.5%。买宽基基金的普通投资者未必意识到自己有多依赖这些龙头。\n\n标普 500 最大的 15 只股票合计占指数总市值创纪录的 46.7%，远超 2000 年互联网泡沫顶峰时的 27.2%。英伟达以 7.5% 居首，苹果 7.1%、Alphabet 5.9%、微软 5.6%，四家合计 26.1%。\n\n前五名市值相当于后 434 家之和，引发对热门指数基金与 ETF「分散」成色的质疑。有人强调龙头现金流强劲，也有人警告一旦放缓，被动组合将承压。",
-      "url": "https://x.com/i/trending/2112795003680342391",
-      "category": "News",
-      "topics": [
-        "Stocks"
-      ],
-      "updated_at": "2026-10-21T06:39:54.000Z"
-    },
-    {
-      "id": "2112319265076367697",
-      "domain": "商业",
-      "title_en": "Jio Platforms IPO Fully Subscribed in Record Time on Opening Day",
-      "title_zh": "Jio Platforms IPO 开盘当日极速满额认购",
-      "hook_en": "India's largest IPO kicked off with a bang as Jio Platforms hit full subscription in under two hours, fueled by massive institutional bids.",
-      "hook_zh": "印度史上最大 IPO 开门红：Jio Platforms 不到两小时即满额认购，机构抢筹踊跃。",
-      "summary_en": "Reliance Industries' Jio Platforms launched its ₹30,213 crore IPO on October 21, priced between ₹1,065 and ₹1,119 per share, surpassing past records in size and speed. Anchor investors pledged ₹8,110 crore upfront, and qualified institutional buyers oversubscribed their portion over 3x within minutes, while retail interest built steadily. The fresh issue, aimed at debt repayment and corporate needs, values the company at around $100-108 billion and runs through October 23, with listing set for October 28. Zerodha's Nithin Kamath noted Jio's role in India's digital boom, growing the investor base from 2 crore in 2016 to over 13 crore today.",
-      "summary_zh": "信实工业旗下 Jio Platforms 于 10 月 21 日启动约 30213 亿卢比 IPO，发行价区间每份 1065–1119 卢比，规模与认购速度均刷新纪录。锚定投资者事先承诺约 8110 亿卢比，合格机构买方份额在数分钟内超额认购逾 3 倍，散户兴趣稳步上升。募集资金主要用于还债与公司用途，估值约在 1000–1080 亿美元；申购至 10 月 23 日，预计 10 月 28 日上市。Zerodha 的 Nithin Kamath 称，Jio 推动印度数字浪潮，也让投资者基数从 2016 年约 2000 万增至逾 1.3 亿。",
-      "body_en": "Jio Platforms IPO Fully Subscribed in Record Time on Opening Day.\n\nIndia's largest IPO kicked off with a bang as Jio Platforms hit full subscription in under two hours, fueled by massive institutional bids.\n\nReliance Industries' Jio Platforms launched its ₹30,213 crore IPO on October 21, priced between ₹1,065 and ₹1,119 per share, surpassing past records in size and speed. Anchor investors pledged ₹8,110 crore upfront, and qualified institutional buyers oversubscribed their portion over 3x within minutes, while retail interest built steadily.\n\nThe fresh issue, aimed at debt repayment and corporate needs, values the company at around $100-108 billion and runs through October 23, with listing set for October 28. Zerodha's Nithin Kamath noted Jio's role in India's digital boom, growing the investor base from 2 crore in 2016 to over 13 crore today.",
-      "body_zh": "Jio Platforms IPO 开盘当日极速满额认购。\n\n印度史上最大 IPO 开门红：Jio Platforms 不到两小时即满额认购，机构抢筹踊跃。\n\n信实工业旗下 Jio Platforms 于 10 月 21 日启动约 30213 亿卢比 IPO，发行价区间每份 1065–1119 卢比，规模与认购速度均刷新纪录。锚定投资者事先承诺约 8110 亿卢比，合格机构买方份额在数分钟内超额认购逾 3 倍，散户兴趣稳步上升。\n\n募集资金主要用于还债与公司用途，估值约在 1000–1080 亿美元；申购至 10 月 23 日，预计 10 月 28 日上市。Zerodha 的 Nithin Kamath 称，Jio 推动印度数字浪潮，也让投资者基数从 2016 年约 2000 万增至逾 1.3 亿。",
-      "url": "https://x.com/i/trending/2112319265076367697",
-      "category": "News",
-      "topics": [
-        "Business & Finance",
-        "Stocks"
-      ],
-      "updated_at": "2026-10-21T08:23:27.000Z"
-    },
-    {
-      "id": "2112195413214454000",
-      "domain": "商业",
-      "title_en": "Amazon Stock Surges 5% on Analyst Upgrade, AI Tool Launch, and Nuclear Power Plans",
-      "title_zh": "亚马逊股价涨超 5%：分析师上调、AI 工具与核电规划齐发力",
-      "hook_en": "Amazon's shares jumped over 5% Monday, adding $135 billion to its market value in one day. Fresh optimism around AI tools and clean energy for data centers fueled the rally.",
-      "hook_zh": "亚马逊周一涨逾 5%，一日市值增加约 1350 亿美元；AI 工具与数据中心清洁能源预期推升乐观情绪。",
-      "summary_en": "Morgan Stanley upgraded Amazon to a top pick with a $350 price target, citing rapid AWS growth projected at 47% in 2027 and AI opportunities in shopping agents and robotics. The company launched TorchNeuron, an open-source tool that lets PyTorch AI developers easily run code on AWS Trainium chips with minimal changes, as CEO Andy Jassy noted it cuts weeks of rework. Amazon also partnered on a 960-megawatt nuclear project in Indiana using small modular reactors to power data centers, part of a push for over 5 gigawatts by 2039. Investors eye upcoming third-quarter results amid questions on spending and competition.",
-      "summary_zh": "摩根士丹利将亚马逊列为首选，目标价 350 美元，理由包括预计 2027 年 AWS 增速约 47%，以及购物智能体与机器人等领域的 AI 机会。公司推出开源工具 TorchNeuron，让 PyTorch 开发者几乎无需大改即可在 AWS Trainium 芯片上运行代码；CEO 安迪·贾西称可省去数周改写。亚马逊还参与印第安纳州约 960 兆瓦小型模块化反应堆核电项目，为数据中心供电，并规划到 2039 年超过 5 吉瓦。投资者正关注即将公布的三季报，焦点仍是开支力度与竞争。",
-      "body_en": "Amazon Stock Surges 5% on Analyst Upgrade, AI Tool Launch, and Nuclear Power Plans.\n\nAmazon's shares jumped over 5% Monday, adding $135 billion to its market value in one day. Fresh optimism around AI tools and clean energy for data centers fueled the rally.\n\nMorgan Stanley upgraded Amazon to a top pick with a $350 price target, citing rapid AWS growth projected at 47% in 2027 and AI opportunities in shopping agents and robotics. The company launched TorchNeuron, an open-source tool that lets PyTorch AI developers easily run code on AWS Trainium chips with minimal changes, as CEO Andy Jassy noted it cuts weeks of rework.\n\nAmazon also partnered on a 960-megawatt nuclear project in Indiana using small modular reactors to power data centers, part of a push for over 5 gigawatts by 2039. Investors eye upcoming third-quarter results amid questions on spending and competition.",
-      "body_zh": "亚马逊股价涨超 5%：分析师上调、AI 工具与核电规划齐发力。\n\n亚马逊周一涨逾 5%，一日市值增加约 1350 亿美元；AI 工具与数据中心清洁能源预期推升乐观情绪。\n\n摩根士丹利将亚马逊列为首选，目标价 350 美元，理由包括预计 2027 年 AWS 增速约 47%，以及购物智能体与机器人等领域的 AI 机会。公司推出开源工具 TorchNeuron，让 PyTorch 开发者几乎无需大改即可在 AWS Trainium 芯片上运行代码；CEO 安迪·贾西称可省去数周改写。\n\n亚马逊还参与印第安纳州约 960 兆瓦小型模块化反应堆核电项目，为数据中心供电，并规划到 2039 年超过 5 吉瓦。投资者正关注即将公布的三季报，焦点仍是开支力度与竞争。",
-      "url": "https://x.com/i/trending/2112195413214454000",
-      "category": "News",
-      "topics": [
-        "Business & Finance",
-        "Stocks"
-      ],
-      "updated_at": "2026-10-20T01:49:52.000Z"
-    },
-    {
-      "id": "2112213035615990082",
-      "domain": "商业",
-      "title_en": "NYSE and Cboe Launch Extended Options Trading Hours",
-      "title_zh": "纽交所与 Cboe 延长期权交易时段",
-      "hook_en": "Imagine adjusting your trades before breakfast or right after dinner. Major exchanges are now making that possible for options on top stocks like Nvidia and Apple.",
-      "hook_zh": "早餐前或晚饭后也能调仓：主要交易所开始为英伟达、苹果等热门标的提供更长的期权交易时间。",
-      "summary_en": "Cboe and the New York Stock Exchange began offering pre-market options trading from 7:30 a.m. to 9:25 a.m. ET and post-market sessions starting October 19, covering high-volume names like Nvidia, Apple, Amazon, and key ETFs such as SPY and IWM. These changes meet growing demand from retail and institutional investors for more flexibility in managing positions outside regular hours, with the included options representing 53% of daily U.S. volume. Traders have mixed views—some appreciate the access, while others worry about risks like lower liquidity; NYSE plans 23-hour trading by December 6.",
-      "summary_zh": "自 10 月 19 日起，Cboe 与纽约证券交易所为英伟达、苹果、亚马逊及 SPY、IWM 等活跃 ETF 提供美东时间早盘 7:30–9:25 的期权交易，并增设盘后时段，以满足散户与机构在常规时段外管理仓位的需求；相关期权约占美国日成交量的 53%。交易者看法不一：有人欢迎更多入口，有人担心流动性偏低等风险。纽交所计划到 12 月 6 日实现约 23 小时交易。",
-      "body_en": "NYSE and Cboe Launch Extended Options Trading Hours.\n\nImagine adjusting your trades before breakfast or right after dinner. Major exchanges are now making that possible for options on top stocks like Nvidia and Apple.\n\nCboe and the New York Stock Exchange began offering pre-market options trading from 7:30 a.m. to 9:25 a.m. ET and post-market sessions starting October 19, covering high-volume names like Nvidia, Apple, Amazon, and key ETFs such as SPY and IWM.\n\nThese changes meet growing demand from retail and institutional investors for more flexibility in managing positions outside regular hours, with the included options representing 53% of daily U.S. volume. Traders have mixed views—some appreciate the access, while others worry about risks like lower liquidity; NYSE plans 23-hour trading by December 6.",
-      "body_zh": "纽交所与 Cboe 延长期权交易时段。\n\n早餐前或晚饭后也能调仓：主要交易所开始为英伟达、苹果等热门标的提供更长的期权交易时间。\n\n自 10 月 19 日起，Cboe 与纽约证券交易所为英伟达、苹果、亚马逊及 SPY、IWM 等活跃 ETF 提供美东时间早盘 7:30–9:25 的期权交易，并增设盘后时段，以满足散户与机构在常规时段外管理仓位的需求；相关期权约占美国日成交量的 53%。\n\n交易者看法不一：有人欢迎更多入口，有人担心流动性偏低等风险。纽交所计划到 12 月 6 日实现约 23 小时交易。",
-      "url": "https://x.com/i/trending/2112213035615990082",
-      "category": "News",
-      "topics": [
-        "Business & Finance",
-        "Stocks"
-      ],
-      "updated_at": "2026-10-20T05:34:56.000Z"
-    },
-    {
-      "id": "2112533925725610232",
-      "domain": "商业",
-      "title_en": "South Korean AI Firm's IPO Flop Hits U.S. Neocloud Stocks",
-      "title_zh": "韩国 AI 公司 IPO 首日暴跌，拖累美国 neocloud 股价",
-      "hook_en": "Elice Inc. raised $151 million in a hyped Seoul IPO, only to crash 32% on day one—the worst for a major Korean listing.",
-      "hook_zh": "Elice Inc. 在首尔高调 IPO 募得约 1.51 亿美元，首日却跌约 32%，创韩国大型新股近年最差开局之一。",
-      "summary_en": "The little-known South Korean AI infrastructure company saw retail demand exceed shares 400 times, yet closed at 61,500 won, well below its 90,500 won price. This triggered a selloff in U.S. neocloud stocks renting GPU power for AI, with IREN down 7%, Cipher Digital near 7%, WhiteFiber around 6%, CoreWeave about 5%, and Nebius Group roughly 5% at points. While Elice tripled revenue and turned profitable in the first half, the debut revived doubts over justifying massive data center spending amid rising borrowing costs; one investor bought the IREN dip aggressively.",
-      "summary_zh": "这家相对冷门的韩国 AI 基础设施公司零售认购倍数高达约 400 倍，但收盘报 61500 韩元，远低于发行价 90500 韩元。消息牵动美国出租 GPU 算力的 neocloud 板块：IREN 一度跌约 7%，Cipher Digital 近 7%，WhiteFiber 约 6%，CoreWeave 约 5%，Nebius Group 约 5%。尽管 Elice 上半年营收约增两倍并扭亏为盈，首日表现仍令市场重新质疑高借贷成本下大规模数据中心支出是否划算；也有投资者趁 IREN 回调积极买入。",
-      "body_en": "South Korean AI Firm's IPO Flop Hits U.S. Neocloud Stocks.\n\nElice Inc. raised $151 million in a hyped Seoul IPO, only to crash 32% on day one—the worst for a major Korean listing.\n\nThe little-known South Korean AI infrastructure company saw retail demand exceed shares 400 times, yet closed at 61,500 won, well below its 90,500 won price. This triggered a selloff in U.S.\n\nneocloud stocks renting GPU power for AI, with IREN down 7%, Cipher Digital near 7%, WhiteFiber around 6%, CoreWeave about 5%, and Nebius Group roughly 5% at points. While Elice tripled revenue and turned profitable in the first half, the debut revived doubts over justifying massive data center spending amid rising borrowing costs; one investor bought the IREN dip aggressively.",
-      "body_zh": "韩国 AI 公司 IPO 首日暴跌，拖累美国 neocloud 股价。\n\nElice Inc. 在首尔高调 IPO 募得约 1.51 亿美元，首日却跌约 32%，创韩国大型新股近年最差开局之一。\n\n这家相对冷门的韩国 AI 基础设施公司零售认购倍数高达约 400 倍，但收盘报 61500 韩元，远低于发行价 90500 韩元。\n\n消息牵动美国出租 GPU 算力的 neocloud 板块：IREN 一度跌约 7%，Cipher Digital 近 7%，WhiteFiber 约 6%，CoreWeave 约 5%，Nebius Group 约 5%。尽管 Elice 上半年营收约增两倍并扭亏为盈，首日表现仍令市场重新质疑高借贷成本下大规模数据中心支出是否划算；也有投资者趁 IREN 回调积极买入。",
-      "url": "https://x.com/i/trending/2112533925725610232",
-      "category": "News",
-      "topics": [
-        "Technology",
-        "Business & Finance"
-      ],
-      "updated_at": "2026-10-20T16:00:58.000Z"
-    },
-    {
       "id": "2112329486242873542",
       "domain": "商业",
       "title_en": "QQQ Hangs Near Key Support After Volatile Week",
@@ -480,6 +385,24 @@
         "Stocks"
       ],
       "updated_at": "2026-10-19T23:51:32.000Z"
+    },
+    {
+      "id": "2112795003680342391",
+      "domain": "商业",
+      "title_en": "S&P 500's Top 15 Stocks Hit Record 46.7% Share",
+      "title_zh": "标普 500 前 15 大股权重创纪录达 46.7%",
+      "hook_en": "A handful of tech giants now steer the entire S&P 500, with Nvidia alone claiming 7.5% of the index's value. Everyday investors in broad funds might not realize how much they're riding on these leaders.",
+      "hook_zh": "少数科技巨头主导整个标普 500，仅英伟达就占指数市值约 7.5%。买宽基基金的普通投资者未必意识到自己有多依赖这些龙头。",
+      "summary_en": "The 15 largest S&P 500 stocks account for a record 46.7% of the index's total market value, far exceeding the 27.2% seen at the 2000 dot-com peak. Nvidia tops the list at 7.5%, followed by Apple at 7.1%, Alphabet at 5.9%, and Microsoft at 5.6%, with these four alone making up 26.1%. The top five equal the market cap of the bottom 434 companies, prompting market watchers to question diversification in popular index funds and ETFs. While some highlight the leaders' strong cash flows, others note that any slowdown could hit passive portfolios hard.",
+      "summary_zh": "标普 500 最大的 15 只股票合计占指数总市值创纪录的 46.7%，远超 2000 年互联网泡沫顶峰时的 27.2%。英伟达以 7.5% 居首，苹果 7.1%、Alphabet 5.9%、微软 5.6%，四家合计 26.1%。前五名市值相当于后 434 家之和，引发对热门指数基金与 ETF「分散」成色的质疑。有人强调龙头现金流强劲，也有人警告一旦放缓，被动组合将承压。",
+      "body_en": "S&P 500's Top 15 Stocks Hit Record 46.7% Share.\n\nA handful of tech giants now steer the entire S&P 500, with Nvidia alone claiming 7.5% of the index's value. Everyday investors in broad funds might not realize how much they're riding on these leaders.\n\nThe 15 largest S&P 500 stocks account for a record 46.7% of the index's total market value, far exceeding the 27.2% seen at the 2000 dot-com peak. Nvidia tops the list at 7.5%, followed by Apple at 7.1%, Alphabet at 5.9%, and Microsoft at 5.6%, with these four alone making up 26.1%.\n\nThe top five equal the market cap of the bottom 434 companies, prompting market watchers to question diversification in popular index funds and ETFs. While some highlight the leaders' strong cash flows, others note that any slowdown could hit passive portfolios hard.",
+      "body_zh": "标普 500 前 15 大股权重创纪录达 46.7%。\n\n少数科技巨头主导整个标普 500，仅英伟达就占指数市值约 7.5%。买宽基基金的普通投资者未必意识到自己有多依赖这些龙头。\n\n标普 500 最大的 15 只股票合计占指数总市值创纪录的 46.7%，远超 2000 年互联网泡沫顶峰时的 27.2%。英伟达以 7.5% 居首，苹果 7.1%、Alphabet 5.9%、微软 5.6%，四家合计 26.1%。\n\n前五名市值相当于后 434 家之和，引发对热门指数基金与 ETF「分散」成色的质疑。有人强调龙头现金流强劲，也有人警告一旦放缓，被动组合将承压。",
+      "url": "https://x.com/i/trending/2112795003680342391",
+      "category": "News",
+      "topics": [
+        "Stocks"
+      ],
+      "updated_at": "2026-10-21T06:39:54.000Z"
     },
     {
       "id": "2112308655303327781",
@@ -501,6 +424,80 @@
       "updated_at": "2026-10-19T22:30:56.000Z"
     },
     {
+      "id": "2111849088182599772",
+      "domain": "商业",
+      "title_en": "Wall Street Braces for Key Earnings Week Testing AI Rally",
+      "title_zh": "华尔街迎关键财报周，AI 行情面临考验",
+      "hook_en": "Investors hold their breath as Netflix and SpaceX report Tuesday, with Tesla and Meta up next—earnings that could make or break the AI stock surge.",
+      "hook_zh": "奈飞、SpaceX 率先亮相，特斯拉与 Meta 紧随其后，或决定本轮 AI 股价行情走向。",
+      "summary_en": "Around 15% of S&P 500 companies, including Netflix after Tuesday's close, Tesla and Meta on Wednesday, and SpaceX alongside others, will share results amid Wall Street's extreme fear, with the CNN Fear & Greed Index at a low 18. Eyes are on AI spending, forward guidance, subscriber trends for Netflix, Starlink growth for SpaceX, Tesla's vehicle deliveries and autonomy, plus Meta's data-center investments. Economic data like jobless claims and consumer sentiment will add pressure before the Fed's late-October decision, setting up potential volatility as markets weigh heavy AI capex against recent tech pullbacks.",
+      "summary_zh": "约 15% 的标普 500 公司将公布业绩，包括周二盘后奈飞，周三特斯拉与 Meta，以及 SpaceX 等。CNN 恐惧与贪婪指数低至 18，市场处于极度恐慌区间。焦点集中在 AI 开支与前瞻指引、奈飞订户、Starlink 增长、特斯拉交付与自动驾驶，以及 Meta 数据中心投入。失业救济与消费者信心等经济数据亦将出炉，美联储月底决议前波动或加剧。",
+      "body_en": "Wall Street Braces for Key Earnings Week Testing AI Rally.\n\nInvestors hold their breath as Netflix and SpaceX report Tuesday, with Tesla and Meta up next—earnings that could make or break the AI stock surge.\n\nAround 15% of S&P 500 companies, including Netflix after Tuesday's close, Tesla and Meta on Wednesday, and SpaceX alongside others, will share results amid Wall Street's extreme fear, with the CNN Fear & Greed Index at a low 18.\n\nEyes are on AI spending, forward guidance, subscriber trends for Netflix, Starlink growth for SpaceX, Tesla's vehicle deliveries and autonomy, plus Meta's data-center investments. Economic data like jobless claims and consumer sentiment will add pressure before the Fed's late-October decision, setting up potential volatility as markets weigh heavy AI capex against recent tech pullbacks.",
+      "body_zh": "华尔街迎关键财报周，AI 行情面临考验。\n\n奈飞、SpaceX 率先亮相，特斯拉与 Meta 紧随其后，或决定本轮 AI 股价行情走向。\n\n约 15% 的标普 500 公司将公布业绩，包括周二盘后奈飞，周三特斯拉与 Meta，以及 SpaceX 等。CNN 恐惧与贪婪指数低至 18，市场处于极度恐慌区间。\n\n焦点集中在 AI 开支与前瞻指引、奈飞订户、Starlink 增长、特斯拉交付与自动驾驶，以及 Meta 数据中心投入。失业救济与消费者信心等经济数据亦将出炉，美联储月底决议前波动或加剧。",
+      "url": "https://x.com/i/trending/2111849088182599772",
+      "category": "News",
+      "topics": [
+        "Business & Finance"
+      ],
+      "updated_at": "2026-10-19T10:49:21.000Z"
+    },
+    {
+      "id": "2112190708920537480",
+      "domain": "商业",
+      "title_en": "AI Stocks Hit 49% of S&P 500, Echoing 1880s Railroad Peak",
+      "title_zh": "AI 股占标普 500 近半，接近 1880 年代铁路股峰值",
+      "hook_en": "AI stocks now dominate nearly half the S&P 500, a level unseen since railroads ruled markets in the 1880s. Investors wonder if this signals true revolution or another bubble about to burst.",
+      "hook_zh": "AI 相关股票已占标普 500 近一半权重，为 1880 年代铁路股称霸市场以来所未见。投资者争论这是真正的产业革命，还是又一次即将破裂的泡沫。",
+      "summary_en": "AI-related stocks make up 49% of the S&P 500, with the top 10 names holding a record 42% share, surpassing most historical peaks except the 1880s railroad boom. Jamie Dimon sees a booming economy fueled by AI infrastructure spending projected at $1 trillion next year, while Michael Novogratz labels it the biggest bubble of our lifetime. Red flags include a Shiller CAPE ratio near 41, narrow leadership from Nvidia, Apple, and Microsoft at 21% of the index, and only 29% of companies outperforming amid last week's sharp Nasdaq drop. The split pits valuation worries against bets on lasting productivity gains.",
+      "summary_zh": "AI 相关股票约占标普 500 的 49%，前十大成分股权重创纪录达 42%，仅次于 19 世纪铁路繁荣时期的历史峰值。杰米·戴蒙看好由明年约 1 万亿美元 AI 基建开支驱动的经济扩张，迈克尔·诺沃格拉茨则称其为「我们这一生最大的泡沫」。警示信号包括席勒 CAPE 接近 41、英伟达、苹果与微软合计约占指数 21% 的窄幅领涨，以及上周纳指大跌背景下仅 29% 公司跑赢大盘。市场在估值担忧与长期生产率押注之间分裂。",
+      "body_en": "AI Stocks Hit 49% of S&P 500, Echoing 1880s Railroad Peak.\n\nAI stocks now dominate nearly half the S&P 500, a level unseen since railroads ruled markets in the 1880s. Investors wonder if this signals true revolution or another bubble about to burst.\n\nAI-related stocks make up 49% of the S&P 500, with the top 10 names holding a record 42% share, surpassing most historical peaks except the 1880s railroad boom. Jamie Dimon sees a booming economy fueled by AI infrastructure spending projected at $1 trillion next year, while Michael Novogratz labels it the biggest bubble of our lifetime.\n\nRed flags include a Shiller CAPE ratio near 41, narrow leadership from Nvidia, Apple, and Microsoft at 21% of the index, and only 29% of companies outperforming amid last week's sharp Nasdaq drop. The split pits valuation worries against bets on lasting productivity gains.",
+      "body_zh": "AI 股占标普 500 近半，接近 1880 年代铁路股峰值。\n\nAI 相关股票已占标普 500 近一半权重，为 1880 年代铁路股称霸市场以来所未见。投资者争论这是真正的产业革命，还是又一次即将破裂的泡沫。\n\nAI 相关股票约占标普 500 的 49%，前十大成分股权重创纪录达 42%，仅次于 19 世纪铁路繁荣时期的历史峰值。杰米·戴蒙看好由明年约 1 万亿美元 AI 基建开支驱动的经济扩张，迈克尔·诺沃格拉茨则称其为「我们这一生最大的泡沫」。\n\n警示信号包括席勒 CAPE 接近 41、英伟达、苹果与微软合计约占指数 21% 的窄幅领涨，以及上周纳指大跌背景下仅 29% 公司跑赢大盘。市场在估值担忧与长期生产率押注之间分裂。",
+      "url": "https://x.com/i/trending/2112190708920537480",
+      "category": "News",
+      "topics": [
+        "Technology",
+        "AI",
+        "Business & Finance"
+      ],
+      "updated_at": "2026-10-19T14:42:06.000Z"
+    },
+    {
+      "id": "2112234396476477579",
+      "domain": "商业",
+      "title_en": "Nigeria's Central Bank Reforms Steady Economy Amid Trade-offs",
+      "title_zh": "尼日利亚央行改革稳住经济，亦有取舍",
+      "hook_en": "Economist John Olanipekun from Osun State breaks down how Nigeria's central bank turned tough reforms into real gains for everyday people.",
+      "hook_zh": "奥孙州经济学家约翰·奥拉尼佩昆拆解尼日利亚央行如何把艰难改革转化为普通人可感的收获。",
+      "summary_en": "Since 2023, Nigeria ended petrol subsidies, freed its foreign-exchange market, and stopped central bank deficit financing, sparking higher inflation over 30 percent and a weaker naira. The Central Bank raised its policy rate sharply to 27.5 percent and kept cash reserves at 45 percent, bringing inflation down to 15.4 percent, reserves above $50 billion, a steadier currency, and growth near 4 percent. Olanipekun explains that central banks shape bread prices, bus fares, and job chances through tools like interest rates, balancing stable prices against credit and employment risks—no easy choices.",
+      "summary_zh": "自 2023 年起，尼日利亚取消燃油补贴、放开外汇市场并停止央行赤字融资，一度推高通胀逾 30%、奈拉走弱。央行将政策利率大幅提至 27.5%，并维持 45% 现金准备金，使通胀回落至 15.4%，外汇储备逾 500 亿美元，汇率更稳，增长约 4%。奥拉尼佩昆指出，央行通过利率等工具影响面包价格、公交票价与就业机会，需在物价稳定与信贷、就业风险间权衡——没有轻松选项。",
+      "body_en": "Nigeria's Central Bank Reforms Steady Economy Amid Trade-offs.\n\nEconomist John Olanipekun from Osun State breaks down how Nigeria's central bank turned tough reforms into real gains for everyday people.\n\nSince 2023, Nigeria ended petrol subsidies, freed its foreign-exchange market, and stopped central bank deficit financing, sparking higher inflation over 30 percent and a weaker naira.\n\nThe Central Bank raised its policy rate sharply to 27.5 percent and kept cash reserves at 45 percent, bringing inflation down to 15.4 percent, reserves above $50 billion, a steadier currency, and growth near 4 percent. Olanipekun explains that central banks shape bread prices, bus fares, and job chances through tools like interest rates, balancing stable prices against credit and employment risks—no easy choices.",
+      "body_zh": "尼日利亚央行改革稳住经济，亦有取舍。\n\n奥孙州经济学家约翰·奥拉尼佩昆拆解尼日利亚央行如何把艰难改革转化为普通人可感的收获。\n\n自 2023 年起，尼日利亚取消燃油补贴、放开外汇市场并停止央行赤字融资，一度推高通胀逾 30%、奈拉走弱。\n\n央行将政策利率大幅提至 27.5%，并维持 45% 现金准备金，使通胀回落至 15.4%，外汇储备逾 500 亿美元，汇率更稳，增长约 4%。奥拉尼佩昆指出，央行通过利率等工具影响面包价格、公交票价与就业机会，需在物价稳定与信贷、就业风险间权衡——没有轻松选项。",
+      "url": "https://x.com/i/trending/2112234396476477579",
+      "category": "News",
+      "topics": [
+        "Business & Finance"
+      ],
+      "updated_at": "2026-10-19T20:43:40.000Z"
+    },
+    {
+      "id": "2112429980550639631",
+      "domain": "商业",
+      "title_en": "J.P. Morgan Forecasts Bitcoin's Top Long-Term Returns Among Major Assets",
+      "title_zh": "摩根大通首次预测比特币长期回报将领跑主要资产",
+      "hook_en": "J.P. Morgan has crunched the numbers on Bitcoin for the first time in its 31st annual report, predicting it will outpace stocks, gold, and bonds over the next decade or more.",
+      "hook_zh": "摩根大通在第 31 份年度报告中首次测算比特币，预计其未来十年及以上回报将超过股票、黄金与债券。",
+      "summary_en": "The bank's base case sees Bitcoin delivering a 10% compound annual return from its late-September 2026 price near $83,000, pointing to about $215,000 after 10 years—beating U.S. large-cap stocks at 7.5% and gold at 5.5%. While noting Bitcoin's high 55% volatility and excluding it from portfolio models, the inclusion signals traditional finance warming to crypto. Bitcoin advocates like Michael Saylor and Matt Hougan celebrated the milestone, with strong ETF inflows like BlackRock's $665 million day underscoring growing institutional interest.",
+      "summary_zh": "该行基准情形假设比特币自 2026 年 9 月末约 8.3 万美元起价，年化复合回报约 10%，十年后约合 21.5 万美元，高于美股大盘约 7.5% 与黄金约 5.5%。报告同时指出比特币约 55% 的高波动性，且未将其纳入组合模型，但「入表」本身被视为传统金融对加密资产态度转暖的信号。迈克尔·塞勒与马特·霍根等人士为此喝彩；贝莱德单日约 6.65 亿美元的 ETF 流入也凸显机构兴趣上升。",
+      "body_en": "J.P. Morgan Forecasts Bitcoin's Top Long-Term Returns Among Major Assets.\n\nJ.P. Morgan has crunched the numbers on Bitcoin for the first time in its 31st annual report, predicting it will outpace stocks, gold, and bonds over the next decade or more.\n\nThe bank's base case sees Bitcoin delivering a 10% compound annual return from its late-September 2026 price near $83,000, pointing to about $215,000 after 10 years—beating U.S. large-cap stocks at 7.5% and gold at 5.5%.\n\nWhile noting Bitcoin's high 55% volatility and excluding it from portfolio models, the inclusion signals traditional finance warming to crypto. Bitcoin advocates like Michael Saylor and Matt Hougan celebrated the milestone, with strong ETF inflows like BlackRock's $665 million day underscoring growing institutional interest.",
+      "body_zh": "摩根大通首次预测比特币长期回报将领跑主要资产。\n\n摩根大通在第 31 份年度报告中首次测算比特币，预计其未来十年及以上回报将超过股票、黄金与债券。\n\n该行基准情形假设比特币自 2026 年 9 月末约 8.3 万美元起价，年化复合回报约 10%，十年后约合 21.5 万美元，高于美股大盘约 7.5% 与黄金约 5.5%。\n\n报告同时指出比特币约 55% 的高波动性，且未将其纳入组合模型，但「入表」本身被视为传统金融对加密资产态度转暖的信号。迈克尔·塞勒与马特·霍根等人士为此喝彩；贝莱德单日约 6.65 亿美元的 ETF 流入也凸显机构兴趣上升。",
+      "url": "https://x.com/i/trending/2112429980550639631",
+      "category": "News",
+      "topics": [
+        "Cryptocurrency"
+      ],
+      "updated_at": "2026-10-21T09:44:16.000Z"
+    },
+    {
       "id": "2112486884211650655",
       "domain": "中国",
       "title_en": "Sindh CM Secures 34 China Deals at Shanghai Conference",
@@ -517,24 +514,6 @@
         "Politics"
       ],
       "updated_at": "2026-10-20T13:25:56.000Z"
-    },
-    {
-      "id": "2112810342728323293",
-      "domain": "中国",
-      "title_en": "China Replaces Metro Ads with Portraits of Scientists",
-      "title_zh": "中国多地用科学家肖像替换地铁商业广告",
-      "hook_en": "Imagine stepping into a metro station where giant screens honor scientists like hybrid rice pioneer Yuan Longping instead of flashy ads. It's a simple swap that's getting people talking about role models.",
-      "hook_zh": "走进地铁站，巨型屏幕上是杂交水稻先驱袁隆平等科学家，而非炫目广告。这一简单替换引来关于榜样的讨论。",
-      "summary_en": "China has started replacing advertisements on large public screens in metro stations, malls, and other spaces with portraits of renowned scientists such as agronomist Yuan Longping, Nobel winner Tu Youyou for malaria treatment, rocket expert Qian Xuesen, and nuclear physicist Deng Jiaxian. The initiative began in Shandong province in August 2026 and spread to cities like Zhengzhou and Chongqing, especially around national holidays, with businesses voluntarily dedicating the space to celebrate scientific achievements and inspire the next generation. Videos of these displays have sparked online conversations in places like India, where some contrast it with local public messaging and call for emulating the focus on innovation over commercial noise.",
-      "summary_zh": "中国开始在地铁站、商场等公共大屏用著名科学家肖像替换广告，包括农学家袁隆平、因疟疾治疗获诺奖的屠呦呦、火箭专家钱学森、核物理学家邓稼先等。举措 2026 年 8 月起自山东推开，并扩展至郑州、重庆等城市，尤其在国庆等节点，企业自愿腾出空间致敬科学成就、激励下一代。相关视频在印度等地引发讨论，有人对比本地公共传播，呼吁更重视创新而非商业喧嚣。",
-      "body_en": "China Replaces Metro Ads with Portraits of Scientists.\n\nImagine stepping into a metro station where giant screens honor scientists like hybrid rice pioneer Yuan Longping instead of flashy ads. It's a simple swap that's getting people talking about role models.\n\nChina has started replacing advertisements on large public screens in metro stations, malls, and other spaces with portraits of renowned scientists such as agronomist Yuan Longping, Nobel winner Tu Youyou for malaria treatment, rocket expert Qian Xuesen, and nuclear physicist Deng Jiaxian.\n\nThe initiative began in Shandong province in August 2026 and spread to cities like Zhengzhou and Chongqing, especially around national holidays, with businesses voluntarily dedicating the space to celebrate scientific achievements and inspire the next generation. Videos of these displays have sparked online conversations in places like India, where some contrast it with local public messaging and call for emulating the focus on innovation over commercial noise.",
-      "body_zh": "中国多地用科学家肖像替换地铁商业广告。\n\n走进地铁站，巨型屏幕上是杂交水稻先驱袁隆平等科学家，而非炫目广告。这一简单替换引来关于榜样的讨论。\n\n中国开始在地铁站、商场等公共大屏用著名科学家肖像替换广告，包括农学家袁隆平、因疟疾治疗获诺奖的屠呦呦、火箭专家钱学森、核物理学家邓稼先等。举措 2026 年 8 月起自山东推开，并扩展至郑州、重庆等城市，尤其在国庆等节点，企业自愿腾出空间致敬科学成就、激励下一代。\n\n相关视频在印度等地引发讨论，有人对比本地公共传播，呼吁更重视创新而非商业喧嚣。",
-      "url": "https://x.com/i/trending/2112810342728323293",
-      "category": "News",
-      "topics": [
-        "Celebrity"
-      ],
-      "updated_at": "2026-10-21T07:40:42.000Z"
     },
     {
       "id": "2112022699237310708",
@@ -555,24 +534,6 @@
       "updated_at": "2026-10-20T03:21:48.000Z"
     },
     {
-      "id": "2112405151768100963",
-      "domain": "中国",
-      "title_en": "Philippine Senators Push to Expel Chinese Ambassador Over Threatening Remarks",
-      "title_zh": "菲律宾参议员推动驱逐中国大使",
-      "hook_en": "Chinese Ambassador Jing Quan boasted that China could 'easily win' any conflict with the Philippines, igniting calls from senators to send him packing.",
-      "hook_zh": "中国大使景泉称中国可「轻松打赢」与菲冲突，引发参议员要求将其驱逐。",
-      "summary_en": "Senators Risa Hontiveros and Erwin Tulfo filed resolutions on October 20 and the day before, urging President Marcos to declare Ambassador Jing persona non grata or request his recall from Beijing. The remarks responded to Defense Secretary Gilberto Teodoro Jr. labeling China a regional troublemaker, prompting the Chinese Embassy's taunting social media posts like 'You are now on the list' targeting critics. The Department of Foreign Affairs summoned Jing on October 19, calling his words a provocative threat amid ongoing West Philippine Sea tensions, though Marcos prefers diplomatic talks over expulsion.",
-      "summary_zh": "参议员洪蒂维罗斯与图尔福于 10 月 20 日前后提交决议，敦促马科斯总统宣布大使为不受欢迎人士或要求北京召回。言论回应菲防长称中国为地区麻烦制造者，中国使馆随后在社媒发出「你已上榜」等嘲讽帖。外交部 10 月 19 日召见景泉，称其言论具挑衅性；马科斯更倾向外交沟通而非驱逐。",
-      "body_en": "Philippine Senators Push to Expel Chinese Ambassador Over Threatening Remarks.\n\nChinese Ambassador Jing Quan boasted that China could 'easily win' any conflict with the Philippines, igniting calls from senators to send him packing.\n\nSenators Risa Hontiveros and Erwin Tulfo filed resolutions on October 20 and the day before, urging President Marcos to declare Ambassador Jing persona non grata or request his recall from Beijing. The remarks responded to Defense Secretary Gilberto Teodoro Jr.\n\nlabeling China a regional troublemaker, prompting the Chinese Embassy's taunting social media posts like 'You are now on the list' targeting critics. The Department of Foreign Affairs summoned Jing on October 19, calling his words a provocative threat amid ongoing West Philippine Sea tensions, though Marcos prefers diplomatic talks over expulsion.",
-      "body_zh": "菲律宾参议员推动驱逐中国大使。\n\n中国大使景泉称中国可「轻松打赢」与菲冲突，引发参议员要求将其驱逐。\n\n参议员洪蒂维罗斯与图尔福于 10 月 20 日前后提交决议，敦促马科斯总统宣布大使为不受欢迎人士或要求北京召回。言论回应菲防长称中国为地区麻烦制造者，中国使馆随后在社媒发出「你已上榜」等嘲讽帖。\n\n外交部 10 月 19 日召见景泉，称其言论具挑衅性；马科斯更倾向外交沟通而非驱逐。",
-      "url": "https://x.com/i/trending/2112405151768100963",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-20T20:16:46.000Z"
-    },
-    {
       "id": "2112572571275370804",
       "domain": "中国",
       "title_en": "Japan Faces Yttrium Shortage, Seeks US Help Against China Curbs",
@@ -589,6 +550,42 @@
         "Business & Finance"
       ],
       "updated_at": "2026-10-20T19:24:35.000Z"
+    },
+    {
+      "id": "2112810342728323293",
+      "domain": "中国",
+      "title_en": "China Replaces Billboards with Scientists' Portraits in Major Cities",
+      "title_zh": "中国多地用科学家肖像替换地铁商业广告",
+      "hook_en": "Rocket scientist Qian Xuesen's giant portrait now greets shoppers in a Heze mall, replacing flashy ads with faces of national heroes.",
+      "hook_zh": "走进地铁站，巨型屏幕上是杂交水稻先驱袁隆平等科学家，而非炫目广告。这一简单替换引来关于榜样的讨论。",
+      "summary_en": "Since August 2026, cities like Heze, Zhengzhou, and Chongqing have filled public screens in malls, metros, and plazas with portraits of scientists such as Qian Xuesen, Yuan Longping, and Tu Youyou, complete with notes on their breakthroughs in rockets, rice, and malaria drugs. Local venues made these voluntary changes, often timed for holidays to highlight achievements in science and defense. The shift has sparked online talk about honoring innovators over celebrities and what public spaces say about a society's values.",
+      "summary_zh": "中国开始在地铁站、商场等公共大屏用著名科学家肖像替换广告，包括农学家袁隆平、因疟疾治疗获诺奖的屠呦呦、火箭专家钱学森、核物理学家邓稼先等。举措 2026 年 8 月起自山东推开，并扩展至郑州、重庆等城市，尤其在国庆等节点，企业自愿腾出空间致敬科学成就、激励下一代。相关视频在印度等地引发讨论，有人对比本地公共传播，呼吁更重视创新而非商业喧嚣。",
+      "body_en": "China Replaces Metro Ads with Portraits of Scientists.\n\nImagine stepping into a metro station where giant screens honor scientists like hybrid rice pioneer Yuan Longping instead of flashy ads. It's a simple swap that's getting people talking about role models.\n\nChina has started replacing advertisements on large public screens in metro stations, malls, and other spaces with portraits of renowned scientists such as agronomist Yuan Longping, Nobel winner Tu Youyou for malaria treatment, rocket expert Qian Xuesen, and nuclear physicist Deng Jiaxian.\n\nThe initiative began in Shandong province in August 2026 and spread to cities like Zhengzhou and Chongqing, especially around national holidays, with businesses voluntarily dedicating the space to celebrate scientific achievements and inspire the next generation. Videos of these displays have sparked online conversations in places like India, where some contrast it with local public messaging and call for emulating the focus on innovation over commercial noise.",
+      "body_zh": "中国多地用科学家肖像替换地铁商业广告。\n\n走进地铁站，巨型屏幕上是杂交水稻先驱袁隆平等科学家，而非炫目广告。这一简单替换引来关于榜样的讨论。\n\n中国开始在地铁站、商场等公共大屏用著名科学家肖像替换广告，包括农学家袁隆平、因疟疾治疗获诺奖的屠呦呦、火箭专家钱学森、核物理学家邓稼先等。举措 2026 年 8 月起自山东推开，并扩展至郑州、重庆等城市，尤其在国庆等节点，企业自愿腾出空间致敬科学成就、激励下一代。\n\n相关视频在印度等地引发讨论，有人对比本地公共传播，呼吁更重视创新而非商业喧嚣。",
+      "url": "https://x.com/i/trending/2112810342728323293",
+      "category": "News",
+      "topics": [
+        "News"
+      ],
+      "updated_at": "2026-10-21T10:44:04.000Z"
+    },
+    {
+      "id": "2112405151768100963",
+      "domain": "中国",
+      "title_en": "Philippine Senators Push to Expel Chinese Ambassador Over Sea Threat",
+      "title_zh": "菲律宾参议员推动驱逐中国大使",
+      "hook_en": "Chinese Ambassador Jing Quan's words hung heavy: China could 'easily win' with force in the West Philippine Sea, though it prefers peace. Philippine senators fired back, demanding he be sent home.",
+      "hook_zh": "中国大使景泉称中国可「轻松打赢」与菲冲突，引发参议员要求将其驱逐。",
+      "summary_en": "Senators Risa Hontiveros and Erwin Tulfo filed resolutions urging President Marcos to declare Ambassador Jing persona non grata after his remarks, seen as a veiled threat amid China's vessel harassment and illegal fishing in Philippine waters. The Department of Foreign Affairs summoned Jing to protest, while Senator Kiko Pangilinan sharply challenged Marcos to act decisively. The Chinese Embassy hit back by listing critical lawmakers online, but Malacañang favors diplomatic channels over expulsion to avoid escalation.",
+      "summary_zh": "参议员洪蒂维罗斯与图尔福于 10 月 20 日前后提交决议，敦促马科斯总统宣布大使为不受欢迎人士或要求北京召回。言论回应菲防长称中国为地区麻烦制造者，中国使馆随后在社媒发出「你已上榜」等嘲讽帖。外交部 10 月 19 日召见景泉，称其言论具挑衅性；马科斯更倾向外交沟通而非驱逐。",
+      "body_en": "Philippine Senators Push to Expel Chinese Ambassador Over Threatening Remarks.\n\nChinese Ambassador Jing Quan boasted that China could 'easily win' any conflict with the Philippines, igniting calls from senators to send him packing.\n\nSenators Risa Hontiveros and Erwin Tulfo filed resolutions on October 20 and the day before, urging President Marcos to declare Ambassador Jing persona non grata or request his recall from Beijing. The remarks responded to Defense Secretary Gilberto Teodoro Jr.\n\nlabeling China a regional troublemaker, prompting the Chinese Embassy's taunting social media posts like 'You are now on the list' targeting critics. The Department of Foreign Affairs summoned Jing on October 19, calling his words a provocative threat amid ongoing West Philippine Sea tensions, though Marcos prefers diplomatic talks over expulsion.",
+      "body_zh": "菲律宾参议员推动驱逐中国大使。\n\n中国大使景泉称中国可「轻松打赢」与菲冲突，引发参议员要求将其驱逐。\n\n参议员洪蒂维罗斯与图尔福于 10 月 20 日前后提交决议，敦促马科斯总统宣布大使为不受欢迎人士或要求北京召回。言论回应菲防长称中国为地区麻烦制造者，中国使馆随后在社媒发出「你已上榜」等嘲讽帖。\n\n外交部 10 月 19 日召见景泉，称其言论具挑衅性；马科斯更倾向外交沟通而非驱逐。",
+      "url": "https://x.com/i/trending/2112405151768100963",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-21T10:24:16.000Z"
     },
     {
       "id": "2112161836116132305",
@@ -629,6 +626,25 @@
       "updated_at": "2026-10-20T15:35:04.000Z"
     },
     {
+      "id": "2112595600831033552",
+      "domain": "中国",
+      "title_en": "Micron Shares Slide Amid Chart Warnings and Taiwan Strike",
+      "title_zh": "美光股价回落：图表示警叠加台湾一日罢工",
+      "hook_en": "Micron's stock has tumbled from over $1,250 in June to around $880-$910, leaving traders glued to key support levels like $877-$880.",
+      "hook_zh": "美光股价自 6 月逾 1250 美元跌至约 880–910 美元，交易者紧盯 877–880 美元等关键支撑。",
+      "summary_en": "The memory chipmaker faces a volatile pullback, with analysts spotting bear flag breakdowns on charts and potential drops toward $725 if support fails. Bulls watch for a rebound above $920-$930, backed by strong Q4 results showing massive revenue growth from AI-driven high-bandwidth memory demand and a new $35.16 billion buyback starting December 9. Short-term worries include a one-day strike by Taiwan's Taoyuan union on October 22 over bonuses, adding uncertainty at key manufacturing sites.",
+      "summary_zh": "这家存储芯片商正经历剧烈回调，分析师指出图表上出现熊旗破位迹象，若支撑失守或下看约 725 美元。多头则等待重返 920–930 美元上方，依据包括第四季度强劲业绩——AI 驱动高带宽内存需求带动营收大增——以及自 12 月 9 日起总额约 351.6 亿美元的新回购。短期扰动还包括台湾桃园工会计划 10 月 22 日就奖金问题举行一日罢工，给关键制造节点增添不确定性。",
+      "body_en": "Micron Shares Slide Amid Chart Warnings and Taiwan Strike.\n\nMicron's stock has tumbled from over $1,250 in June to around $880-$910, leaving traders glued to key support levels like $877-$880.\n\nThe memory chipmaker faces a volatile pullback, with analysts spotting bear flag breakdowns on charts and potential drops toward $725 if support fails.\n\nBulls watch for a rebound above $920-$930, backed by strong Q4 results showing massive revenue growth from AI-driven high-bandwidth memory demand and a new $35.16 billion buyback starting December 9. Short-term worries include a one-day strike by Taiwan's Taoyuan union on October 22 over bonuses, adding uncertainty at key manufacturing sites.",
+      "body_zh": "美光股价回落：图表示警叠加台湾一日罢工。\n\n美光股价自 6 月逾 1250 美元跌至约 880–910 美元，交易者紧盯 877–880 美元等关键支撑。\n\n这家存储芯片商正经历剧烈回调，分析师指出图表上出现熊旗破位迹象，若支撑失守或下看约 725 美元。\n\n多头则等待重返 920–930 美元上方，依据包括第四季度强劲业绩——AI 驱动高带宽内存需求带动营收大增——以及自 12 月 9 日起总额约 351.6 亿美元的新回购。短期扰动还包括台湾桃园工会计划 10 月 22 日就奖金问题举行一日罢工，给关键制造节点增添不确定性。",
+      "url": "https://x.com/i/trending/2112595600831033552",
+      "category": "News",
+      "topics": [
+        "Business & Finance",
+        "Stocks"
+      ],
+      "updated_at": "2026-10-20T17:33:15.000Z"
+    },
+    {
       "id": "2112579117904535807",
       "domain": "中国",
       "title_en": "Micron Funds New York Minerals Processing for AI Chip Supplies",
@@ -666,43 +682,6 @@
       "updated_at": "2026-10-20T13:07:49.000Z"
     },
     {
-      "id": "2111675287083651489",
-      "domain": "中国",
-      "title_en": "Philippines and China Clash Over Ambassador's Force Remarks",
-      "title_zh": "菲中因大使“武力”言论再起外交摩擦",
-      "hook_en": "Chinese Ambassador Jing Quan told a Manila forum that China could 'easily win' any force against the Philippines but loves peace instead. Philippine officials saw it as a threat, summoning him to protest.",
-      "hook_zh": "中国驻菲大使称中方若动武可“轻松取胜”但更爱和平；菲方视为威胁并召见抗议。",
-      "summary_en": "On October 15, Ambassador Jing made the comments amid South China Sea tensions, prompting Foreign Secretary Ma. Theresa Lazaro to summon him on October 19 and object strongly. The Chinese Embassy hit back at calls to declare him persona non grata, calling them old tricks and warning of reciprocity. While some senators push the measure and President Marcos Jr. prefers diplomacy, the exchange highlights fragile ties in the West Philippine Sea.",
-      "summary_zh": "10 月 15 日，景泉大使在南海紧张背景下发表上述言论；外长 Lazaro 于 10 月 19 日召见并强烈反对。中国使馆回击要求将其列为不受欢迎人物的呼声，称其为旧伎俩并警告对等措施。部分参议员推动驱逐，马科斯总统更倾向外交沟通，凸显西菲律宾海问题上的脆弱关系。",
-      "body_en": "Philippines and China Clash Over Ambassador's Force Remarks.\n\nChinese Ambassador Jing Quan told a Manila forum that China could 'easily win' any force against the Philippines but loves peace instead. Philippine officials saw it as a threat, summoning him to protest.\n\nOn October 15, Ambassador Jing made the comments amid South China Sea tensions, prompting Foreign Secretary Ma. Theresa Lazaro to summon him on October 19 and object strongly.\n\nThe Chinese Embassy hit back at calls to declare him persona non grata, calling them old tricks and warning of reciprocity. While some senators push the measure and President Marcos Jr. prefers diplomacy, the exchange highlights fragile ties in the West Philippine Sea.",
-      "body_zh": "菲中因大使“武力”言论再起外交摩擦。\n\n中国驻菲大使称中方若动武可“轻松取胜”但更爱和平；菲方视为威胁并召见抗议。\n\n10 月 15 日，景泉大使在南海紧张背景下发表上述言论；外长 Lazaro 于 10 月 19 日召见并强烈反对。\n\n中国使馆回击要求将其列为不受欢迎人物的呼声，称其为旧伎俩并警告对等措施。部分参议员推动驱逐，马科斯总统更倾向外交沟通，凸显西菲律宾海问题上的脆弱关系。",
-      "url": "https://x.com/i/trending/2111675287083651489",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-19T16:15:02.000Z"
-    },
-    {
-      "id": "2112595600831033552",
-      "domain": "中国",
-      "title_en": "Micron Shares Slide Amid Chart Warnings and Taiwan Strike",
-      "title_zh": "美光股价回落：图表示警叠加台湾一日罢工",
-      "hook_en": "Micron's stock has tumbled from over $1,250 in June to around $880-$910, leaving traders glued to key support levels like $877-$880.",
-      "hook_zh": "美光股价自 6 月逾 1250 美元跌至约 880–910 美元，交易者紧盯 877–880 美元等关键支撑。",
-      "summary_en": "The memory chipmaker faces a volatile pullback, with analysts spotting bear flag breakdowns on charts and potential drops toward $725 if support fails. Bulls watch for a rebound above $920-$930, backed by strong Q4 results showing massive revenue growth from AI-driven high-bandwidth memory demand and a new $35.16 billion buyback starting December 9. Short-term worries include a one-day strike by Taiwan's Taoyuan union on October 22 over bonuses, adding uncertainty at key manufacturing sites.",
-      "summary_zh": "这家存储芯片商正经历剧烈回调，分析师指出图表上出现熊旗破位迹象，若支撑失守或下看约 725 美元。多头则等待重返 920–930 美元上方，依据包括第四季度强劲业绩——AI 驱动高带宽内存需求带动营收大增——以及自 12 月 9 日起总额约 351.6 亿美元的新回购。短期扰动还包括台湾桃园工会计划 10 月 22 日就奖金问题举行一日罢工，给关键制造节点增添不确定性。",
-      "body_en": "Micron Shares Slide Amid Chart Warnings and Taiwan Strike.\n\nMicron's stock has tumbled from over $1,250 in June to around $880-$910, leaving traders glued to key support levels like $877-$880.\n\nThe memory chipmaker faces a volatile pullback, with analysts spotting bear flag breakdowns on charts and potential drops toward $725 if support fails.\n\nBulls watch for a rebound above $920-$930, backed by strong Q4 results showing massive revenue growth from AI-driven high-bandwidth memory demand and a new $35.16 billion buyback starting December 9. Short-term worries include a one-day strike by Taiwan's Taoyuan union on October 22 over bonuses, adding uncertainty at key manufacturing sites.",
-      "body_zh": "美光股价回落：图表示警叠加台湾一日罢工。\n\n美光股价自 6 月逾 1250 美元跌至约 880–910 美元，交易者紧盯 877–880 美元等关键支撑。\n\n这家存储芯片商正经历剧烈回调，分析师指出图表上出现熊旗破位迹象，若支撑失守或下看约 725 美元。\n\n多头则等待重返 920–930 美元上方，依据包括第四季度强劲业绩——AI 驱动高带宽内存需求带动营收大增——以及自 12 月 9 日起总额约 351.6 亿美元的新回购。短期扰动还包括台湾桃园工会计划 10 月 22 日就奖金问题举行一日罢工，给关键制造节点增添不确定性。",
-      "url": "https://x.com/i/trending/2112595600831033552",
-      "category": "News",
-      "topics": [
-        "Business & Finance",
-        "Stocks"
-      ],
-      "updated_at": "2026-10-20T17:33:15.000Z"
-    },
-    {
       "id": "2112741572102242464",
       "domain": "中国",
       "title_en": "Japan's September Trade Deficit Widens to ¥536.6 Billion",
@@ -721,22 +700,40 @@
       "updated_at": "2026-10-21T03:08:30.000Z"
     },
     {
-      "id": "2112450617138659781",
+      "id": "2111675287083651489",
       "domain": "中国",
-      "title_en": "Wang Yibo Shares North China Leopard Expedition at Beijing Premiere",
-      "title_zh": "王一博北京首映分享华北豹科考经历",
-      "hook_en": "Wang Yibo beamed with pride at the Beijing premiere when he learned his infrared camera had captured a rare North China leopard in the wild.",
-      "hook_zh": "得知红外相机拍到稀有华北豹，王一博在北京首映礼上难掩自豪。",
-      "summary_en": "The Chinese actor and WildAid ambassador attended the media premiere for 'Defenders of the Hidden 2: Land of Leopards' on October 20 in Beijing, recounting his 10-to-15-day high-altitude shoot in Qinghai where he wielded a professional Canon camera for the first time and set up wildlife cams. The series spotlights the North China leopard's habitat struggles and human-wildlife harmony efforts, with the first episode streaming on Tencent Video October 24 and the second on October 31. Yibo urged fans to reject products from endangered species, holding a framed leopard photo amid warm event cheers.",
-      "summary_zh": "这位演员兼 WildAid 大使出席纪录片《隐秘的捍卫者 2：豹之境》媒体首映，讲述在青海海拔地区拍摄 10 至 15 天、首次使用专业佳能相机并布设野生动物相机的经历。系列聚焦华北豹栖息地压力与人兽和谐，第一集 10 月 24 日腾讯视频上线，第二集 10 月 31 日播出。他呼吁拒绝濒危物种制品，现场手持装裱豹照回应粉丝欢呼。",
-      "body_en": "Wang Yibo Shares North China Leopard Expedition at Beijing Premiere.\n\nWang Yibo beamed with pride at the Beijing premiere when he learned his infrared camera had captured a rare North China leopard in the wild.\n\nThe Chinese actor and WildAid ambassador attended the media premiere for 'Defenders of the Hidden 2: Land of Leopards' on October 20 in Beijing, recounting his 10-to-15-day high-altitude shoot in Qinghai where he wielded a professional Canon camera for the first time and set up wildlife cams.\n\nThe series spotlights the North China leopard's habitat struggles and human-wildlife harmony efforts, with the first episode streaming on Tencent Video October 24 and the second on October 31. Yibo urged fans to reject products from endangered species, holding a framed leopard photo amid warm event cheers.",
-      "body_zh": "王一博北京首映分享华北豹科考经历。\n\n得知红外相机拍到稀有华北豹，王一博在北京首映礼上难掩自豪。\n\n这位演员兼 WildAid 大使出席纪录片《隐秘的捍卫者 2：豹之境》媒体首映，讲述在青海海拔地区拍摄 10 至 15 天、首次使用专业佳能相机并布设野生动物相机的经历。\n\n系列聚焦华北豹栖息地压力与人兽和谐，第一集 10 月 24 日腾讯视频上线，第二集 10 月 31 日播出。他呼吁拒绝濒危物种制品，现场手持装裱豹照回应粉丝欢呼。",
-      "url": "https://x.com/i/trending/2112450617138659781",
-      "category": "Entertainment",
+      "title_en": "Philippines and China Clash Over Ambassador's Force Remarks",
+      "title_zh": "菲中因大使“武力”言论再起外交摩擦",
+      "hook_en": "Chinese Ambassador Jing Quan told a Manila forum that China could 'easily win' any force against the Philippines but loves peace instead. Philippine officials saw it as a threat, summoning him to protest.",
+      "hook_zh": "中国驻菲大使称中方若动武可“轻松取胜”但更爱和平；菲方视为威胁并召见抗议。",
+      "summary_en": "On October 15, Ambassador Jing made the comments amid South China Sea tensions, prompting Foreign Secretary Ma. Theresa Lazaro to summon him on October 19 and object strongly. The Chinese Embassy hit back at calls to declare him persona non grata, calling them old tricks and warning of reciprocity. While some senators push the measure and President Marcos Jr. prefers diplomacy, the exchange highlights fragile ties in the West Philippine Sea.",
+      "summary_zh": "10 月 15 日，景泉大使在南海紧张背景下发表上述言论；外长 Lazaro 于 10 月 19 日召见并强烈反对。中国使馆回击要求将其列为不受欢迎人物的呼声，称其为旧伎俩并警告对等措施。部分参议员推动驱逐，马科斯总统更倾向外交沟通，凸显西菲律宾海问题上的脆弱关系。",
+      "body_en": "Philippines and China Clash Over Ambassador's Force Remarks.\n\nChinese Ambassador Jing Quan told a Manila forum that China could 'easily win' any force against the Philippines but loves peace instead. Philippine officials saw it as a threat, summoning him to protest.\n\nOn October 15, Ambassador Jing made the comments amid South China Sea tensions, prompting Foreign Secretary Ma. Theresa Lazaro to summon him on October 19 and object strongly.\n\nThe Chinese Embassy hit back at calls to declare him persona non grata, calling them old tricks and warning of reciprocity. While some senators push the measure and President Marcos Jr. prefers diplomacy, the exchange highlights fragile ties in the West Philippine Sea.",
+      "body_zh": "菲中因大使“武力”言论再起外交摩擦。\n\n中国驻菲大使称中方若动武可“轻松取胜”但更爱和平；菲方视为威胁并召见抗议。\n\n10 月 15 日，景泉大使在南海紧张背景下发表上述言论；外长 Lazaro 于 10 月 19 日召见并强烈反对。\n\n中国使馆回击要求将其列为不受欢迎人物的呼声，称其为旧伎俩并警告对等措施。部分参议员推动驱逐，马科斯总统更倾向外交沟通，凸显西菲律宾海问题上的脆弱关系。",
+      "url": "https://x.com/i/trending/2111675287083651489",
+      "category": "News",
       "topics": [
-        "Celebrity"
+        "Politics"
       ],
-      "updated_at": "2026-10-20T17:18:13.000Z"
+      "updated_at": "2026-10-19T16:15:02.000Z"
+    },
+    {
+      "id": "2112003183275090362",
+      "domain": "中国",
+      "title_en": "China's Economy Grows Faster Than Expected Amid Record Stock Slump",
+      "title_zh": "中国经济增速超预期，股市却创最长连跌",
+      "hook_en": "China's GDP beat forecasts in Q3, offering a bright spot even as stocks hit their longest losing streak ever.",
+      "hook_zh": "三季度 GDP 好于预期，A 股却录得史上最长连跌。",
+      "summary_en": "Official data showed 4.5% year-on-year growth in the third quarter, topping estimates of 4.4% and lifting the first nine months to 4.6%, within Beijing's annual target. Industrial output rose 5.5% in September, retail sales gained 1.1%, and a $133.5 billion trade surplus provided support, driven by tech exports tied to global AI demand. Yet the CSI 300 index fell for 10 straight weeks, its worst streak, as domestic demand stayed soft with property woes and weak consumer spending. Economists see the rebound easing stimulus pressure but question its staying power.",
+      "summary_zh": "三季度同比增长 4.5%，高于 4.4% 预期；工业增加值增 5.5%，但内需疲软令沪深 300 连续 10 周下跌。",
+      "body_en": "China's Economy Grows Faster Than Expected Amid Record Stock Slump.\n\nChina's GDP beat forecasts in Q3, offering a bright spot even as stocks hit their longest losing streak ever.\n\nOfficial data showed 4.5% year-on-year growth in the third quarter, topping estimates of 4.4% and lifting the first nine months to 4.6%, within Beijing's annual target. Industrial output rose 5.5% in September, retail sales gained 1.1%, and a $133.5 billion trade surplus provided support, driven by tech exports tied to global AI demand.\n\nYet the CSI 300 index fell for 10 straight weeks, its worst streak, as domestic demand stayed soft with property woes and weak consumer spending. Economists see the rebound easing stimulus pressure but question its staying power.",
+      "body_zh": "中国经济增速超预期，股市却创最长连跌。\n\n三季度 GDP 好于预期，A 股却录得史上最长连跌。\n\n三季度同比增长 4.5%，高于 4.4% 预期；工业增加值增 5.5%，但内需疲软令沪深 300 连续 10 周下跌。",
+      "url": "https://x.com/i/trending/2112003183275090362",
+      "category": "News",
+      "topics": [
+        "Business & Finance"
+      ],
+      "updated_at": "2026-10-20T10:15:42.000Z"
     },
     {
       "id": "2112296384745631848",
@@ -757,6 +754,24 @@
       "updated_at": "2026-10-20T14:03:55.000Z"
     },
     {
+      "id": "2112302146825949613",
+      "domain": "国际",
+      "title_en": "Republican Lawmakers Criticize Trump Waiver of Russia Sanctions",
+      "title_zh": "共和党议员批评特朗普豁免对俄制裁条款",
+      "hook_en": "Congressman Max Miller, representing a district with thousands of Ukrainian Americans, called out the Trump administration for waiving sanctions meant to punish Russia over Ukraine.",
+      "hook_zh": "选区有大量乌克兰裔选民的众议员马克斯·米勒，公开批评特朗普政府豁免本用于惩罚俄罗斯侵乌的制裁条款。",
+      "summary_en": "Reps. Max Miller of Ohio and Jeff Hurd of Colorado sharply criticized the Trump administration's decision to waive key provisions of the bipartisan Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which Congress passed in September to cut Russia's war funding through tariffs and economic measures. Trump cited national interests like lowering U.S. energy prices and advancing peace talks, but the lawmakers argued it eases pressure on Moscow amid its ongoing attacks on Ukraine without real concessions. The move has sparked mixed reactions, with some praising the critics and others prioritizing domestic issues, highlighting GOP tensions over Ukraine support and energy costs ahead of midterms.",
+      "summary_zh": "俄亥俄州众议员马克斯·米勒与科罗拉多州杰夫·赫德，尖锐批评特朗普政府豁免两党《2026 年林赛·格雷厄姆制裁俄罗斯与伊朗法》关键条款；该法于 9 月通过，拟以关税与经济手段削弱俄战争资金。特朗普以降低美国能源价格、推动和谈等「国家利益」为由，议员则认为在莫斯科未作实质让步、仍持续攻乌之际放松压力。反应分化：有人赞赏批评声音，有人更看重国内议题，凸显中期选举前共和党内在挺乌与能源成本上的张力。",
+      "body_en": "Republican Lawmakers Criticize Trump Waiver of Russia Sanctions.\n\nCongressman Max Miller, representing a district with thousands of Ukrainian Americans, called out the Trump administration for waiving sanctions meant to punish Russia over Ukraine.\n\nReps. Max Miller of Ohio and Jeff Hurd of Colorado sharply criticized the Trump administration's decision to waive key provisions of the bipartisan Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which Congress passed in September to cut Russia's war funding through tariffs and economic measures.\n\nTrump cited national interests like lowering U.S. energy prices and advancing peace talks, but the lawmakers argued it eases pressure on Moscow amid its ongoing attacks on Ukraine without real concessions. The move has sparked mixed reactions, with some praising the critics and others prioritizing domestic issues, highlighting GOP tensions over Ukraine support and energy costs ahead of midterms.",
+      "body_zh": "共和党议员批评特朗普豁免对俄制裁条款。\n\n选区有大量乌克兰裔选民的众议员马克斯·米勒，公开批评特朗普政府豁免本用于惩罚俄罗斯侵乌的制裁条款。\n\n俄亥俄州众议员马克斯·米勒与科罗拉多州杰夫·赫德，尖锐批评特朗普政府豁免两党《2026 年林赛·格雷厄姆制裁俄罗斯与伊朗法》关键条款；该法于 9 月通过，拟以关税与经济手段削弱俄战争资金。\n\n特朗普以降低美国能源价格、推动和谈等「国家利益」为由，议员则认为在莫斯科未作实质让步、仍持续攻乌之际放松压力。反应分化：有人赞赏批评声音，有人更看重国内议题，凸显中期选举前共和党内在挺乌与能源成本上的张力。",
+      "url": "https://x.com/i/trending/2112302146825949613",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-19T22:08:39.000Z"
+    },
+    {
       "id": "2112460842902151394",
       "domain": "国际",
       "title_en": "Lawmakers Back Ukraine Aid Amid Online Backlash from Trump Supporters",
@@ -773,6 +788,42 @@
         "Politics"
       ],
       "updated_at": "2026-10-20T08:32:59.000Z"
+    },
+    {
+      "id": "2112660061600309523",
+      "domain": "国际",
+      "title_en": "U.S. Security Officials Quietly Advise States on Midterm Election Risks",
+      "title_zh": "美安全官员低调向多州通报中期选举风险",
+      "hook_en": "A small group of Defense Department officials has spent months discreetly consulting with governors and lawmakers in 10 states, preparing for scenarios like federal troops at polling places.",
+      "hook_zh": "一小群国防部相关官员数月来悄然咨询约 10 个州的州长与议员，为投票站出现联邦部队等情景做准备。",
+      "summary_en": "Roughly 10 current and former officials have advised bipartisan election administrators and members of Congress on potential Trump administration actions, such as immigration agents at polls or attempts to nullify results over fraud claims. The effort focuses on closely contested states that could sway congressional control, with participants citing concerns for election integrity and speaking anonymously due to retaliation fears. Reactions split sharply, with some praising it as vital contingency planning and others questioning the unelected group's secretive role amid broader tensions over federal versus state authority.",
+      "summary_zh": "约 10 名现任与前任官员，向两党选举官员与国会议员通报特朗普政府可能采取的行动，例如移民执法人员出现在投票站，或借舞弊指控试图否定结果。重点放在可能左右国会控制权的摇摆州；参与者称关切选举完整性，并因担心报复而匿名发声。反应尖锐对立：有人视之为必要预案，也有人质疑这群非选举产生人士的秘密角色，以及联邦与州权之间的紧张。",
+      "body_en": "U.S. Security Officials Quietly Advise States on Midterm Election Risks.\n\nA small group of Defense Department officials has spent months discreetly consulting with governors and lawmakers in 10 states, preparing for scenarios like federal troops at polling places.\n\nRoughly 10 current and former officials have advised bipartisan election administrators and members of Congress on potential Trump administration actions, such as immigration agents at polls or attempts to nullify results over fraud claims.\n\nThe effort focuses on closely contested states that could sway congressional control, with participants citing concerns for election integrity and speaking anonymously due to retaliation fears. Reactions split sharply, with some praising it as vital contingency planning and others questioning the unelected group's secretive role amid broader tensions over federal versus state authority.",
+      "body_zh": "美安全官员低调向多州通报中期选举风险。\n\n一小群国防部相关官员数月来悄然咨询约 10 个州的州长与议员，为投票站出现联邦部队等情景做准备。\n\n约 10 名现任与前任官员，向两党选举官员与国会议员通报特朗普政府可能采取的行动，例如移民执法人员出现在投票站，或借舞弊指控试图否定结果。\n\n重点放在可能左右国会控制权的摇摆州；参与者称关切选举完整性，并因担心报复而匿名发声。反应尖锐对立：有人视之为必要预案，也有人质疑这群非选举产生人士的秘密角色，以及联邦与州权之间的紧张。",
+      "url": "https://x.com/i/trending/2112660061600309523",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-21T09:36:45.000Z"
+    },
+    {
+      "id": "2112442700796690870",
+      "domain": "国际",
+      "title_en": "Online Debate Heats Up Over Ukraine's Status as U.S. Ally",
+      "title_zh": "乌克兰是否算美国「盟友」引网络激辩",
+      "hook_en": "Congresswoman Madeleine Dean called Ukraine a key ally amid Washington's cooling ties with Kyiv. Conservative voices fired back, questioning any formal bond.",
+      "hook_zh": "众议员玛德琳·迪恩称乌克兰是关键盟友，恰逢华盛顿与基辅关系降温；保守派则追问有无正式同盟关系。",
+      "summary_en": "The argument centers on whether Ukraine counts as a U.S. ally, with no mutual defense treaty, NATO membership, or Major Non-NATO Ally designation. Posts clash over history too: Ukraine inherited Soviet nukes in 1991, gave them up under the 1994 Budapest Memorandum for security promises from the U.S., U.K., and Russia—but those pledges didn't stop invasions in 2014 or 2022. Recent tensions spiked in mid-October 2026 when President Trump criticized Zelenskyy, eased Russia sanctions, and pushed for peace, cooling U.S.-Ukraine relations and fueling views of Ukraine as either a vital partner or a non-ally in a pricey proxy war.",
+      "summary_zh": "争论核心在于乌克兰是否算美国盟友：双方并无共同防御条约、北约成员身份或「主要非北约盟友」认定。历史也成焦点：乌克兰 1991 年继承苏联核武，却依 1994 年《布达佩斯备忘录》放弃核武，换取美英俄安全承诺，但未能阻止 2014 与 2022 年入侵。2026 年 10 月中旬特朗普批评泽连斯基、放松对俄制裁并推动和谈，美乌关系降温，网络上「关键伙伴」与「昂贵代理人战争中的非盟友」两种叙事激烈对撞。",
+      "body_en": "Online Debate Heats Up Over Ukraine's Status as U.S. Ally.\n\nCongresswoman Madeleine Dean called Ukraine a key ally amid Washington's cooling ties with Kyiv. Conservative voices fired back, questioning any formal bond.\n\nThe argument centers on whether Ukraine counts as a U.S. ally, with no mutual defense treaty, NATO membership, or Major Non-NATO Ally designation.\n\nPosts clash over history too: Ukraine inherited Soviet nukes in 1991, gave them up under the 1994 Budapest Memorandum for security promises from the U.S., U.K., and Russia—but those pledges didn't stop invasions in 2014 or 2022. Recent tensions spiked in mid-October 2026 when President Trump criticized Zelenskyy, eased Russia sanctions, and pushed for peace, cooling U.S.-Ukraine relations and fueling views of Ukraine as either a vital partner or a non-ally in a pricey proxy war.",
+      "body_zh": "乌克兰是否算美国「盟友」引网络激辩。\n\n众议员玛德琳·迪恩称乌克兰是关键盟友，恰逢华盛顿与基辅关系降温；保守派则追问有无正式同盟关系。\n\n争论核心在于乌克兰是否算美国盟友：双方并无共同防御条约、北约成员身份或「主要非北约盟友」认定。\n\n历史也成焦点：乌克兰 1991 年继承苏联核武，却依 1994 年《布达佩斯备忘录》放弃核武，换取美英俄安全承诺，但未能阻止 2014 与 2022 年入侵。2026 年 10 月中旬特朗普批评泽连斯基、放松对俄制裁并推动和谈，美乌关系降温，网络上「关键伙伴」与「昂贵代理人战争中的非盟友」两种叙事激烈对撞。",
+      "url": "https://x.com/i/trending/2112442700796690870",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-20T20:56:58.000Z"
     },
     {
       "id": "2112501506905710732",
@@ -830,6 +881,24 @@
       "updated_at": "2026-10-20T11:01:54.000Z"
     },
     {
+      "id": "2112101207397601450",
+      "domain": "国际",
+      "title_en": "Trump Administration Delays Patriot Missiles for Ukraine Amid Russian Attacks",
+      "title_zh": "欧洲已付款的爱国者导弹，美方迟迟未交乌克兰",
+      "hook_en": "As Russian missiles pound Ukrainian cities, President Zelenskyy pleads for urgent U.S. approval on Patriot interceptors that allies have already paid for and are ready to ship.",
+      "hook_zh": "乌克兰面临弹道导弹打击，爱国者拦截弹告急，而欧洲盟友已为增援付款。",
+      "summary_en": "Ukrainian officials report critically low Patriot interceptor stocks, vital for shielding civilians from Russian ballistic missiles and drones, while European partners await U.S. sign-off on transfers of the American-made weapons. Zelenskyy appealed directly to U.S. leaders for the missiles, early warning intelligence, and restored Starlink services, describing talks with Secretary Rubio as constructive with follow-up planned. Critics like Rep. Mike Levin and Sen. Thom Tillis blast the delays as a betrayal that weakens Ukraine's defenses, while administration officials call obstruction claims outrageous and attribute issues to technical matters. Both sides stress pursuing diplomacy to end the war, with Zelenskyy open to trilateral talks.",
+      "summary_zh": "尽管欧洲已付款，爱国者导弹移交仍待国防部长签字；泽连斯基在俄军袭击背景下向鲁比奥国务卿强调紧迫性。",
+      "body_en": "Trump Administration Delays Patriot Missiles for Ukraine Amid Russian Attacks.\n\nAs Russian missiles pound Ukrainian cities, President Zelenskyy pleads for urgent U.S. approval on Patriot interceptors that allies have already paid for and are ready to ship.\n\nUkrainian officials report critically low Patriot interceptor stocks, vital for shielding civilians from Russian ballistic missiles and drones, while European partners await U.S. sign-off on transfers of the American-made weapons. Zelenskyy appealed directly to U.S. leaders for the missiles, early warning intelligence, and restored Starlink services, describing talks with Secretary Rubio as constructive with follow-up planned.\n\nCritics like Rep. Mike Levin and Sen. Thom Tillis blast the delays as a betrayal that weakens Ukraine's defenses, while administration officials call obstruction claims outrageous and attribute issues to technical matters. Both sides stress pursuing diplomacy to end the war, with Zelenskyy open to trilateral talks.",
+      "body_zh": "欧洲已付款的爱国者导弹，美方迟迟未交乌克兰。\n\n乌克兰面临弹道导弹打击，爱国者拦截弹告急，而欧洲盟友已为增援付款。\n\n尽管欧洲已付款，爱国者导弹移交仍待国防部长签字；泽连斯基在俄军袭击背景下向鲁比奥国务卿强调紧迫性。",
+      "url": "https://x.com/i/trending/2112101207397601450",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-21T07:28:55.000Z"
+    },
+    {
       "id": "2112749239679820040",
       "domain": "国际",
       "title_en": "CNN Reports Intense Internal Struggles in Trump's White House Ahead of Midterms",
@@ -866,104 +935,13 @@
       "updated_at": "2026-10-20T21:20:55.000Z"
     },
     {
-      "id": "2112302146825949613",
-      "domain": "国际",
-      "title_en": "Republican Lawmakers Criticize Trump Waiver of Russia Sanctions",
-      "title_zh": "共和党议员批评特朗普豁免对俄制裁条款",
-      "hook_en": "Congressman Max Miller, representing a district with thousands of Ukrainian Americans, called out the Trump administration for waiving sanctions meant to punish Russia over Ukraine.",
-      "hook_zh": "选区有大量乌克兰裔选民的众议员马克斯·米勒，公开批评特朗普政府豁免本用于惩罚俄罗斯侵乌的制裁条款。",
-      "summary_en": "Reps. Max Miller of Ohio and Jeff Hurd of Colorado sharply criticized the Trump administration's decision to waive key provisions of the bipartisan Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which Congress passed in September to cut Russia's war funding through tariffs and economic measures. Trump cited national interests like lowering U.S. energy prices and advancing peace talks, but the lawmakers argued it eases pressure on Moscow amid its ongoing attacks on Ukraine without real concessions. The move has sparked mixed reactions, with some praising the critics and others prioritizing domestic issues, highlighting GOP tensions over Ukraine support and energy costs ahead of midterms.",
-      "summary_zh": "俄亥俄州众议员马克斯·米勒与科罗拉多州杰夫·赫德，尖锐批评特朗普政府豁免两党《2026 年林赛·格雷厄姆制裁俄罗斯与伊朗法》关键条款；该法于 9 月通过，拟以关税与经济手段削弱俄战争资金。特朗普以降低美国能源价格、推动和谈等「国家利益」为由，议员则认为在莫斯科未作实质让步、仍持续攻乌之际放松压力。反应分化：有人赞赏批评声音，有人更看重国内议题，凸显中期选举前共和党内在挺乌与能源成本上的张力。",
-      "body_en": "Republican Lawmakers Criticize Trump Waiver of Russia Sanctions.\n\nCongressman Max Miller, representing a district with thousands of Ukrainian Americans, called out the Trump administration for waiving sanctions meant to punish Russia over Ukraine.\n\nReps. Max Miller of Ohio and Jeff Hurd of Colorado sharply criticized the Trump administration's decision to waive key provisions of the bipartisan Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which Congress passed in September to cut Russia's war funding through tariffs and economic measures.\n\nTrump cited national interests like lowering U.S. energy prices and advancing peace talks, but the lawmakers argued it eases pressure on Moscow amid its ongoing attacks on Ukraine without real concessions. The move has sparked mixed reactions, with some praising the critics and others prioritizing domestic issues, highlighting GOP tensions over Ukraine support and energy costs ahead of midterms.",
-      "body_zh": "共和党议员批评特朗普豁免对俄制裁条款。\n\n选区有大量乌克兰裔选民的众议员马克斯·米勒，公开批评特朗普政府豁免本用于惩罚俄罗斯侵乌的制裁条款。\n\n俄亥俄州众议员马克斯·米勒与科罗拉多州杰夫·赫德，尖锐批评特朗普政府豁免两党《2026 年林赛·格雷厄姆制裁俄罗斯与伊朗法》关键条款；该法于 9 月通过，拟以关税与经济手段削弱俄战争资金。\n\n特朗普以降低美国能源价格、推动和谈等「国家利益」为由，议员则认为在莫斯科未作实质让步、仍持续攻乌之际放松压力。反应分化：有人赞赏批评声音，有人更看重国内议题，凸显中期选举前共和党内在挺乌与能源成本上的张力。",
-      "url": "https://x.com/i/trending/2112302146825949613",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-19T22:08:39.000Z"
-    },
-    {
-      "id": "2112490180208726285",
-      "domain": "国际",
-      "title_en": "Starlink Restrictions Ease Pressure on Russian Supply Highway in Ukraine",
-      "title_zh": "Starlink 限制缓解俄军乌克兰补给公路压力",
-      "hook_en": "Russian bloggers noticed something unusual on the vital R-280 highway: just one truck hit by a Ukrainian drone in two days, a sharp drop they link straight to Starlink slowdowns.",
-      "hook_zh": "俄方博主注意到关键 R-280 公路上两天仅一辆卡车遭乌克兰无人机打击，锐减幅度被直接归因于 Starlink 限速。",
-      "summary_en": "Military bloggers in Russia report fewer Ukrainian drone strikes along the R-280 Novorossiya highway, a key route from Russia to occupied Crimea, with only a single transport vehicle damaged over the past two days. Ukrainian forces say restrictions on Starshield terminals—the military version of Starlink—have crippled their mid-range drone operations up to 150 kilometers behind lines, halting strikes on Russian logistics for troops, ammo, and fuel. While SpaceX's Elon Musk points to U.S. military decisions and President Trump denies any orders, frontline Ukrainian commanders warn the changes feel like a 'nuclear strike,' potentially costing thousands of lives as Russian supply lines recover.",
-      "summary_zh": "俄军事博主称，连接俄罗斯与占领下克里米亚的关键补给线 R-280「新俄罗斯」公路上，乌克兰无人机袭击明显减少，过去两天仅一辆运输车受损。乌方称对 Starshield（军用版 Starlink）终端的限制削弱了后方约 150 公里中程无人机行动，打击俄军人员、弹药与燃油后勤受阻。SpaceX 的埃隆·马斯克指向美军决策，特朗普否认下过相关命令；前线乌军指挥官警告变化「像核打击」，俄补给线恢复或意味着数千人生命代价。",
-      "body_en": "Starlink Restrictions Ease Pressure on Russian Supply Highway in Ukraine.\n\nRussian bloggers noticed something unusual on the vital R-280 highway: just one truck hit by a Ukrainian drone in two days, a sharp drop they link straight to Starlink slowdowns.\n\nMilitary bloggers in Russia report fewer Ukrainian drone strikes along the R-280 Novorossiya highway, a key route from Russia to occupied Crimea, with only a single transport vehicle damaged over the past two days. Ukrainian forces say restrictions on Starshield terminals—the military version of Starlink—have crippled their mid-range drone operations up to 150 kilometers behind lines, halting strikes on Russian logistics for troops, ammo, and fuel.\n\nWhile SpaceX's Elon Musk points to U.S. military decisions and President Trump denies any orders, frontline Ukrainian commanders warn the changes feel like a 'nuclear strike,' potentially costing thousands of lives as Russian supply lines recover.",
-      "body_zh": "Starlink 限制缓解俄军乌克兰补给公路压力。\n\n俄方博主注意到关键 R-280 公路上两天仅一辆卡车遭乌克兰无人机打击，锐减幅度被直接归因于 Starlink 限速。\n\n俄军事博主称，连接俄罗斯与占领下克里米亚的关键补给线 R-280「新俄罗斯」公路上，乌克兰无人机袭击明显减少，过去两天仅一辆运输车受损。\n\n乌方称对 Starshield（军用版 Starlink）终端的限制削弱了后方约 150 公里中程无人机行动，打击俄军人员、弹药与燃油后勤受阻。SpaceX 的埃隆·马斯克指向美军决策，特朗普否认下过相关命令；前线乌军指挥官警告变化「像核打击」，俄补给线恢复或意味着数千人生命代价。",
-      "url": "https://x.com/i/trending/2112490180208726285",
-      "category": "News",
-      "topics": [
-        "News",
-        "Politics"
-      ],
-      "updated_at": "2026-10-20T10:29:10.000Z"
-    },
-    {
-      "id": "2112660061600309523",
-      "domain": "国际",
-      "title_en": "U.S. Security Officials Quietly Advise States on Midterm Election Risks",
-      "title_zh": "美安全官员低调向多州通报中期选举风险",
-      "hook_en": "A small group of Defense Department officials has spent months discreetly consulting with governors and lawmakers in 10 states, preparing for scenarios like federal troops at polling places.",
-      "hook_zh": "一小群国防部相关官员数月来悄然咨询约 10 个州的州长与议员，为投票站出现联邦部队等情景做准备。",
-      "summary_en": "Roughly 10 current and former officials have advised bipartisan election administrators and members of Congress on potential Trump administration actions, such as immigration agents at polls or attempts to nullify results over fraud claims. The effort focuses on closely contested states that could sway congressional control, with participants citing concerns for election integrity and speaking anonymously due to retaliation fears. Reactions split sharply, with some praising it as vital contingency planning and others questioning the unelected group's secretive role amid broader tensions over federal versus state authority.",
-      "summary_zh": "约 10 名现任与前任官员，向两党选举官员与国会议员通报特朗普政府可能采取的行动，例如移民执法人员出现在投票站，或借舞弊指控试图否定结果。重点放在可能左右国会控制权的摇摆州；参与者称关切选举完整性，并因担心报复而匿名发声。反应尖锐对立：有人视之为必要预案，也有人质疑这群非选举产生人士的秘密角色，以及联邦与州权之间的紧张。",
-      "body_en": "U.S. Security Officials Quietly Advise States on Midterm Election Risks.\n\nA small group of Defense Department officials has spent months discreetly consulting with governors and lawmakers in 10 states, preparing for scenarios like federal troops at polling places.\n\nRoughly 10 current and former officials have advised bipartisan election administrators and members of Congress on potential Trump administration actions, such as immigration agents at polls or attempts to nullify results over fraud claims.\n\nThe effort focuses on closely contested states that could sway congressional control, with participants citing concerns for election integrity and speaking anonymously due to retaliation fears. Reactions split sharply, with some praising it as vital contingency planning and others questioning the unelected group's secretive role amid broader tensions over federal versus state authority.",
-      "body_zh": "美安全官员低调向多州通报中期选举风险。\n\n一小群国防部相关官员数月来悄然咨询约 10 个州的州长与议员，为投票站出现联邦部队等情景做准备。\n\n约 10 名现任与前任官员，向两党选举官员与国会议员通报特朗普政府可能采取的行动，例如移民执法人员出现在投票站，或借舞弊指控试图否定结果。\n\n重点放在可能左右国会控制权的摇摆州；参与者称关切选举完整性，并因担心报复而匿名发声。反应尖锐对立：有人视之为必要预案，也有人质疑这群非选举产生人士的秘密角色，以及联邦与州权之间的紧张。",
-      "url": "https://x.com/i/trending/2112660061600309523",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-21T09:36:45.000Z"
-    },
-    {
-      "id": "2112442700796690870",
-      "domain": "国际",
-      "title_en": "Online Debate Heats Up Over Ukraine's Status as U.S. Ally",
-      "title_zh": "乌克兰是否算美国「盟友」引网络激辩",
-      "hook_en": "Congresswoman Madeleine Dean called Ukraine a key ally amid Washington's cooling ties with Kyiv. Conservative voices fired back, questioning any formal bond.",
-      "hook_zh": "众议员玛德琳·迪恩称乌克兰是关键盟友，恰逢华盛顿与基辅关系降温；保守派则追问有无正式同盟关系。",
-      "summary_en": "The argument centers on whether Ukraine counts as a U.S. ally, with no mutual defense treaty, NATO membership, or Major Non-NATO Ally designation. Posts clash over history too: Ukraine inherited Soviet nukes in 1991, gave them up under the 1994 Budapest Memorandum for security promises from the U.S., U.K., and Russia—but those pledges didn't stop invasions in 2014 or 2022. Recent tensions spiked in mid-October 2026 when President Trump criticized Zelenskyy, eased Russia sanctions, and pushed for peace, cooling U.S.-Ukraine relations and fueling views of Ukraine as either a vital partner or a non-ally in a pricey proxy war.",
-      "summary_zh": "争论核心在于乌克兰是否算美国盟友：双方并无共同防御条约、北约成员身份或「主要非北约盟友」认定。历史也成焦点：乌克兰 1991 年继承苏联核武，却依 1994 年《布达佩斯备忘录》放弃核武，换取美英俄安全承诺，但未能阻止 2014 与 2022 年入侵。2026 年 10 月中旬特朗普批评泽连斯基、放松对俄制裁并推动和谈，美乌关系降温，网络上「关键伙伴」与「昂贵代理人战争中的非盟友」两种叙事激烈对撞。",
-      "body_en": "Online Debate Heats Up Over Ukraine's Status as U.S. Ally.\n\nCongresswoman Madeleine Dean called Ukraine a key ally amid Washington's cooling ties with Kyiv. Conservative voices fired back, questioning any formal bond.\n\nThe argument centers on whether Ukraine counts as a U.S. ally, with no mutual defense treaty, NATO membership, or Major Non-NATO Ally designation.\n\nPosts clash over history too: Ukraine inherited Soviet nukes in 1991, gave them up under the 1994 Budapest Memorandum for security promises from the U.S., U.K., and Russia—but those pledges didn't stop invasions in 2014 or 2022. Recent tensions spiked in mid-October 2026 when President Trump criticized Zelenskyy, eased Russia sanctions, and pushed for peace, cooling U.S.-Ukraine relations and fueling views of Ukraine as either a vital partner or a non-ally in a pricey proxy war.",
-      "body_zh": "乌克兰是否算美国「盟友」引网络激辩。\n\n众议员玛德琳·迪恩称乌克兰是关键盟友，恰逢华盛顿与基辅关系降温；保守派则追问有无正式同盟关系。\n\n争论核心在于乌克兰是否算美国盟友：双方并无共同防御条约、北约成员身份或「主要非北约盟友」认定。\n\n历史也成焦点：乌克兰 1991 年继承苏联核武，却依 1994 年《布达佩斯备忘录》放弃核武，换取美英俄安全承诺，但未能阻止 2014 与 2022 年入侵。2026 年 10 月中旬特朗普批评泽连斯基、放松对俄制裁并推动和谈，美乌关系降温，网络上「关键伙伴」与「昂贵代理人战争中的非盟友」两种叙事激烈对撞。",
-      "url": "https://x.com/i/trending/2112442700796690870",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-20T20:56:58.000Z"
-    },
-    {
-      "id": "2112290595213554074",
-      "domain": "国际",
-      "title_en": "Ireland Debates Reforming Triple Lock on Peacekeeping Deployments",
-      "title_zh": "爱尔兰辩论改革维和「三重锁」部署机制",
-      "hook_en": "Taoiseach Micheál Martin fired back in the Dáil: 'How dare you lecture me about Irish neutrality? Russia should not have a veto on Irish participation in peacekeeping.' The exchange captured the chamber's raw tension over neutrality's future.",
-      "hook_zh": "总理马丁在议会回击：「你凭什么教训我爱尔兰中立？俄罗斯不该对爱尔兰参与维和拥有否决权。」现场气氛火药味十足。",
-      "summary_en": "The Irish government is advancing the Defence (Amendment) Bill to scrap the UN mandate requirement in the Triple Lock, which currently needs government approval, a Dáil vote, and UN backing for deploying over 12 Defence Forces members abroad. Proponents like Martin argue it prevents vetoes by powers like Russia or China, safeguarding missions such as Ireland's in Lebanon amid UN gridlock since 2014. Opposition leaders, including Mary Lou McDonald and Peadar Tóibín, decry it as a drift from peacekeeping to EU-aligned military action and demand a referendum, with TDs waving 'Save Neutrality' signs amid public protests.",
-      "summary_zh": "爱尔兰政府推进《国防（修正）法案》，拟废除「三重锁」中的联合国授权要求——目前向海外部署超过 12 名国防军须经政府批准、议会表决与联合国背书。马丁等支持者称可防止俄中等大国否决，保障如黎巴嫩维和等任务，尤其在 2014 年以来联合国僵局下。反对派包括玛丽·卢·麦克唐纳与 Peadar Tóibín 指责此举偏离维和、倒向欧盟军事行动，要求公投；议员挥舞「保卫中立」标语，民间亦有抗议。",
-      "body_en": "Ireland Debates Reforming Triple Lock on Peacekeeping Deployments.\n\nTaoiseach Micheál Martin fired back in the Dáil: 'How dare you lecture me about Irish neutrality? Russia should not have a veto on Irish participation in peacekeeping.' The exchange captured the chamber's raw tension over neutrality's future.\n\nThe Irish government is advancing the Defence (Amendment) Bill to scrap the UN mandate requirement in the Triple Lock, which currently needs government approval, a Dáil vote, and UN backing for deploying over 12 Defence Forces members abroad.\n\nProponents like Martin argue it prevents vetoes by powers like Russia or China, safeguarding missions such as Ireland's in Lebanon amid UN gridlock since 2014. Opposition leaders, including Mary Lou McDonald and Peadar Tóibín, decry it as a drift from peacekeeping to EU-aligned military action and demand a referendum, with TDs waving 'Save Neutrality' signs amid public protests.",
-      "body_zh": "爱尔兰辩论改革维和「三重锁」部署机制。\n\n总理马丁在议会回击：「你凭什么教训我爱尔兰中立？俄罗斯不该对爱尔兰参与维和拥有否决权。」现场气氛火药味十足。\n\n爱尔兰政府推进《国防（修正）法案》，拟废除「三重锁」中的联合国授权要求——目前向海外部署超过 12 名国防军须经政府批准、议会表决与联合国背书。\n\n马丁等支持者称可防止俄中等大国否决，保障如黎巴嫩维和等任务，尤其在 2014 年以来联合国僵局下。反对派包括玛丽·卢·麦克唐纳与 Peadar Tóibín 指责此举偏离维和、倒向欧盟军事行动，要求公投；议员挥舞「保卫中立」标语，民间亦有抗议。",
-      "url": "https://x.com/i/trending/2112290595213554074",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-21T09:30:08.000Z"
-    },
-    {
       "id": "2112813401197998100",
       "domain": "国际",
-      "title_en": "Zelenskyy Mourns Lives and Childhood Lost in Ukraine War",
+      "title_en": "Zelenskyy: Ukraine Losing People and Time, Not the War",
       "title_zh": "泽连斯基缅怀战争中逝去的生命与童年",
-      "hook_en": "In Oslo, Zelenskyy spoke from the heart about children robbed of their childhood and lives slipping away daily from Russian attacks.",
+      "hook_en": "Ukrainian President Volodymyr Zelenskyy spoke from the heart in Oslo, mourning how Russian attacks are robbing children of their childhood and all Ukrainians of normal lives.",
       "hook_zh": "在奥斯陆，泽连斯基动情谈到孩子被夺走的童年，以及俄军袭击下每天消逝的生命。",
-      "summary_en": "On October 20, Ukrainian President Volodymyr Zelenskyy addressed a press conference after meetings with U.S. envoy Steve Witkoff, Norwegian Prime Minister Jonas Gahr Støre, and Finnish President Alexander Stubb. He affirmed Ukraine is not losing the war but highlighted the heavy toll of lost lives, time, and normal childhoods, urging a quick end to the conflict. Zelenskyy praised his soldiers' strength and expressed hope for help from American and European partners toward peace talks and ceasefires. Reactions varied, with some voicing strong support and others calling for negotiations amid the mounting human cost.",
+      "summary_en": "During a joint press conference on October 20 with U.S., Norwegian, and Finnish leaders, Zelenskyy said Ukraine holds strong on the battlefield but suffers heavy losses in people and time from ongoing Russian strikes. He backed an energy ceasefire that Russia ignored and called for quick peace through American and European support, plus security guarantees and possible trilateral talks. His candid words about the human cost drew praise for Ukrainian resilience alongside sharp criticism over prolonging the fight, highlighting deep divides on the war's path forward.",
       "summary_zh": "10 月 20 日，乌克兰总统泽连斯基在会见美特使史蒂夫·威特科夫、挪威首相斯特勒与芬兰总统斯图布后举行记者会。他强调乌克兰并未输掉战争，但指出生命、时间与正常童年代价沉重，呼吁尽快结束冲突。泽连斯基赞扬士兵坚强，并希望美欧伙伴协助迈向和谈与停火。反应不一：有人强烈声援，也有人因人道代价催促谈判。",
       "body_en": "Zelenskyy Mourns Lives and Childhood Lost in Ukraine War.\n\nIn Oslo, Zelenskyy spoke from the heart about children robbed of their childhood and lives slipping away daily from Russian attacks.\n\nOn October 20, Ukrainian President Volodymyr Zelenskyy addressed a press conference after meetings with U.S. envoy Steve Witkoff, Norwegian Prime Minister Jonas Gahr Støre, and Finnish President Alexander Stubb.\n\nHe affirmed Ukraine is not losing the war but highlighted the heavy toll of lost lives, time, and normal childhoods, urging a quick end to the conflict. Zelenskyy praised his soldiers' strength and expressed hope for help from American and European partners toward peace talks and ceasefires. Reactions varied, with some voicing strong support and others calling for negotiations amid the mounting human cost.",
       "body_zh": "泽连斯基缅怀战争中逝去的生命与童年。\n\n在奥斯陆，泽连斯基动情谈到孩子被夺走的童年，以及俄军袭击下每天消逝的生命。\n\n10 月 20 日，乌克兰总统泽连斯基在会见美特使史蒂夫·威特科夫、挪威首相斯特勒与芬兰总统斯图布后举行记者会。他强调乌克兰并未输掉战争，但指出生命、时间与正常童年代价沉重，呼吁尽快结束冲突。\n\n泽连斯基赞扬士兵坚强，并希望美欧伙伴协助迈向和谈与停火。反应不一：有人强烈声援，也有人因人道代价催促谈判。",
@@ -972,7 +950,61 @@
       "topics": [
         "Politics"
       ],
-      "updated_at": "2026-10-21T07:53:42.000Z"
+      "updated_at": "2026-10-21T10:24:27.000Z"
+    },
+    {
+      "id": "2112290595213554074",
+      "domain": "国际",
+      "title_en": "Micheál Martin Defends Triple Lock Reform Amid Neutrality Debate",
+      "title_zh": "爱尔兰辩论改革维和「三重锁」部署机制",
+      "hook_en": "Taoiseach Micheál Martin stood firm in the Dáil, insisting Ireland can keep its peacekeeping legacy without UN vetoes from powers like Russia or China.",
+      "hook_zh": "总理马丁在议会回击：「你凭什么教训我爱尔兰中立？俄罗斯不该对爱尔兰参与维和拥有否决权。」现场气氛火药味十足。",
+      "summary_en": "The government is advancing legislation to scrap the UN approval requirement from Ireland's Triple Lock process for overseas troop deployments of more than 12 Defence Forces members. Currently, deployments need government nod, Dáil vote, and UN backing; the change would drop the last step due to Security Council gridlock. Supporters like Martin cite a 2024 election mandate to update the system while upholding military neutrality, but opposition parties decry it as a sovereignty sellout, with protests and heated Dáil clashes over limited debate time.",
+      "summary_zh": "爱尔兰政府推进《国防（修正）法案》，拟废除「三重锁」中的联合国授权要求——目前向海外部署超过 12 名国防军须经政府批准、议会表决与联合国背书。马丁等支持者称可防止俄中等大国否决，保障如黎巴嫩维和等任务，尤其在 2014 年以来联合国僵局下。反对派包括玛丽·卢·麦克唐纳与 Peadar Tóibín 指责此举偏离维和、倒向欧盟军事行动，要求公投；议员挥舞「保卫中立」标语，民间亦有抗议。",
+      "body_en": "Ireland Debates Reforming Triple Lock on Peacekeeping Deployments.\n\nTaoiseach Micheál Martin fired back in the Dáil: 'How dare you lecture me about Irish neutrality? Russia should not have a veto on Irish participation in peacekeeping.' The exchange captured the chamber's raw tension over neutrality's future.\n\nThe Irish government is advancing the Defence (Amendment) Bill to scrap the UN mandate requirement in the Triple Lock, which currently needs government approval, a Dáil vote, and UN backing for deploying over 12 Defence Forces members abroad.\n\nProponents like Martin argue it prevents vetoes by powers like Russia or China, safeguarding missions such as Ireland's in Lebanon amid UN gridlock since 2014. Opposition leaders, including Mary Lou McDonald and Peadar Tóibín, decry it as a drift from peacekeeping to EU-aligned military action and demand a referendum, with TDs waving 'Save Neutrality' signs amid public protests.",
+      "body_zh": "爱尔兰辩论改革维和「三重锁」部署机制。\n\n总理马丁在议会回击：「你凭什么教训我爱尔兰中立？俄罗斯不该对爱尔兰参与维和拥有否决权。」现场气氛火药味十足。\n\n爱尔兰政府推进《国防（修正）法案》，拟废除「三重锁」中的联合国授权要求——目前向海外部署超过 12 名国防军须经政府批准、议会表决与联合国背书。\n\n马丁等支持者称可防止俄中等大国否决，保障如黎巴嫩维和等任务，尤其在 2014 年以来联合国僵局下。反对派包括玛丽·卢·麦克唐纳与 Peadar Tóibín 指责此举偏离维和、倒向欧盟军事行动，要求公投；议员挥舞「保卫中立」标语，民间亦有抗议。",
+      "url": "https://x.com/i/trending/2112290595213554074",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-21T10:38:43.000Z"
+    },
+    {
+      "id": "2112623559877042588",
+      "domain": "体育",
+      "title_en": "USL Unveils Unified Brand with 'United for Soccer' Slogan",
+      "title_zh": "USL 发布统一品牌，口号「为足球联合」",
+      "hook_en": "The USL just rolled out a fresh look designed to tie together its eight leagues and thousands of players, coaches, and fans across the country.",
+      "hook_zh": "美国足球联赛推出全新视觉，意在串联旗下八条联赛以及全国成千上万球员、教练与球迷。",
+      "summary_en": "On Tuesday, the United Soccer League introduced a new brand identity under the slogan “United for Soccer,” featuring a redesigned mark inspired by soccer ball geometry and an upward stair-step in the “S” for progress. This visual refresh, using consistent USL Blue and soccer-net icons, connects men’s leagues from the upcoming USL Premier in 2028 down to youth levels, plus women’s leagues like Gainbridge Super League and W League. It supports planned promotion and relegation across three professional men’s tiers, creating clearer pathways, with full rollout starting January 2027. Fans and observers have mixed reactions, from excitement over grassroots growth to questions about the design and timeline.",
+      "summary_zh": "周二，United Soccer League 以口号「United for Soccer」发布新品牌标识，设计灵感来自足球几何结构，「S」中向上阶梯象征进步。统一的 USL 蓝与球网图标连接从 2028 年将推出的男子 USL Premier 到青少年层级，以及女子 Gainbridge Super League、W League 等。品牌亦支撑三层男子职业联赛的升降级规划，理顺上升通道，全面落地自 2027 年 1 月起。球迷与观察者反应不一：有人为草根成长欢呼，也有人对设计与时间表存疑。",
+      "body_en": "USL Unveils Unified Brand with 'United for Soccer' Slogan.\n\nThe USL just rolled out a fresh look designed to tie together its eight leagues and thousands of players, coaches, and fans across the country.\n\nOn Tuesday, the United Soccer League introduced a new brand identity under the slogan “United for Soccer,” featuring a redesigned mark inspired by soccer ball geometry and an upward stair-step in the “S” for progress. This visual refresh, using consistent USL Blue and soccer-net icons, connects men’s leagues from the upcoming USL Premier in 2028 down to youth levels, plus women’s leagues like Gainbridge Super League and W League.\n\nIt supports planned promotion and relegation across three professional men’s tiers, creating clearer pathways, with full rollout starting January 2027. Fans and observers have mixed reactions, from excitement over grassroots growth to questions about the design and timeline.",
+      "body_zh": "USL 发布统一品牌，口号「为足球联合」。\n\n美国足球联赛推出全新视觉，意在串联旗下八条联赛以及全国成千上万球员、教练与球迷。\n\n周二，United Soccer League 以口号「United for Soccer」发布新品牌标识，设计灵感来自足球几何结构，「S」中向上阶梯象征进步。统一的 USL 蓝与球网图标连接从 2028 年将推出的男子 USL Premier 到青少年层级，以及女子 Gainbridge Super League、W League 等。\n\n品牌亦支撑三层男子职业联赛的升降级规划，理顺上升通道，全面落地自 2027 年 1 月起。球迷与观察者反应不一：有人为草根成长欢呼，也有人对设计与时间表存疑。",
+      "url": "https://x.com/i/trending/2112623559877042588",
+      "category": "Sports",
+      "topics": [
+        "Soccer"
+      ],
+      "updated_at": "2026-10-21T00:50:39.000Z"
+    },
+    {
+      "id": "2112637280108335380",
+      "domain": "体育",
+      "title_en": "NFL Umpire Larry Smith Tears Quadriceps in Rare Non-Contact Injury at Wembley",
+      "title_zh": "NFL 裁判拉里·史密斯温布利湿草滑倒撕裂股四头肌",
+      "hook_en": "Larry Smith slipped on wet grass between plays, stood briefly, then collapsed clutching his leg—a shocking moment that sidelined the umpire for good this season.",
+      "hook_zh": "拉里·史密斯在死球间隙湿草上滑倒，短暂站起后又捂腿倒下——这一幕令他本赛季提前告别。",
+      "summary_en": "During the Houston Texans-Jacksonville Jaguars game at Wembley Stadium, second-year NFL umpire Larry Smith tore his right quadriceps in a non-contact slip early in the first quarter. Trainers from both teams helped him off the field on a cart, and his crew finished with six officials while splitting his duties. A middle school principal from Kansas City, Kansas, in his full-time job, Smith won't return until 2027, prompting the NFL to seek a replacement like swing official Tab Slaughter or Ian Malepeai for referee Shawn Hochuli’s crew. Veteran line judge Carl Johnson knelt by his side, hat off in what looked like a prayer, as fans shared surprised laughs about refs joining the injury list.",
+      "summary_zh": "休斯顿德州人队对阵杰克逊维尔美洲虎队的温布利比赛中，入行第二年的 NFL 裁判拉里·史密斯在第一节早段非对抗滑倒，右股四头肌撕裂。双方训练人员用球车将其抬离，执法组以六人完赛并分摊其职责。史密斯全职是堪萨斯城一名中学校长，预计要到 2027 年才能复出；联盟将为裁判肖恩·霍楚利组寻找替补，如轮换裁判 Tab Slaughter 或 Ian Malepeai。资深边线裁判卡尔·约翰逊跪其身旁、脱帽似在祈祷；球迷则半开玩笑「连裁判也进伤病名单了」。",
+      "body_en": "NFL Umpire Larry Smith Tears Quadriceps in Rare Non-Contact Injury at Wembley.\n\nLarry Smith slipped on wet grass between plays, stood briefly, then collapsed clutching his leg—a shocking moment that sidelined the umpire for good this season.\n\nDuring the Houston Texans-Jacksonville Jaguars game at Wembley Stadium, second-year NFL umpire Larry Smith tore his right quadriceps in a non-contact slip early in the first quarter. Trainers from both teams helped him off the field on a cart, and his crew finished with six officials while splitting his duties.\n\nA middle school principal from Kansas City, Kansas, in his full-time job, Smith won't return until 2027, prompting the NFL to seek a replacement like swing official Tab Slaughter or Ian Malepeai for referee Shawn Hochuli’s crew. Veteran line judge Carl Johnson knelt by his side, hat off in what looked like a prayer, as fans shared surprised laughs about refs joining the injury list.",
+      "body_zh": "NFL 裁判拉里·史密斯温布利湿草滑倒撕裂股四头肌。\n\n拉里·史密斯在死球间隙湿草上滑倒，短暂站起后又捂腿倒下——这一幕令他本赛季提前告别。\n\n休斯顿德州人队对阵杰克逊维尔美洲虎队的温布利比赛中，入行第二年的 NFL 裁判拉里·史密斯在第一节早段非对抗滑倒，右股四头肌撕裂。双方训练人员用球车将其抬离，执法组以六人完赛并分摊其职责。\n\n史密斯全职是堪萨斯城一名中学校长，预计要到 2027 年才能复出；联盟将为裁判肖恩·霍楚利组寻找替补，如轮换裁判 Tab Slaughter 或 Ian Malepeai。资深边线裁判卡尔·约翰逊跪其身旁、脱帽似在祈祷；球迷则半开玩笑「连裁判也进伤病名单了」。",
+      "url": "https://x.com/i/trending/2112637280108335380",
+      "category": "Sports",
+      "topics": [
+        "NFL"
+      ],
+      "updated_at": "2026-10-20T20:16:29.000Z"
     },
     {
       "id": "2112363184577191956",
@@ -1099,42 +1131,6 @@
       "updated_at": "2026-10-21T01:36:46.000Z"
     },
     {
-      "id": "2112623559877042588",
-      "domain": "体育",
-      "title_en": "USL Unveils Unified Brand with 'United for Soccer' Slogan",
-      "title_zh": "USL 发布统一品牌，口号「为足球联合」",
-      "hook_en": "The USL just rolled out a fresh look designed to tie together its eight leagues and thousands of players, coaches, and fans across the country.",
-      "hook_zh": "美国足球联赛推出全新视觉，意在串联旗下八条联赛以及全国成千上万球员、教练与球迷。",
-      "summary_en": "On Tuesday, the United Soccer League introduced a new brand identity under the slogan “United for Soccer,” featuring a redesigned mark inspired by soccer ball geometry and an upward stair-step in the “S” for progress. This visual refresh, using consistent USL Blue and soccer-net icons, connects men’s leagues from the upcoming USL Premier in 2028 down to youth levels, plus women’s leagues like Gainbridge Super League and W League. It supports planned promotion and relegation across three professional men’s tiers, creating clearer pathways, with full rollout starting January 2027. Fans and observers have mixed reactions, from excitement over grassroots growth to questions about the design and timeline.",
-      "summary_zh": "周二，United Soccer League 以口号「United for Soccer」发布新品牌标识，设计灵感来自足球几何结构，「S」中向上阶梯象征进步。统一的 USL 蓝与球网图标连接从 2028 年将推出的男子 USL Premier 到青少年层级，以及女子 Gainbridge Super League、W League 等。品牌亦支撑三层男子职业联赛的升降级规划，理顺上升通道，全面落地自 2027 年 1 月起。球迷与观察者反应不一：有人为草根成长欢呼，也有人对设计与时间表存疑。",
-      "body_en": "USL Unveils Unified Brand with 'United for Soccer' Slogan.\n\nThe USL just rolled out a fresh look designed to tie together its eight leagues and thousands of players, coaches, and fans across the country.\n\nOn Tuesday, the United Soccer League introduced a new brand identity under the slogan “United for Soccer,” featuring a redesigned mark inspired by soccer ball geometry and an upward stair-step in the “S” for progress. This visual refresh, using consistent USL Blue and soccer-net icons, connects men’s leagues from the upcoming USL Premier in 2028 down to youth levels, plus women’s leagues like Gainbridge Super League and W League.\n\nIt supports planned promotion and relegation across three professional men’s tiers, creating clearer pathways, with full rollout starting January 2027. Fans and observers have mixed reactions, from excitement over grassroots growth to questions about the design and timeline.",
-      "body_zh": "USL 发布统一品牌，口号「为足球联合」。\n\n美国足球联赛推出全新视觉，意在串联旗下八条联赛以及全国成千上万球员、教练与球迷。\n\n周二，United Soccer League 以口号「United for Soccer」发布新品牌标识，设计灵感来自足球几何结构，「S」中向上阶梯象征进步。统一的 USL 蓝与球网图标连接从 2028 年将推出的男子 USL Premier 到青少年层级，以及女子 Gainbridge Super League、W League 等。\n\n品牌亦支撑三层男子职业联赛的升降级规划，理顺上升通道，全面落地自 2027 年 1 月起。球迷与观察者反应不一：有人为草根成长欢呼，也有人对设计与时间表存疑。",
-      "url": "https://x.com/i/trending/2112623559877042588",
-      "category": "Sports",
-      "topics": [
-        "Soccer"
-      ],
-      "updated_at": "2026-10-21T00:50:39.000Z"
-    },
-    {
-      "id": "2112637280108335380",
-      "domain": "体育",
-      "title_en": "NFL Umpire Larry Smith Tears Quadriceps in Rare Non-Contact Injury at Wembley",
-      "title_zh": "NFL 裁判拉里·史密斯温布利湿草滑倒撕裂股四头肌",
-      "hook_en": "Larry Smith slipped on wet grass between plays, stood briefly, then collapsed clutching his leg—a shocking moment that sidelined the umpire for good this season.",
-      "hook_zh": "拉里·史密斯在死球间隙湿草上滑倒，短暂站起后又捂腿倒下——这一幕令他本赛季提前告别。",
-      "summary_en": "During the Houston Texans-Jacksonville Jaguars game at Wembley Stadium, second-year NFL umpire Larry Smith tore his right quadriceps in a non-contact slip early in the first quarter. Trainers from both teams helped him off the field on a cart, and his crew finished with six officials while splitting his duties. A middle school principal from Kansas City, Kansas, in his full-time job, Smith won't return until 2027, prompting the NFL to seek a replacement like swing official Tab Slaughter or Ian Malepeai for referee Shawn Hochuli’s crew. Veteran line judge Carl Johnson knelt by his side, hat off in what looked like a prayer, as fans shared surprised laughs about refs joining the injury list.",
-      "summary_zh": "休斯顿德州人队对阵杰克逊维尔美洲虎队的温布利比赛中，入行第二年的 NFL 裁判拉里·史密斯在第一节早段非对抗滑倒，右股四头肌撕裂。双方训练人员用球车将其抬离，执法组以六人完赛并分摊其职责。史密斯全职是堪萨斯城一名中学校长，预计要到 2027 年才能复出；联盟将为裁判肖恩·霍楚利组寻找替补，如轮换裁判 Tab Slaughter 或 Ian Malepeai。资深边线裁判卡尔·约翰逊跪其身旁、脱帽似在祈祷；球迷则半开玩笑「连裁判也进伤病名单了」。",
-      "body_en": "NFL Umpire Larry Smith Tears Quadriceps in Rare Non-Contact Injury at Wembley.\n\nLarry Smith slipped on wet grass between plays, stood briefly, then collapsed clutching his leg—a shocking moment that sidelined the umpire for good this season.\n\nDuring the Houston Texans-Jacksonville Jaguars game at Wembley Stadium, second-year NFL umpire Larry Smith tore his right quadriceps in a non-contact slip early in the first quarter. Trainers from both teams helped him off the field on a cart, and his crew finished with six officials while splitting his duties.\n\nA middle school principal from Kansas City, Kansas, in his full-time job, Smith won't return until 2027, prompting the NFL to seek a replacement like swing official Tab Slaughter or Ian Malepeai for referee Shawn Hochuli’s crew. Veteran line judge Carl Johnson knelt by his side, hat off in what looked like a prayer, as fans shared surprised laughs about refs joining the injury list.",
-      "body_zh": "NFL 裁判拉里·史密斯温布利湿草滑倒撕裂股四头肌。\n\n拉里·史密斯在死球间隙湿草上滑倒，短暂站起后又捂腿倒下——这一幕令他本赛季提前告别。\n\n休斯顿德州人队对阵杰克逊维尔美洲虎队的温布利比赛中，入行第二年的 NFL 裁判拉里·史密斯在第一节早段非对抗滑倒，右股四头肌撕裂。双方训练人员用球车将其抬离，执法组以六人完赛并分摊其职责。\n\n史密斯全职是堪萨斯城一名中学校长，预计要到 2027 年才能复出；联盟将为裁判肖恩·霍楚利组寻找替补，如轮换裁判 Tab Slaughter 或 Ian Malepeai。资深边线裁判卡尔·约翰逊跪其身旁、脱帽似在祈祷；球迷则半开玩笑「连裁判也进伤病名单了」。",
-      "url": "https://x.com/i/trending/2112637280108335380",
-      "category": "Sports",
-      "topics": [
-        "NFL"
-      ],
-      "updated_at": "2026-10-20T20:16:29.000Z"
-    },
-    {
       "id": "2112355020591046930",
       "domain": "体育",
       "title_en": "WNBA Players Exit Court Before Finals Anthem, Drawing Criticism",
@@ -1153,95 +1149,76 @@
       "updated_at": "2026-10-21T09:36:27.000Z"
     },
     {
-      "id": "2112321756438417544",
+      "id": "2112623569473597808",
       "domain": "体育",
-      "title_en": "Bay Area Loses Pro Sports Teams to Las Vegas Amid Ownership Debates",
-      "title_zh": "湾区职业球队接连迁往拉斯维加斯，所有权争议再起",
-      "hook_en": "Longtime Oakland fans watched their Athletics and Raiders pack up for Las Vegas, leaving empty seats and lingering questions about why local heroes didn't step in to save them.",
-      "hook_zh": "奥克兰球迷眼看运动家与突袭者迁往拉斯维加斯，空荡看台背后是「本地富豪为何不出手挽留」的追问。",
-      "summary_en": "The Bay Area has lost the Oakland Athletics and Raiders to Las Vegas, with fans pointing to owner John Fisher's refusal to sell the A's despite a generous offer from Warriors owner Joe Lacob to keep the team local. Critics note the teams weren't truly put up for sale, as owners chased public funding in Vegas instead, including up to $380 million for the A's new 2028 ballpark. Oakland rejected stadium subsidies based on economic studies, while Vegas thrives on out-of-town fans—62 percent of Raiders attendees—and tourism boosts. The moves highlight tensions over ownership choices, public money, and a tech-rich region that couldn't retain its teams.",
-      "summary_zh": "湾区已失去奥克兰运动家与突袭者至拉斯维加斯；粉丝指出老板约翰·费舍尔拒绝出售运动家，即便勇士老板乔·拉科布曾开出优厚报价希望球队留在本地。批评者称球队并未真正挂牌出售，老板更追逐维加斯的公共资金，包括运动家 2028 年新球场最高约 3.8 亿美元补贴。奥克兰曾依经济研究拒绝球场补贴，而维加斯靠外来球迷——突袭者观众约 62% 来自外地——与旅游拉动。事件凸显所有权选择、公帑使用，以及科技富裕地区仍难留住球队的张力。",
-      "body_en": "Bay Area Loses Pro Sports Teams to Las Vegas Amid Ownership Debates.\n\nLongtime Oakland fans watched their Athletics and Raiders pack up for Las Vegas, leaving empty seats and lingering questions about why local heroes didn't step in to save them.\n\nThe Bay Area has lost the Oakland Athletics and Raiders to Las Vegas, with fans pointing to owner John Fisher's refusal to sell the A's despite a generous offer from Warriors owner Joe Lacob to keep the team local. Critics note the teams weren't truly put up for sale, as owners chased public funding in Vegas instead, including up to $380 million for the A's new 2028 ballpark.\n\nOakland rejected stadium subsidies based on economic studies, while Vegas thrives on out-of-town fans—62 percent of Raiders attendees—and tourism boosts. The moves highlight tensions over ownership choices, public money, and a tech-rich region that couldn't retain its teams.",
-      "body_zh": "湾区职业球队接连迁往拉斯维加斯，所有权争议再起。\n\n奥克兰球迷眼看运动家与突袭者迁往拉斯维加斯，空荡看台背后是「本地富豪为何不出手挽留」的追问。\n\n湾区已失去奥克兰运动家与突袭者至拉斯维加斯；粉丝指出老板约翰·费舍尔拒绝出售运动家，即便勇士老板乔·拉科布曾开出优厚报价希望球队留在本地。批评者称球队并未真正挂牌出售，老板更追逐维加斯的公共资金，包括运动家 2028 年新球场最高约 3.8 亿美元补贴。\n\n奥克兰曾依经济研究拒绝球场补贴，而维加斯靠外来球迷——突袭者观众约 62% 来自外地——与旅游拉动。事件凸显所有权选择、公帑使用，以及科技富裕地区仍难留住球队的张力。",
-      "url": "https://x.com/i/trending/2112321756438417544",
+      "title_en": "Liverpool Fans Debate Skipping Villarreal Game for PSG-Barcelona Clash",
+      "title_zh": "利物浦球迷纠结：欧冠主场与巴黎对巴萨同开",
+      "hook_en": "Picture this: Liverpool's Champions League night at Anfield collides head-on with PSG versus Barcelona's star power, leaving fans torn on where to point their screens.",
+      "hook_zh": "利物浦安菲尔德的欧冠之夜与巴黎圣日耳曼对阵巴塞罗那撞车，球迷纠结该把目光投向哪边屏幕。",
+      "summary_en": "On Tuesday, Liverpool host Villarreal at Anfield at 8pm BST, the exact same time PSG welcomes Barcelona in another Champions League league-phase match. Fans are debating fiercely online after one called out those tempted to watch the glamorous PSG-Barcelona tie instead, with most insisting loyalty means sticking with the Reds no matter what. Some admit the pull of players like Lamine Yamal and Ousmane Dembélé but plan to prioritize their team, while others suggest splitting screens or note the spat feels like an online-only thing. It highlights football's tug between club devotion and big European showdowns.",
+      "summary_zh": "周二英国夏令时晚 8 点，利物浦在安菲尔德主场迎战比利亚雷亚尔，同一时间巴黎在欧冠联赛阶段迎战巴萨。有人在网上点名「忍不住去看巴黎—巴萨」的球迷后，讨论升温；多数人坚持忠诚就该死守红军。也有人承认亚马尔、登贝莱等球星很有吸引力，但仍计划优先看本队，或考虑分屏观看。这场争论折射出俱乐部忠诚与「大欧洲对决」吸引力之间的拉扯。",
+      "body_en": "Liverpool Fans Debate Skipping Villarreal Game for PSG-Barcelona Clash.\n\nPicture this: Liverpool's Champions League night at Anfield collides head-on with PSG versus Barcelona's star power, leaving fans torn on where to point their screens.\n\nOn Tuesday, Liverpool host Villarreal at Anfield at 8pm BST, the exact same time PSG welcomes Barcelona in another Champions League league-phase match. Fans are debating fiercely online after one called out those tempted to watch the glamorous PSG-Barcelona tie instead, with most insisting loyalty means sticking with the Reds no matter what.\n\nSome admit the pull of players like Lamine Yamal and Ousmane Dembélé but plan to prioritize their team, while others suggest splitting screens or note the spat feels like an online-only thing. It highlights football's tug between club devotion and big European showdowns.",
+      "body_zh": "利物浦球迷纠结：欧冠主场与巴黎对巴萨同开。\n\n利物浦安菲尔德的欧冠之夜与巴黎圣日耳曼对阵巴塞罗那撞车，球迷纠结该把目光投向哪边屏幕。\n\n周二英国夏令时晚 8 点，利物浦在安菲尔德主场迎战比利亚雷亚尔，同一时间巴黎在欧冠联赛阶段迎战巴萨。有人在网上点名「忍不住去看巴黎—巴萨」的球迷后，讨论升温；多数人坚持忠诚就该死守红军。\n\n也有人承认亚马尔、登贝莱等球星很有吸引力，但仍计划优先看本队，或考虑分屏观看。这场争论折射出俱乐部忠诚与「大欧洲对决」吸引力之间的拉扯。",
+      "url": "https://x.com/i/trending/2112623569473597808",
       "category": "Sports",
       "topics": [
-        "Sports"
+        "UEFA Champions League"
       ],
-      "updated_at": "2026-10-20T02:45:02.000Z"
+      "updated_at": "2026-10-20T19:23:57.000Z"
     },
     {
-      "id": "2112595603800662270",
+      "id": "2112275126901207175",
       "domain": "体育",
-      "title_en": "College Football Coaches Split on 24-Team Playoff Expansion",
-      "title_zh": "大学橄榄球教练对 24 队季后赛扩军意见分裂",
-      "hook_en": "Kentucky coach Will Stein dreams of a playoff game lighting up Kroger Field, while Central Michigan's Matt Drinkall sees the sport spiraling into a 'smoldering dumpster fire.' Their clashing views capture the tension as expansion nears.",
-      "hook_zh": "肯塔基教练威尔·斯坦梦想主场亮起季后赛灯，中密歇根的马特·德林克尔却称这项运动正滑向「冒烟的垃圾堆」。",
-      "summary_en": "The College Football Playoff eyes growth to 24 teams possibly starting in 2027, with 19 at-large bids, spots for Power Four conference champs, and one for the top Group of Six team—likely ditching conference title games for on-campus early rounds. Stein dismisses critics who say regular-season games will lose meaning, insisting every matchup counts and smaller programs gain real postseason shots. Drinkall blasts the changes as short-term cash grabs that erode the game's traditions, likening them to boxing's chaotic past. The debate weighs broader access against keeping the regular season's edge sharp.",
-      "summary_zh": "大学橄榄球季后赛拟自约 2027 年起扩至 24 队：19 个外卡、Power Four 冠军席位，以及一个顶级 Group of Six 席位，并可能取消联盟冠军赛、把早期轮次放回校园。斯坦驳斥「常规赛将失去意义」的批评，称每场仍关键、小球会也有真实季后赛机会。德林克尔则抨击为短视捞金，侵蚀传统，并类比拳击历史上的混乱。辩论焦点在：扩大准入，还是保住常规赛的锋利度。",
-      "body_en": "College Football Coaches Split on 24-Team Playoff Expansion.\n\nKentucky coach Will Stein dreams of a playoff game lighting up Kroger Field, while Central Michigan's Matt Drinkall sees the sport spiraling into a 'smoldering dumpster fire.' Their clashing views capture the tension as expansion nears.\n\nThe College Football Playoff eyes growth to 24 teams possibly starting in 2027, with 19 at-large bids, spots for Power Four conference champs, and one for the top Group of Six team—likely ditching conference title games for on-campus early rounds. Stein dismisses critics who say regular-season games will lose meaning, insisting every matchup counts and smaller programs gain real postseason shots.\n\nDrinkall blasts the changes as short-term cash grabs that erode the game's traditions, likening them to boxing's chaotic past. The debate weighs broader access against keeping the regular season's edge sharp.",
-      "body_zh": "大学橄榄球教练对 24 队季后赛扩军意见分裂。\n\n肯塔基教练威尔·斯坦梦想主场亮起季后赛灯，中密歇根的马特·德林克尔却称这项运动正滑向「冒烟的垃圾堆」。\n\n大学橄榄球季后赛拟自约 2027 年起扩至 24 队：19 个外卡、Power Four 冠军席位，以及一个顶级 Group of Six 席位，并可能取消联盟冠军赛、把早期轮次放回校园。斯坦驳斥「常规赛将失去意义」的批评，称每场仍关键、小球会也有真实季后赛机会。\n\n德林克尔则抨击为短视捞金，侵蚀传统，并类比拳击历史上的混乱。辩论焦点在：扩大准入，还是保住常规赛的锋利度。",
-      "url": "https://x.com/i/trending/2112595603800662270",
+      "title_en": "Worlds 2026 Swiss Stage Schedule Drops with Korean-Chinese Clashes",
+      "title_zh": "英雄联盟 S14 瑞士轮赛程出炉，开局韩中对撞",
+      "hook_en": "Fans worldwide lit up when the first-round matchups hit, pitting Korean powerhouses against Chinese giants right from the start on October 23.",
+      "hook_zh": "首轮对阵一公布，全球粉丝沸腾：10 月 23 日起韩华、Gen.G 等劲旅将与中国战队正面交锋。",
+      "summary_en": "The League of Legends Worlds 2026 Swiss Stage kicks off at the Credit Union of Texas Event Center in Allen, Texas, with eight best-of-one matches including Gen.G vs. Invictus Gaming, Hanwha Life Esports vs. Top Esports, and G2 Esports vs. Dplus KIA. Start times begin at 10 a.m. PT, offering prime slots for NA and EU viewers while accommodating many global fans despite some tough hours. Former champ Crisp predicted an LPL sweep on stream, joking about Korean teams facing the 'real' challenge, as Polymarket odds give Western squads a 95% shot at knockouts and launches a $10,000 pick'ems contest.",
+      "summary_zh": "2026 英雄联盟全球总决赛瑞士轮在得克萨斯州艾伦的 Credit Union of Texas Event Center 开战，八场 BO1 包括 Gen.G 对 Invictus Gaming、韩华生命对 Top Esports、G2 对 Dplus KIA 等。比赛自太平洋时间上午 10 点起，兼顾北美与欧洲观众。前冠军 Crisp 在直播中预测 LPL 横扫，并调侃韩队将面对「真正的考验」；Polymarket 赔率显示西方队伍晋级淘汰赛概率约 95%，同时上线 1 万美元 pick'ems 竞猜。",
+      "body_en": "Worlds 2026 Swiss Stage Schedule Drops with Korean-Chinese Clashes.\n\nFans worldwide lit up when the first-round matchups hit, pitting Korean powerhouses against Chinese giants right from the start on October 23.\n\nThe League of Legends Worlds 2026 Swiss Stage kicks off at the Credit Union of Texas Event Center in Allen, Texas, with eight best-of-one matches including Gen.G vs. Invictus Gaming, Hanwha Life Esports vs. Top Esports, and G2 Esports vs.\n\nDplus KIA. Start times begin at 10 a.m. PT, offering prime slots for NA and EU viewers while accommodating many global fans despite some tough hours. Former champ Crisp predicted an LPL sweep on stream, joking about Korean teams facing the 'real' challenge, as Polymarket odds give Western squads a 95% shot at knockouts and launches a $10,000 pick'ems contest.",
+      "body_zh": "英雄联盟 S14 瑞士轮赛程出炉，开局韩中对撞。\n\n首轮对阵一公布，全球粉丝沸腾：10 月 23 日起韩华、Gen.G 等劲旅将与中国战队正面交锋。\n\n2026 英雄联盟全球总决赛瑞士轮在得克萨斯州艾伦的 Credit Union of Texas Event Center 开战，八场 BO1 包括 Gen.G 对 Invictus Gaming、韩华生命对 Top Esports、G2 对 Dplus KIA 等。\n\n比赛自太平洋时间上午 10 点起，兼顾北美与欧洲观众。前冠军 Crisp 在直播中预测 LPL 横扫，并调侃韩队将面对「真正的考验」；Polymarket 赔率显示西方队伍晋级淘汰赛概率约 95%，同时上线 1 万美元 pick'ems 竞猜。",
+      "url": "https://x.com/i/trending/2112275126901207175",
       "category": "Sports",
       "topics": [
-        "NCAA Football"
+        "Esports"
       ],
-      "updated_at": "2026-10-21T04:18:08.000Z"
+      "updated_at": "2026-10-20T02:52:20.000Z"
     },
     {
-      "id": "2111931440430739802",
+      "id": "2111518176777253056",
       "domain": "体育",
-      "title_en": "Eagles Fans Lament Injury Wave Hitting 2026 Season Hard",
-      "title_zh": "老鹰球迷哀叹伤病潮重创 2026 赛季",
-      "hook_en": "Philadelphia Eagles fans are pouring out their hearts over a brutal string of injuries that's left their team battered and their offense sputtering.",
-      "hook_zh": "费城老鹰球迷吐槽连串伤病让球队千疮百孔、进攻失灵。",
-      "summary_en": "Quarterback Jalen Hurts is on injured reserve with a calf blood clot, sidelining him for at least four games, while running back Saquon Barkley nurses a hamstring issue and edge rusher Nolan Smith deals with a concussion from the Week 6 loss to Carolina. The Eagles rank near the bottom of the NFL at 31st in total offense, 29th in points, and 28th in passing, marking their worst start since 2000 in key metrics. At 2-4, fans vent frustration with cries of voodoo curses and jokes about a nearby substation, but the sheer volume of injuries has everyone watching closely as the team fights to stabilize.",
-      "summary_zh": "四分卫贾伦·赫茨因小腿血栓进伤病名单，至少缺席四场；跑卫萨昆·巴克利跟腱/腘绳肌问题，边锋诺兰·史密斯在第 6 周负于卡罗莱纳后处理脑震荡。老鹰总进攻排 NFL 第 31、得分第 29、传球第 28，多项关键数据为 2000 年以来最差开局之一。战绩 2-4，球迷又是喊「被下了咒」又是拿附近变电站开玩笑，但伤病密度让所有人紧盯球队能否稳住阵脚。",
-      "body_en": "Eagles Fans Lament Injury Wave Hitting 2026 Season Hard.\n\nPhiladelphia Eagles fans are pouring out their hearts over a brutal string of injuries that's left their team battered and their offense sputtering.\n\nQuarterback Jalen Hurts is on injured reserve with a calf blood clot, sidelining him for at least four games, while running back Saquon Barkley nurses a hamstring issue and edge rusher Nolan Smith deals with a concussion from the Week 6 loss to Carolina.\n\nThe Eagles rank near the bottom of the NFL at 31st in total offense, 29th in points, and 28th in passing, marking their worst start since 2000 in key metrics. At 2-4, fans vent frustration with cries of voodoo curses and jokes about a nearby substation, but the sheer volume of injuries has everyone watching closely as the team fights to stabilize.",
-      "body_zh": "老鹰球迷哀叹伤病潮重创 2026 赛季。\n\n费城老鹰球迷吐槽连串伤病让球队千疮百孔、进攻失灵。\n\n四分卫贾伦·赫茨因小腿血栓进伤病名单，至少缺席四场；跑卫萨昆·巴克利跟腱/腘绳肌问题，边锋诺兰·史密斯在第 6 周负于卡罗莱纳后处理脑震荡。\n\n老鹰总进攻排 NFL 第 31、得分第 29、传球第 28，多项关键数据为 2000 年以来最差开局之一。战绩 2-4，球迷又是喊「被下了咒」又是拿附近变电站开玩笑，但伤病密度让所有人紧盯球队能否稳住阵脚。",
-      "url": "https://x.com/i/trending/2111931440430739802",
+      "title_en": "US Grand Prix Brings Title Hunt and Texas-Flavored Liveries to Austin",
+      "title_zh": "美国大奖赛临近：冠军悬念与德州主题涂装齐登场",
+      "hook_en": "Kimi Antonelli stands on the brink of a championship crown at Circuit of the Americas, where special team designs add Lone Star flair to the high-stakes action.",
+      "hook_zh": "安东内利在美洲赛道冲击冠军，车队特别涂装为比赛增添孤星风味。",
+      "summary_en": "Formula 1 arrives in Austin this weekend for the United States Grand Prix on October 25, launching a triple-header with custom liveries stealing the show. Ferrari outfits Lewis Hamilton and Charles Leclerc in red suits with bold white accents, while Haas unleashes a Godzilla-inspired blue monster theme tied to an upcoming film. Antonelli leads the standings and could clinch the title with a win if rivals falter, amid six drivers still in contention after a season of six different victors. Warm weather and possible showers set the stage for unpredictable racing at COTA's challenging layout.",
+      "summary_zh": "一级方程式本周末登陆奥斯汀迎战 10 月 25 日美国大奖赛，开启三站连赛，定制涂装成焦点。法拉利为汉密尔顿与勒克莱尔准备红白点缀赛车服，哈斯推出哥斯拉灵感蓝色主题。安东内利领跑积分榜，若取胜且对手失手或可提前夺冠；本季已有六位不同胜者，六人仍在争冠。温暖天气与可能阵雨令 COTA 赛道更具变数。",
+      "body_en": "US Grand Prix Brings Title Hunt and Texas-Flavored Liveries to Austin.\n\nKimi Antonelli stands on the brink of a championship crown at Circuit of the Americas, where special team designs add Lone Star flair to the high-stakes action.\n\nFormula 1 arrives in Austin this weekend for the United States Grand Prix on October 25, launching a triple-header with custom liveries stealing the show. Ferrari outfits Lewis Hamilton and Charles Leclerc in red suits with bold white accents, while Haas unleashes a Godzilla-inspired blue monster theme tied to an upcoming film.\n\nAntonelli leads the standings and could clinch the title with a win if rivals falter, amid six drivers still in contention after a season of six different victors. Warm weather and possible showers set the stage for unpredictable racing at COTA's challenging layout.",
+      "body_zh": "美国大奖赛临近：冠军悬念与德州主题涂装齐登场。\n\n安东内利在美洲赛道冲击冠军，车队特别涂装为比赛增添孤星风味。\n\n一级方程式本周末登陆奥斯汀迎战 10 月 25 日美国大奖赛，开启三站连赛，定制涂装成焦点。法拉利为汉密尔顿与勒克莱尔准备红白点缀赛车服，哈斯推出哥斯拉灵感蓝色主题。\n\n安东内利领跑积分榜，若取胜且对手失手或可提前夺冠；本季已有六位不同胜者，六人仍在争冠。温暖天气与可能阵雨令 COTA 赛道更具变数。",
+      "url": "https://x.com/i/trending/2111518176777253056",
       "category": "Sports",
       "topics": [
-        "NFL"
+        "Formula 1"
       ],
-      "updated_at": "2026-10-20T06:11:24.000Z"
+      "updated_at": "2026-10-19T15:35:05.000Z"
     },
     {
-      "id": "2112675329613672597",
-      "domain": "娱乐",
-      "title_en": "YouTube Hits Record 14.2% of U.S. TV Viewing Time Over Netflix",
-      "title_zh": "YouTube 占美国电视收视创纪录 14.2%，超越奈飞",
-      "hook_en": "Every day, more Americans turn to YouTube for their TV time, leaving Netflix in the dust according to fresh Nielsen data.",
-      "hook_zh": "尼尔森新数据显示，美国人把更多电视时间交给 YouTube，奈飞份额下滑。",
-      "summary_en": "Nielsen's July 2026 report shows YouTube claiming 14.2% of total U.S. TV viewing, up from 13.4% a year ago, while Netflix dipped to 7.8% from 8.8%. Investor Chamath Palihapitiya shared the chart, explaining he watches YouTube daily and sees Netflix as a dormant subscription due to its high debt and content costs. Viewers praise YouTube's quick content discovery and long-form appeal, though analysts like Joseph Carlson note YouTube's hefty creator payouts offset its low-cost image. Streaming hit 49% of TV time that month, signaling a shift toward flexible, creator-driven platforms.",
-      "summary_zh": "尼尔森 2026 年 7 月报告显示，YouTube 占美国电视总收视 14.2%，高于一年前的 13.4%；奈飞从 8.8% 降至 7.8%。投资人 Chamath Palihapitiya 分享图表，称自己每天看 YouTube，并将奈飞视为高负债与内容成本下的“休眠订阅”。观众称赞 YouTube 发现内容快、长视频吸引力强；分析师提醒其创作者分成也不低。当月流媒体占电视时间 49%。",
-      "body_en": "YouTube Hits Record 14.2% of U.S. TV Viewing Time Over Netflix.\n\nEvery day, more Americans turn to YouTube for their TV time, leaving Netflix in the dust according to fresh Nielsen data.\n\nNielsen's July 2026 report shows YouTube claiming 14.2% of total U.S. TV viewing, up from 13.4% a year ago, while Netflix dipped to 7.8% from 8.8%.\n\nInvestor Chamath Palihapitiya shared the chart, explaining he watches YouTube daily and sees Netflix as a dormant subscription due to its high debt and content costs. Viewers praise YouTube's quick content discovery and long-form appeal, though analysts like Joseph Carlson note YouTube's hefty creator payouts offset its low-cost image. Streaming hit 49% of TV time that month, signaling a shift toward flexible, creator-driven platforms.",
-      "body_zh": "YouTube 占美国电视收视创纪录 14.2%，超越奈飞。\n\n尼尔森新数据显示，美国人把更多电视时间交给 YouTube，奈飞份额下滑。\n\n尼尔森 2026 年 7 月报告显示，YouTube 占美国电视总收视 14.2%，高于一年前的 13.4%；奈飞从 8.8% 降至 7.8%。投资人 Chamath Palihapitiya 分享图表，称自己每天看 YouTube，并将奈飞视为高负债与内容成本下的“休眠订阅”。\n\n观众称赞 YouTube 发现内容快、长视频吸引力强；分析师提醒其创作者分成也不低。当月流媒体占电视时间 49%。",
-      "url": "https://x.com/i/trending/2112675329613672597",
+      "id": "2112153446748995672",
+      "domain": "商业",
+      "title_en": "Financiers Urge India to Scrap Capital Gains Tax on Foreign Investors",
+      "title_zh": "金融界呼吁印度取消对外国投资者的资本利得税",
+      "hook_en": "Veteran financier Vallabh Bhanshali bluntly called India's capital gains tax on foreign investors a global outlier that's damaged inflows. As FPIs pull out billions, he's pushing for a full review.",
+      "hook_zh": "资深金融人士瓦拉布·班沙利直言，印度对外国投资者征收资本利得税在全球少见，已损害资金流入，并呼吁全面检讨。",
+      "summary_en": "In a CNBC-TV18 interview, Enam Group's co-founder Vallabh Bhanshali argued the long-term capital gains tax on foreign institutional investors should be eliminated, noting no other country imposes it this way. FPIs have withdrawn about ₹3 lakh crore from Indian equities in 2026 amid global factors like higher bond yields and a strong dollar, prompting echoes from Samir Arora and Mohandas Pai who labeled it unfair and urged zero tax for competitiveness. Finance Minister Nirmala Sitharaman welcomes the debate ahead of the next budget, where the current 12.5% LTCG rate applies above ₹1.25 lakh annually, while domestic buyers cushion the market pressure.",
+      "summary_zh": "在 CNBC-TV18 访谈中，Enam Group 联合创始人班沙利主张取消对境外机构投资者的长期资本利得税，称其他国家并无如此做法。2026 年外国证券投资从印度股市撤出约 3 万亿卢比，叠加全球债息走高与美元走强；萨米尔·阿罗拉与莫汉达斯·派等人亦批评不公，呼吁零税率以提升竞争力。财长西塔拉曼表示欢迎在下一财年预算前讨论；现行长期资本利得税率为 12.5%，年收益逾 12.5 万卢比部分适用，国内买盘则在一定程度上缓冲抛压。",
+      "body_en": "Financiers Urge India to Scrap Capital Gains Tax on Foreign Investors.\n\nVeteran financier Vallabh Bhanshali bluntly called India's capital gains tax on foreign investors a global outlier that's damaged inflows. As FPIs pull out billions, he's pushing for a full review.\n\nIn a CNBC-TV18 interview, Enam Group's co-founder Vallabh Bhanshali argued the long-term capital gains tax on foreign institutional investors should be eliminated, noting no other country imposes it this way.\n\nFPIs have withdrawn about ₹3 lakh crore from Indian equities in 2026 amid global factors like higher bond yields and a strong dollar, prompting echoes from Samir Arora and Mohandas Pai who labeled it unfair and urged zero tax for competitiveness. Finance Minister Nirmala Sitharaman welcomes the debate ahead of the next budget, where the current 12.5% LTCG rate applies above ₹1.25 lakh annually, while domestic buyers cushion the market pressure.",
+      "body_zh": "金融界呼吁印度取消对外国投资者的资本利得税。\n\n资深金融人士瓦拉布·班沙利直言，印度对外国投资者征收资本利得税在全球少见，已损害资金流入，并呼吁全面检讨。\n\n在 CNBC-TV18 访谈中，Enam Group 联合创始人班沙利主张取消对境外机构投资者的长期资本利得税，称其他国家并无如此做法。\n\n2026 年外国证券投资从印度股市撤出约 3 万亿卢比，叠加全球债息走高与美元走强；萨米尔·阿罗拉与莫汉达斯·派等人亦批评不公，呼吁零税率以提升竞争力。财长西塔拉曼表示欢迎在下一财年预算前讨论；现行长期资本利得税率为 12.5%，年收益逾 12.5 万卢比部分适用，国内买盘则在一定程度上缓冲抛压。",
+      "url": "https://x.com/i/trending/2112153446748995672",
       "category": "News",
       "topics": [
-        "Business & Finance",
-        "Movies & TV"
+        "Business & Finance"
       ],
-      "updated_at": "2026-10-20T22:49:16.000Z"
-    },
-    {
-      "id": "2112533925117460907",
-      "domain": "娱乐",
-      "title_en": "BBC to Close BBC Three, BBC Scotland TV and Radio 4 Extra in 2027",
-      "title_zh": "BBC 拟明年春季关停 BBC Three、BBC Scotland 与 Radio 4 Extra",
-      "hook_en": "The BBC delivered tough news to staff: linear channels for BBC Three, BBC Scotland, and Radio 4 Extra will end in spring 2027 as savings mount.",
-      "hook_zh": "总经理 Matt Brittin 告知员工：为节省约 5 亿英镑，三套深受喜爱的频道将停播线性信号。",
-      "summary_en": "Facing falling TV licence fee revenue from 25.95 million in 2020 to 23.3 million by March 2026, the BBC plans to save £500 million by 2028 by shifting these services online to iPlayer, BBC Sounds, and Scottish TV channels. The changes include cutting over 100 news jobs to save £5.5 million, part of reducing 1,800 to 2,000 total positions. Reactions split, with John Cleese cheering cuts to 'woke departments' and MP Anna Sabine fearing the erosion of a British institution, while Scottish voices debate local control amid streaming shifts.",
-      "summary_zh": "BBC Three 与 BBC Scotland 将全面转向 iPlayer、YouTube 等线上平台，苏格兰节目也会在 BBC One、Two 播出；Radio 4 Extra 迁至 BBC Sounds，大部分内容数字化保留，线性广播将于 2027 年春结束。此举属两年削减约 1800–2000 岗位（含新闻部门逾 100 人）的节支计划一部分。Brittin 承认对受众与同事的冲击，强调必须适应变化的世界。",
-      "body_en": "BBC to Close BBC Three, BBC Scotland TV and Radio 4 Extra in 2027.\n\nThe BBC delivered tough news to staff: linear channels for BBC Three, BBC Scotland, and Radio 4 Extra will end in spring 2027 as savings mount.\n\nFacing falling TV licence fee revenue from 25.95 million in 2020 to 23.3 million by March 2026, the BBC plans to save £500 million by 2028 by shifting these services online to iPlayer, BBC Sounds, and Scottish TV channels.\n\nThe changes include cutting over 100 news jobs to save £5.5 million, part of reducing 1,800 to 2,000 total positions. Reactions split, with John Cleese cheering cuts to 'woke departments' and MP Anna Sabine fearing the erosion of a British institution, while Scottish voices debate local control amid streaming shifts.",
-      "body_zh": "BBC 拟明年春季关停 BBC Three、BBC Scotland 与 Radio 4 Extra。\n\n总经理 Matt Brittin 告知员工：为节省约 5 亿英镑，三套深受喜爱的频道将停播线性信号。\n\nBBC Three 与 BBC Scotland 将全面转向 iPlayer、YouTube 等线上平台，苏格兰节目也会在 BBC One、Two 播出；Radio 4 Extra 迁至 BBC Sounds，大部分内容数字化保留，线性广播将于 2027 年春结束。\n\n此举属两年削减约 1800–2000 岗位（含新闻部门逾 100 人）的节支计划一部分。Brittin 承认对受众与同事的冲击，强调必须适应变化的世界。",
-      "url": "https://x.com/i/trending/2112533925117460907",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-21T09:55:52.000Z"
+      "updated_at": "2026-10-19T17:11:17.000Z"
     },
     {
       "id": "2112465474994737570",
@@ -1262,6 +1239,24 @@
       "updated_at": "2026-10-20T08:52:08.000Z"
     },
     {
+      "id": "2112352804241285515",
+      "domain": "娱乐",
+      "title_en": "Dwayne Johnson Transforms into 70-Year-Old Chicken Man for Lizard Music",
+      "title_zh": "巨石强森变装 70 岁「鸡肉人」出演《Lizard Music》",
+      "hook_en": "Dwayne Johnson stepped out on New York streets looking worlds away from his ripped action-hero self—gray hair, wrinkles, and a bucket hat making him truly unrecognizable as the eccentric Chicken Man.",
+      "hook_zh": "巨石强森现身纽约街头：灰发、皱纹、渔夫帽，几乎认不出他就是古怪的「鸡肉人」。",
+      "summary_en": "He's filming Lizard Music, a live-action/CGI adaptation of Daniel Pinkwater’s 1976 children’s book about a boy who discovers lizards playing otherworldly music on late-night TV and befriends the Chicken Man and his 111-year-old chicken. Johnson, alongside young co-star Theo Clark Leber, sports extensive makeup, prosthetics, and weight loss for the role, directed by Benny Safdie with a cast including Rachel McAdams, Jeff Goldblum, and others. Set for a Christmas Day 2027 theatrical release, the family adventure captures whimsical moments like pizza slices and a giant lizard plush, drawing praise for Johnson's bold shift to dramatic roles.",
+      "summary_zh": "他正在拍摄《Lizard Music》，这部真人与 CGI 结合的作品改编自丹尼尔·平克沃特 1976 年童书：男孩在深夜电视发现演奏异界音乐的蜥蜴，并结识鸡肉人及其 111 岁老母鸡。强森与年轻对手戏演员 Theo Clark Leber 同台，依赖大量化妆、假体与减重塑形；导演为本尼·萨夫迪，卡司还包括瑞秋·麦克亚当斯、杰夫·高布伦等。影片定档 2027 年圣诞节院线上映，花絮中披萨片与巨型蜥蜴玩偶尽显奇幻，外界称赞强森大胆转向戏剧角色。",
+      "body_en": "Dwayne Johnson Transforms into 70-Year-Old Chicken Man for Lizard Music.\n\nDwayne Johnson stepped out on New York streets looking worlds away from his ripped action-hero self—gray hair, wrinkles, and a bucket hat making him truly unrecognizable as the eccentric Chicken Man.\n\nHe's filming Lizard Music, a live-action/CGI adaptation of Daniel Pinkwater’s 1976 children’s book about a boy who discovers lizards playing otherworldly music on late-night TV and befriends the Chicken Man and his 111-year-old chicken.\n\nJohnson, alongside young co-star Theo Clark Leber, sports extensive makeup, prosthetics, and weight loss for the role, directed by Benny Safdie with a cast including Rachel McAdams, Jeff Goldblum, and others. Set for a Christmas Day 2027 theatrical release, the family adventure captures whimsical moments like pizza slices and a giant lizard plush, drawing praise for Johnson's bold shift to dramatic roles.",
+      "body_zh": "巨石强森变装 70 岁「鸡肉人」出演《Lizard Music》。\n\n巨石强森现身纽约街头：灰发、皱纹、渔夫帽，几乎认不出他就是古怪的「鸡肉人」。\n\n他正在拍摄《Lizard Music》，这部真人与 CGI 结合的作品改编自丹尼尔·平克沃特 1976 年童书：男孩在深夜电视发现演奏异界音乐的蜥蜴，并结识鸡肉人及其 111 岁老母鸡。\n\n强森与年轻对手戏演员 Theo Clark Leber 同台，依赖大量化妆、假体与减重塑形；导演为本尼·萨夫迪，卡司还包括瑞秋·麦克亚当斯、杰夫·高布伦等。影片定档 2027 年圣诞节院线上映，花絮中披萨片与巨型蜥蜴玩偶尽显奇幻，外界称赞强森大胆转向戏剧角色。",
+      "url": "https://x.com/i/trending/2112352804241285515",
+      "category": "Entertainment",
+      "topics": [
+        "Movies & TV"
+      ],
+      "updated_at": "2026-10-21T09:06:08.000Z"
+    },
+    {
       "id": "2111675291110088931",
       "domain": "娱乐",
       "title_en": "Taylor Swift Shines in Custom Dior at 2026 Academy Museum Gala",
@@ -1280,24 +1275,6 @@
       "updated_at": "2026-10-20T03:07:04.000Z"
     },
     {
-      "id": "2112078869360726394",
-      "domain": "娱乐",
-      "title_en": "Lingling Kwong Shines at Cartier’s Into The Wild Event in Singapore",
-      "title_zh": "邝玲玲亮相卡地亚新加坡「Into The Wild」活动",
-      "hook_en": "Lingling Kwong turned heads in a shimmering black sequined gown and dramatic floral gloves, posing confidently amid jungle-inspired backdrops at Cartier’s elegant gathering.",
-      "hook_zh": "邝玲玲身着闪亮黑色亮片礼服与戏剧感花卉手套，在丛林风布景前自信亮相。",
-      "summary_en": "On October 19, Thai actress Lingling Kwong brought her sophisticated style to Cartier’s “Into The Wild” event in Singapore, celebrating the brand’s iconic panther motifs and animal-inspired jewelry. She stunned in multiple looks, from a strapless grey dress to a flowing black gown, accessorized with bold silver chains, sparkling bracelets, and statement earrings. Fans raved about her radiant smile and glamour, with one calling her “Elegance has a name.” The immersive experience opens to the public at 17 Rochester Park from October 21 to 25, with elements lingering at ION Orchard through early November.",
-      "summary_zh": "10 月 19 日，泰国演员邝玲玲出席卡地亚新加坡「Into The Wild」活动，呼应品牌黑豹与动物主题珠宝。她多次换装，从抹胸灰裙到飘逸黑礼服，搭配银色链条、手镯与夸张耳环。粉丝称赞其笑容与气质。沉浸式体验 10 月 21–25 日对公众开放于 Rochester Park 17 号，部分展陈延续至 ION Orchard 至 11 月初。",
-      "body_en": "Lingling Kwong Shines at Cartier’s Into The Wild Event in Singapore.\n\nLingling Kwong turned heads in a shimmering black sequined gown and dramatic floral gloves, posing confidently amid jungle-inspired backdrops at Cartier’s elegant gathering.\n\nOn October 19, Thai actress Lingling Kwong brought her sophisticated style to Cartier’s “Into The Wild” event in Singapore, celebrating the brand’s iconic panther motifs and animal-inspired jewelry.\n\nShe stunned in multiple looks, from a strapless grey dress to a flowing black gown, accessorized with bold silver chains, sparkling bracelets, and statement earrings. Fans raved about her radiant smile and glamour, with one calling her “Elegance has a name.” The immersive experience opens to the public at 17 Rochester Park from October 21 to 25, with elements lingering at ION Orchard through early November.",
-      "body_zh": "邝玲玲亮相卡地亚新加坡「Into The Wild」活动。\n\n邝玲玲身着闪亮黑色亮片礼服与戏剧感花卉手套，在丛林风布景前自信亮相。\n\n10 月 19 日，泰国演员邝玲玲出席卡地亚新加坡「Into The Wild」活动，呼应品牌黑豹与动物主题珠宝。她多次换装，从抹胸灰裙到飘逸黑礼服，搭配银色链条、手镯与夸张耳环。\n\n粉丝称赞其笑容与气质。沉浸式体验 10 月 21–25 日对公众开放于 Rochester Park 17 号，部分展陈延续至 ION Orchard 至 11 月初。",
-      "url": "https://x.com/i/trending/2112078869360726394",
-      "category": "Entertainment",
-      "topics": [
-        "Celebrity"
-      ],
-      "updated_at": "2026-10-21T06:02:16.000Z"
-    },
-    {
       "id": "2112506238923608157",
       "domain": "娱乐",
       "title_en": "Fans Adore Pooh Krittin and Pavel Naret's Grim Reaper Promo Photos",
@@ -1314,24 +1291,6 @@
         "Celebrity"
       ],
       "updated_at": "2026-10-20T11:32:52.000Z"
-    },
-    {
-      "id": "2111997785189093552",
-      "domain": "娱乐",
-      "title_en": "Netflix's Norm Macdonald Documentary Draws Laughs and Mixed Views",
-      "title_zh": "Netflix 诺曼·麦克唐纳纪录片引笑声与分歧评价",
-      "hook_en": "Five years after Norm Macdonald's death at 61, fans are revisiting his deadpan genius through a new Netflix film that mixes laughs with heartfelt memories.",
-      "hook_zh": "诺曼·麦克唐纳 61 岁去世五年后，粉丝通过 Netflix 新片重温其冷面天才，笑声夹杂深情回忆。",
-      "summary_en": "Directed by Judd Apatow, 'Norm: The Tale of Norm Macdonald' premiered October 16 and runs two hours, using archival clips, home videos, photos, and his own audiobook narration instead of new interviews. Viewers praise it as a worthy tribute to his SNL Weekend Update days, O.J. jokes, and legendary timing, with some left laughing and crying over the man they miss. Others call it a clip show lacking fresh insight or his edgier routines, like certain 9/11 bits, though it highlights his private cancer battle and uncompromised style. The responses reflect his enduring, divisive impact on comedy.",
-      "summary_zh": "贾德·阿帕图执导的《Norm: The Tale of Norm Macdonald》10 月 16 日首播，长约两小时，以档案片段、家庭录像、照片及其有声书旁白取代新采访。观众赞其为对 SNL 周末更新、O.J. 笑话与传奇节奏感的得体致敬，有人又笑又哭；亦有人觉像剪辑秀、缺新洞见或其更锐利段子。影片亦触及他私下抗癌与不妥协风格，反映其喜剧遗产的持久与争议。",
-      "body_en": "Netflix's Norm Macdonald Documentary Draws Laughs and Mixed Views.\n\nFive years after Norm Macdonald's death at 61, fans are revisiting his deadpan genius through a new Netflix film that mixes laughs with heartfelt memories.\n\nDirected by Judd Apatow, 'Norm: The Tale of Norm Macdonald' premiered October 16 and runs two hours, using archival clips, home videos, photos, and his own audiobook narration instead of new interviews. Viewers praise it as a worthy tribute to his SNL Weekend Update days, O.J.\n\njokes, and legendary timing, with some left laughing and crying over the man they miss. Others call it a clip show lacking fresh insight or his edgier routines, like certain 9/11 bits, though it highlights his private cancer battle and uncompromised style. The responses reflect his enduring, divisive impact on comedy.",
-      "body_zh": "Netflix 诺曼·麦克唐纳纪录片引笑声与分歧评价。\n\n诺曼·麦克唐纳 61 岁去世五年后，粉丝通过 Netflix 新片重温其冷面天才，笑声夹杂深情回忆。\n\n贾德·阿帕图执导的《Norm: The Tale of Norm Macdonald》10 月 16 日首播，长约两小时，以档案片段、家庭录像、照片及其有声书旁白取代新采访。观众赞其为对 SNL 周末更新、O.J. 笑话与传奇节奏感的得体致敬，有人又笑又哭；亦有人觉像剪辑秀、缺新洞见或其更锐利段子。\n\n影片亦触及他私下抗癌与不妥协风格，反映其喜剧遗产的持久与争议。",
-      "url": "https://x.com/i/trending/2111997785189093552",
-      "category": "Entertainment",
-      "topics": [
-        "Movies & TV"
-      ],
-      "updated_at": "2026-10-20T05:10:09.000Z"
     },
     {
       "id": "2112653365356433717",
@@ -1371,61 +1330,6 @@
       "updated_at": "2026-10-20T18:15:13.000Z"
     },
     {
-      "id": "2112773061053460813",
-      "domain": "娱乐",
-      "title_en": "Global Fans Rally for 'Love On Hire' Premiere Tomorrow",
-      "title_zh": "全球粉丝为《Love On Hire》明日首播集结应援",
-      "hook_en": "Fans everywhere are buzzing with countdown posts like 'LOVE ON HIRE TOMORROW!!!!! T-O-M-O-R-R-O-W' as the Thai GL series gears up for its October 22 debut.",
-      "hook_zh": "粉丝倒计时刷屏「LOVE ON HIRE TOMORROW」，泰国 GL 剧集将于 10 月 22 日开播。",
-      "summary_en": "The WeTV Original romantic comedy stars Ginny Natnicha as poised CEO Chat in an arranged marriage and Jayna Angelina Stevens as Nan, hired to shake it up, blending revenge, fake dating, and real romance across 10 episodes airing Thursdays at 8 p.m. Thailand time. Chinese fans launched a 'Money Flower Bouquet' with 511,000 THB to cover production costs and celebrate Jayna's role, while U.S. supporters push WeTV VIP subscriptions and food projects deliver sushi platters to Ginny. From Bangkok screenings at Siam Paragon to subscription giveaways in the Philippines, Alkeys and global fandoms are turning excitement into coordinated gestures for the duo's latest work.",
-      "summary_zh": "WeTV 原创浪漫喜剧由 Ginny Natnicha 饰演冷静 CEO Chat、Jayna Angelina Stevens 饰演受雇搅局的 Nan，融合复仇、假约会与真感情，共 10 集，每周四泰国时间晚 8 点播出。中国粉丝发起约 51.1 万泰铢「金钱花束」助力制作并庆祝 Jayna 角色；美国支持者推动 WeTV VIP 订阅，餐饮项目则给 Ginny 送上寿司拼盘。从曼谷 Siam Paragon 放映到菲律宾订阅赠礼，Alkeys 与全球粉丝把热情变成有组织应援。",
-      "body_en": "Global Fans Rally for 'Love On Hire' Premiere Tomorrow.\n\nFans everywhere are buzzing with countdown posts like 'LOVE ON HIRE TOMORROW!!!!! T-O-M-O-R-R-O-W' as the Thai GL series gears up for its October 22 debut.\n\nThe WeTV Original romantic comedy stars Ginny Natnicha as poised CEO Chat in an arranged marriage and Jayna Angelina Stevens as Nan, hired to shake it up, blending revenge, fake dating, and real romance across 10 episodes airing Thursdays at 8 p.m. Thailand time.\n\nChinese fans launched a 'Money Flower Bouquet' with 511,000 THB to cover production costs and celebrate Jayna's role, while U.S. supporters push WeTV VIP subscriptions and food projects deliver sushi platters to Ginny. From Bangkok screenings at Siam Paragon to subscription giveaways in the Philippines, Alkeys and global fandoms are turning excitement into coordinated gestures for the duo's latest work.",
-      "body_zh": "全球粉丝为《Love On Hire》明日首播集结应援。\n\n粉丝倒计时刷屏「LOVE ON HIRE TOMORROW」，泰国 GL 剧集将于 10 月 22 日开播。\n\nWeTV 原创浪漫喜剧由 Ginny Natnicha 饰演冷静 CEO Chat、Jayna Angelina Stevens 饰演受雇搅局的 Nan，融合复仇、假约会与真感情，共 10 集，每周四泰国时间晚 8 点播出。\n\n中国粉丝发起约 51.1 万泰铢「金钱花束」助力制作并庆祝 Jayna 角色；美国支持者推动 WeTV VIP 订阅，餐饮项目则给 Ginny 送上寿司拼盘。从曼谷 Siam Paragon 放映到菲律宾订阅赠礼，Alkeys 与全球粉丝把热情变成有组织应援。",
-      "url": "https://x.com/i/trending/2112773061053460813",
-      "category": "Entertainment",
-      "topics": [
-        "Movies & TV"
-      ],
-      "updated_at": "2026-10-21T05:13:15.000Z"
-    },
-    {
-      "id": "2112352804241285515",
-      "domain": "娱乐",
-      "title_en": "Dwayne Johnson Transforms into 70-Year-Old Chicken Man for Lizard Music",
-      "title_zh": "巨石强森变装 70 岁「鸡肉人」出演《Lizard Music》",
-      "hook_en": "Dwayne Johnson stepped out on New York streets looking worlds away from his ripped action-hero self—gray hair, wrinkles, and a bucket hat making him truly unrecognizable as the eccentric Chicken Man.",
-      "hook_zh": "巨石强森现身纽约街头：灰发、皱纹、渔夫帽，几乎认不出他就是古怪的「鸡肉人」。",
-      "summary_en": "He's filming Lizard Music, a live-action/CGI adaptation of Daniel Pinkwater’s 1976 children’s book about a boy who discovers lizards playing otherworldly music on late-night TV and befriends the Chicken Man and his 111-year-old chicken. Johnson, alongside young co-star Theo Clark Leber, sports extensive makeup, prosthetics, and weight loss for the role, directed by Benny Safdie with a cast including Rachel McAdams, Jeff Goldblum, and others. Set for a Christmas Day 2027 theatrical release, the family adventure captures whimsical moments like pizza slices and a giant lizard plush, drawing praise for Johnson's bold shift to dramatic roles.",
-      "summary_zh": "他正在拍摄《Lizard Music》，这部真人与 CGI 结合的作品改编自丹尼尔·平克沃特 1976 年童书：男孩在深夜电视发现演奏异界音乐的蜥蜴，并结识鸡肉人及其 111 岁老母鸡。强森与年轻对手戏演员 Theo Clark Leber 同台，依赖大量化妆、假体与减重塑形；导演为本尼·萨夫迪，卡司还包括瑞秋·麦克亚当斯、杰夫·高布伦等。影片定档 2027 年圣诞节院线上映，花絮中披萨片与巨型蜥蜴玩偶尽显奇幻，外界称赞强森大胆转向戏剧角色。",
-      "body_en": "Dwayne Johnson Transforms into 70-Year-Old Chicken Man for Lizard Music.\n\nDwayne Johnson stepped out on New York streets looking worlds away from his ripped action-hero self—gray hair, wrinkles, and a bucket hat making him truly unrecognizable as the eccentric Chicken Man.\n\nHe's filming Lizard Music, a live-action/CGI adaptation of Daniel Pinkwater’s 1976 children’s book about a boy who discovers lizards playing otherworldly music on late-night TV and befriends the Chicken Man and his 111-year-old chicken.\n\nJohnson, alongside young co-star Theo Clark Leber, sports extensive makeup, prosthetics, and weight loss for the role, directed by Benny Safdie with a cast including Rachel McAdams, Jeff Goldblum, and others. Set for a Christmas Day 2027 theatrical release, the family adventure captures whimsical moments like pizza slices and a giant lizard plush, drawing praise for Johnson's bold shift to dramatic roles.",
-      "body_zh": "巨石强森变装 70 岁「鸡肉人」出演《Lizard Music》。\n\n巨石强森现身纽约街头：灰发、皱纹、渔夫帽，几乎认不出他就是古怪的「鸡肉人」。\n\n他正在拍摄《Lizard Music》，这部真人与 CGI 结合的作品改编自丹尼尔·平克沃特 1976 年童书：男孩在深夜电视发现演奏异界音乐的蜥蜴，并结识鸡肉人及其 111 岁老母鸡。\n\n强森与年轻对手戏演员 Theo Clark Leber 同台，依赖大量化妆、假体与减重塑形；导演为本尼·萨夫迪，卡司还包括瑞秋·麦克亚当斯、杰夫·高布伦等。影片定档 2027 年圣诞节院线上映，花絮中披萨片与巨型蜥蜴玩偶尽显奇幻，外界称赞强森大胆转向戏剧角色。",
-      "url": "https://x.com/i/trending/2112352804241285515",
-      "category": "Entertainment",
-      "topics": [
-        "Movies & TV",
-        "Celebrity"
-      ],
-      "updated_at": "2026-10-21T09:06:08.000Z"
-    },
-    {
-      "id": "2112743486222905714",
-      "domain": "娱乐",
-      "title_en": "Skarsgård Brothers Shine at Wicker Premiere",
-      "title_zh": "斯卡斯加德兄弟亮相《Wicker》首映",
-      "hook_en": "Alexander Skarsgård turned heads with a black shirt framed by Olivia Colman's face, standing tall next to brother Bill in burgundy on the red carpet.",
-      "hook_zh": "亚历山大·斯卡斯加德身着印有奥利维娅·科尔曼面孔的黑衬衫亮相，身旁弟弟比尔酒红造型形成鲜明对比。",
-      "summary_en": "The Los Angeles premiere of romantic fantasy comedy Wicker on October 20 brought the Skarsgård brothers together, with Alexander in playful attire honoring co-star Olivia Colman and Bill offering sharp sibling contrast. Fans loved the shirt tribute and the brothers' entertaining dynamic, while Colman joined for photos and a lively Q&A with directors Alex Huston Fischer and Eleanor Wilson. The film adapts The Wicker Husband short story about a fisherwoman's woven spouse stirring village drama, hitting U.S. theaters October 23 with stars like Peter Dinklage and Elizabeth Debicki.",
-      "summary_zh": "浪漫奇幻喜剧《Wicker》10 月 20 日洛杉矶首映，斯卡斯加德兄弟同台：亚历山大以趣味装扮向搭档奥利维娅·科尔曼致敬，比尔则形成鲜明反差。粉丝盛赞衬衫梗与兄弟互动；科尔曼一同拍照，并与导演 Alex Huston Fischer、Eleanor Wilson 参加问答。影片改编短篇《The Wicker Husband》，讲述渔妇编织出丈夫搅动村庄的故事，定于 10 月 23 日北美上映，卡司还包括彼得·丁拉基、伊丽莎白·德比茨基等。",
-      "body_en": "Skarsgård Brothers Shine at Wicker Premiere.\n\nAlexander Skarsgård turned heads with a black shirt framed by Olivia Colman's face, standing tall next to brother Bill in burgundy on the red carpet.\n\nThe Los Angeles premiere of romantic fantasy comedy Wicker on October 20 brought the Skarsgård brothers together, with Alexander in playful attire honoring co-star Olivia Colman and Bill offering sharp sibling contrast. Fans loved the shirt tribute and the brothers' entertaining dynamic, while Colman joined for photos and a lively Q&A with directors Alex Huston Fischer and Eleanor Wilson.\n\nThe film adapts The Wicker Husband short story about a fisherwoman's woven spouse stirring village drama, hitting U.S. theaters October 23 with stars like Peter Dinklage and Elizabeth Debicki.",
-      "body_zh": "斯卡斯加德兄弟亮相《Wicker》首映。\n\n亚历山大·斯卡斯加德身着印有奥利维娅·科尔曼面孔的黑衬衫亮相，身旁弟弟比尔酒红造型形成鲜明对比。\n\n浪漫奇幻喜剧《Wicker》10 月 20 日洛杉矶首映，斯卡斯加德兄弟同台：亚历山大以趣味装扮向搭档奥利维娅·科尔曼致敬，比尔则形成鲜明反差。\n\n粉丝盛赞衬衫梗与兄弟互动；科尔曼一同拍照，并与导演 Alex Huston Fischer、Eleanor Wilson 参加问答。影片改编短篇《The Wicker Husband》，讲述渔妇编织出丈夫搅动村庄的故事，定于 10 月 23 日北美上映，卡司还包括彼得·丁拉基、伊丽莎白·德比茨基等。",
-      "url": "https://x.com/i/trending/2112743486222905714",
-      "category": "Entertainment",
-      "topics": [
-        "Movies & TV"
-      ],
-      "updated_at": "2026-10-21T08:16:30.000Z"
-    },
-    {
       "id": "2112623564083876203",
       "domain": "娱乐",
       "title_en": "Hudson Williams Embraces New Role in 'Yaga' with Fan Support",
@@ -1442,6 +1346,97 @@
         "Celebrity"
       ],
       "updated_at": "2026-10-20T23:00:33.000Z"
+    },
+    {
+      "id": "2112015870860066950",
+      "domain": "娱乐",
+      "title_en": "Burberry's 'Same City, Different Rhythms' Campaign Stars Bright and Son in LA",
+      "title_zh": "博柏利「同城异拍」广告：Bright 与孙兴慜亮相洛杉矶",
+      "hook_en": "Bright Vachirawit cruises LA in a check-collar car coat, while Son Heung-Min walks his dog at dawn in a quilted jacket—their paths crossing to showcase Burberry's versatile outerwear.",
+      "hook_zh": "泰国演员兼歌手 Bright Vachirawit 穿格纹领驾车外套驶过洛杉矶，韩国球星孙兴慜清晨遛狗时身着绗缝外套——两人轨迹交汇，展示博柏利百搭外套。",
+      "summary_en": "Burberry launched a short film and portraits featuring Thai actor-singer Bright Vachirawit and South Korean footballer Son Heung-Min exploring Los Angeles' contrasting rhythms. Bright drives through California scenery in layered looks like navy wool peacoats and chunky check scarves, while Son relaxes in a black double-breasted coat during an early garden stroll. The campaign highlights hero outerwear and accessories that fit real-life moments, from open roads to dawn walks, blending the brand's heritage with the ambassadors' personal styles. Fans praised the polished, practical pieces against LA's sunny backdrop.",
+      "summary_zh": "博柏利推出短片与肖像系列，由 Bright 与孙兴慜演绎洛杉矶的不同节奏：Bright 以海军蓝羊毛大衣、厚实格纹围巾等 dig 层穿造型驶过加州风景；孙兴慜则在清晨花园漫步中穿着黑色双排扣大衣。广告强调适配真实场景的主打外套与配饰，从开放公路到黎明散步，融合品牌传承与代言人个人风格。粉丝称赞这些在阳光洛杉矶背景下既精致又实用的单品。",
+      "body_en": "Burberry's 'Same City, Different Rhythms' Campaign Stars Bright and Son in LA.\n\nBright Vachirawit cruises LA in a check-collar car coat, while Son Heung-Min walks his dog at dawn in a quilted jacket—their paths crossing to showcase Burberry's versatile outerwear.\n\nBurberry launched a short film and portraits featuring Thai actor-singer Bright Vachirawit and South Korean footballer Son Heung-Min exploring Los Angeles' contrasting rhythms. Bright drives through California scenery in layered looks like navy wool peacoats and chunky check scarves, while Son relaxes in a black double-breasted coat during an early garden stroll.\n\nThe campaign highlights hero outerwear and accessories that fit real-life moments, from open roads to dawn walks, blending the brand's heritage with the ambassadors' personal styles. Fans praised the polished, practical pieces against LA's sunny backdrop.",
+      "body_zh": "博柏利「同城异拍」广告：Bright 与孙兴慜亮相洛杉矶。\n\n泰国演员兼歌手 Bright Vachirawit 穿格纹领驾车外套驶过洛杉矶，韩国球星孙兴慜清晨遛狗时身着绗缝外套——两人轨迹交汇，展示博柏利百搭外套。\n\n博柏利推出短片与肖像系列，由 Bright 与孙兴慜演绎洛杉矶的不同节奏：Bright 以海军蓝羊毛大衣、厚实格纹围巾等 dig 层穿造型驶过加州风景；孙兴慜则在清晨花园漫步中穿着黑色双排扣大衣。\n\n广告强调适配真实场景的主打外套与配饰，从开放公路到黎明散步，融合品牌传承与代言人个人风格。粉丝称赞这些在阳光洛杉矶背景下既精致又实用的单品。",
+      "url": "https://x.com/i/trending/2112015870860066950",
+      "category": "Entertainment",
+      "topics": [
+        "Fashion",
+        "Celebrity"
+      ],
+      "updated_at": "2026-10-19T11:37:07.000Z"
+    },
+    {
+      "id": "2112801173090587112",
+      "domain": "娱乐",
+      "title_en": "Lingling Kwong Shines at Cartier Event in Singapore",
+      "title_zh": "Lingling Kwong 亮相新加坡卡地亚活动",
+      "hook_en": "Lingling Kwong stepped into Cartier’s wild jungle-themed world in a sleek black sequined gown and dramatic gloves, turning heads with her timeless elegance.",
+      "hook_zh": "Lingling Kwong 身着黑色亮片长裙、配戏剧性手套，走进卡地亚丛林主题场景，以经典优雅吸引目光。",
+      "summary_en": "At the 'Into the Wild' immersive experience in Rochester Park on October 21, Kwong wore pieces from Cartier’s new Faune & Flore collection, featuring onyx, sapphires, and diamonds that fans called striking and queenly. The event celebrates the brand’s animal-inspired designs through October 25. That same day, she promoted Her Hyness sunscreen at a big fan event in Bangkok, highlighting her rising star in luxury and beauty.",
+      "summary_zh": "10 月 21 日在罗切斯特公园举行的「Into the Wild」沉浸式体验中，她佩戴卡地亚全新 Faune & Flore 系列，搭配缟玛瑙、蓝宝石与钻石，被粉丝称为「女王范」。活动展出品牌动物灵感设计，持续至 10 月 25 日。同日她还在曼谷大型粉丝活动上推广 Her Hyness 防晒产品，凸显其在奢侈品与美妆领域的上升势头。",
+      "body_en": "Lingling Kwong Shines at Cartier Event in Singapore.\n\nLingling Kwong stepped into Cartier’s wild jungle-themed world in a sleek black sequined gown and dramatic gloves, turning heads with her timeless elegance.\n\nAt the 'Into the Wild' immersive experience in Rochester Park on October 21, Kwong wore pieces from Cartier’s new Faune & Flore collection, featuring onyx, sapphires, and diamonds that fans called striking and queenly.\n\nThe event celebrates the brand’s animal-inspired designs through October 25. That same day, she promoted Her Hyness sunscreen at a big fan event in Bangkok, highlighting her rising star in luxury and beauty.",
+      "body_zh": "Lingling Kwong 亮相新加坡卡地亚活动。\n\nLingling Kwong 身着黑色亮片长裙、配戏剧性手套，走进卡地亚丛林主题场景，以经典优雅吸引目光。\n\n10 月 21 日在罗切斯特公园举行的「Into the Wild」沉浸式体验中，她佩戴卡地亚全新 Faune & Flore 系列，搭配缟玛瑙、蓝宝石与钻石，被粉丝称为「女王范」。\n\n活动展出品牌动物灵感设计，持续至 10 月 25 日。同日她还在曼谷大型粉丝活动上推广 Her Hyness 防晒产品，凸显其在奢侈品与美妆领域的上升势头。",
+      "url": "https://x.com/i/trending/2112801173090587112",
+      "category": "Entertainment",
+      "topics": [
+        "Celebrity"
+      ],
+      "updated_at": "2026-10-21T09:30:31.000Z"
+    },
+    {
+      "id": "2112393265664401835",
+      "domain": "娱乐",
+      "title_en": "Xiao Zhan's 'Small Town Remedy' Premieres Today on CCTV-8 and iQIYI",
+      "title_zh": "肖战主演《小城良方》温情首映",
+      "hook_en": "Xiao Zhan lights up a recent promo event with free laughter and warm smiles, moments fans say they've missed while awaiting his new role as a healing doctor.",
+      "hook_zh": "宣传访谈里肖战开怀大笑，让粉丝又见到熟悉的欢乐气场。",
+      "summary_en": "The 30-episode drama follows skilled doctor Liu Zhengliang, played by Xiao Zhan, who returns to his small hometown after a setback to rebuild at a local hospital and connect with residents through ordinary, healing moments. At a lively cast event, co-star Shi Pengyuan praised Xiao Zhan's expressive eyes and on-set care, leaving him shy amid laughs. Xiao Zhan also sings the gentle theme song 'Gently,' now streaming, as prime-time episodes roll out today, drawing fans to his wholesome journey of growth and kindness.",
+      "summary_zh": "他饰演返乡东北小城医院的外科医生刘正亮；剧集 10 月 21 日起登陆央视八套与爱奇艺，主题曲为《轻轻》。",
+      "body_en": "Xiao Zhan's 'Small Town Remedy' Premieres Today on CCTV-8 and iQIYI.\n\nXiao Zhan lights up a recent promo event with free laughter and warm smiles, moments fans say they've missed while awaiting his new role as a healing doctor.\n\nThe 30-episode drama follows skilled doctor Liu Zhengliang, played by Xiao Zhan, who returns to his small hometown after a setback to rebuild at a local hospital and connect with residents through ordinary, healing moments.\n\nAt a lively cast event, co-star Shi Pengyuan praised Xiao Zhan's expressive eyes and on-set care, leaving him shy amid laughs. Xiao Zhan also sings the gentle theme song 'Gently,' now streaming, as prime-time episodes roll out today, drawing fans to his wholesome journey of growth and kindness.",
+      "body_zh": "肖战主演《小城良方》温情首映。\n\n宣传访谈里肖战开怀大笑，让粉丝又见到熟悉的欢乐气场。\n\n他饰演返乡东北小城医院的外科医生刘正亮；剧集 10 月 21 日起登陆央视八套与爱奇艺，主题曲为《轻轻》。",
+      "url": "https://x.com/i/trending/2112393265664401835",
+      "category": "Entertainment",
+      "topics": [
+        "Movies & TV"
+      ],
+      "updated_at": "2026-10-21T09:47:53.000Z"
+    },
+    {
+      "id": "2112406857104937274",
+      "domain": "娱乐",
+      "title_en": "Lingling Kwong and Orm Kornnaphat Announce First Overseas Fancon in Macau",
+      "title_zh": "Lingling 与 Orm 宣布首场海外粉丝演唱会落地澳门",
+      "hook_en": "A 75-year-old fan from Trang, Thailand, is flying solo to Macau just to see Lingling Kwong and Orm Kornnaphat live. Her story captures the deep devotion fans have for the Thai GL stars' chemistry.",
+      "hook_zh": "泰国董里府一位 75 岁粉丝将独自飞赴澳门观看 Lingling Kwong 与 Orm Kornnaphat——她的故事折射出粉丝对这对泰剧 GL 组合默契的深厚热爱。",
+      "summary_en": "The duo's LINGORM Born To Fly 1st FANCON IN MACAO takes place November 28, 2026, at 4 p.m. at The Londoner Arena, which holds up to 6,000 people. Tickets go on sale October 28 through Cotai Ticketing, Damai, and Trip.com, with VIP at $1,999 MOP/HKD including sound checks and group photos, while lower tiers offer posters and photocards. The event promises joint stages, solo performances, games, and surprises, building on their recent emotional Thailand concerts and marking their push into international shows.",
+      "summary_zh": "「LINGORM Born To Fly 1st FANCON IN MACAO」定于 2026 年 11 月 28 日下午 4 点在可容纳约 6000 人的 The Londoner Arena 举行。门票 10 月 28 日起经 Cotai Ticketing、大麦与 Trip.com 开售；VIP 票价 1999 澳门元/港元，含彩排与合影，较低档含海报与小卡。演唱会将有双人舞台、个人表演、互动游戏与惊喜环节，承接她们近期情感充沛的泰国专场，也是迈向国际巡演的一步。",
+      "body_en": "Lingling Kwong and Orm Kornnaphat Announce First Overseas Fancon in Macau.\n\nA 75-year-old fan from Trang, Thailand, is flying solo to Macau just to see Lingling Kwong and Orm Kornnaphat live. Her story captures the deep devotion fans have for the Thai GL stars' chemistry.\n\nThe duo's LINGORM Born To Fly 1st FANCON IN MACAO takes place November 28, 2026, at 4 p.m. at The Londoner Arena, which holds up to 6,000 people.\n\nTickets go on sale October 28 through Cotai Ticketing, Damai, and Trip.com, with VIP at $1,999 MOP/HKD including sound checks and group photos, while lower tiers offer posters and photocards. The event promises joint stages, solo performances, games, and surprises, building on their recent emotional Thailand concerts and marking their push into international shows.",
+      "body_zh": "Lingling 与 Orm 宣布首场海外粉丝演唱会落地澳门。\n\n泰国董里府一位 75 岁粉丝将独自飞赴澳门观看 Lingling Kwong 与 Orm Kornnaphat——她的故事折射出粉丝对这对泰剧 GL 组合默契的深厚热爱。\n\n「LINGORM Born To Fly 1st FANCON IN MACAO」定于 2026 年 11 月 28 日下午 4 点在可容纳约 6000 人的 The Londoner Arena 举行。\n\n门票 10 月 28 日起经 Cotai Ticketing、大麦与 Trip.com 开售；VIP 票价 1999 澳门元/港元，含彩排与合影，较低档含海报与小卡。演唱会将有双人舞台、个人表演、互动游戏与惊喜环节，承接她们近期情感充沛的泰国专场，也是迈向国际巡演的一步。",
+      "url": "https://x.com/i/trending/2112406857104937274",
+      "category": "Entertainment",
+      "topics": [
+        "Concerts"
+      ],
+      "updated_at": "2026-10-20T08:09:30.000Z"
+    },
+    {
+      "id": "2112830013229744637",
+      "domain": "娱乐",
+      "title_en": "PLAVE Unveils Hamin's 2026 Birthday Kit with Celestial Design",
+      "title_zh": "PLAVE 公开成员 Hamin 2026 生日周边，宇宙主题设计",
+      "hook_en": "Hamin personally designed the open black birthday ring, engraving it with his initials 'H.M.,' star motifs, and 'THE UNIVERSE FOR YOU.' Fans are loving this intimate touch from PLAVE's maknae.",
+      "hook_zh": "Hamin 亲自设计开口黑色生日戒指，刻上姓名缩写「H.M.」、星辰图案与「THE UNIVERSE FOR YOU」，粉丝直呼虚拟男团忙内的心意满满。",
+      "summary_en": "PLAVE, the five-member virtual K-pop group, released the 2026 birthday kit for main dancer and lead rapper Hamin on October 21. The sleek black-and-silver collection includes a silver necklace, the custom ring, three photocards, a making book, wheel chart, birthday card, all in a 110mm box with universe themes. Fans worldwide, especially in Thailand, snapped up pre-orders around 1,190–1,290 THB, praising the detailed engravings and dark palette as they gear up for Hamin's November 1 birthday.",
+      "summary_zh": "五人虚拟 K-pop 组合 PLAVE 于 10 月 21 日发售主舞兼领唱说唱 Hamin 的 2026 生日套装。黑银配色系列含银项链、定制戒指、三张小卡、制作手册、轮盘图与生日卡，装在 110 毫米宇宙主题礼盒中。全球粉丝、尤其泰国市场以约 1190–1290 泰铢预购，称赞雕刻细节与暗色调，为 11 月 1 日 Hamin 生日造势。",
+      "body_en": "PLAVE Unveils Hamin's 2026 Birthday Kit with Celestial Design.\n\nHamin personally designed the open black birthday ring, engraving it with his initials 'H.M.,' star motifs, and 'THE UNIVERSE FOR YOU.' Fans are loving this intimate touch from PLAVE's maknae.\n\nPLAVE, the five-member virtual K-pop group, released the 2026 birthday kit for main dancer and lead rapper Hamin on October 21.\n\nThe sleek black-and-silver collection includes a silver necklace, the custom ring, three photocards, a making book, wheel chart, birthday card, all in a 110mm box with universe themes. Fans worldwide, especially in Thailand, snapped up pre-orders around 1,190–1,290 THB, praising the detailed engravings and dark palette as they gear up for Hamin's November 1 birthday.",
+      "body_zh": "PLAVE 公开成员 Hamin 2026 生日周边，宇宙主题设计。\n\nHamin 亲自设计开口黑色生日戒指，刻上姓名缩写「H.M.」、星辰图案与「THE UNIVERSE FOR YOU」，粉丝直呼虚拟男团忙内的心意满满。\n\n五人虚拟 K-pop 组合 PLAVE 于 10 月 21 日发售主舞兼领唱说唱 Hamin 的 2026 生日套装。\n\n黑银配色系列含银项链、定制戒指、三张小卡、制作手册、轮盘图与生日卡，装在 110 毫米宇宙主题礼盒中。全球粉丝、尤其泰国市场以约 1190–1290 泰铢预购，称赞雕刻细节与暗色调，为 11 月 1 日 Hamin 生日造势。",
+      "url": "https://x.com/i/trending/2112830013229744637",
+      "category": "Entertainment",
+      "topics": [
+        "Music"
+      ],
+      "updated_at": "2026-10-21T08:59:35.000Z"
     },
     {
       "id": "2112433199888679267",
@@ -1592,24 +1587,6 @@
       "updated_at": "2026-10-20T20:33:11.000Z"
     },
     {
-      "id": "2112660061256335405",
-      "domain": "科学",
-      "title_en": "Florida Poly Police Debut First U.S. eVTOL for Campus Patrols",
-      "title_zh": "佛州理工警方启用美国校园首架 eVTOL 巡逻",
-      "hook_en": "Imagine a compact flying machine zipping over a sunny campus, letting officers reach remote spots faster than ever. Florida Polytechnic University just made that real with their new electric aircraft named Astro.",
-      "hook_zh": "紧凑电动飞行器掠过阳光校园，警员更快抵达偏远角落。佛罗里达理工大学用名为 Astro 的新电动飞行器把它变成现实。",
-      "summary_en": "The Florida Polytechnic University Police Department introduced the Jetson ONE eVTOL, a single-seat electric flyer reaching 63 mph with 20 minutes of flight time, for surveillance, emergencies, and accessing hard-to-reach areas on the Lakeland campus. Police Chief Aaron Murray called it a proactive step into advanced air mobility, with plans to partner with other agencies once FAA approval comes through. The $150,000 vehicle doubles as an educational tool for the school's aerospace engineering students, amid mixed reactions from excitement over innovation to worries about sky-high surveillance.",
-      "summary_zh": "佛罗里达理工大学警察局推出 Jetson ONE eVTOL：单座电动飞行器时速可达 63 英里、续航约 20 分钟，用于莱克兰校园监控、应急与抵达难达区域。警察局长 Aaron Murray 称迈向先进空中交通的主动一步，获 FAA 批准后拟与其他机构合作。造价约 15 万美元的载具亦作航空航天学生教具；反应既有对创新的兴奋，也有对「空中监控」的担忧。",
-      "body_en": "Florida Poly Police Debut First U.S. eVTOL for Campus Patrols.\n\nImagine a compact flying machine zipping over a sunny campus, letting officers reach remote spots faster than ever. Florida Polytechnic University just made that real with their new electric aircraft named Astro.\n\nThe Florida Polytechnic University Police Department introduced the Jetson ONE eVTOL, a single-seat electric flyer reaching 63 mph with 20 minutes of flight time, for surveillance, emergencies, and accessing hard-to-reach areas on the Lakeland campus.\n\nPolice Chief Aaron Murray called it a proactive step into advanced air mobility, with plans to partner with other agencies once FAA approval comes through. The $150,000 vehicle doubles as an educational tool for the school's aerospace engineering students, amid mixed reactions from excitement over innovation to worries about sky-high surveillance.",
-      "body_zh": "佛州理工警方启用美国校园首架 eVTOL 巡逻。\n\n紧凑电动飞行器掠过阳光校园，警员更快抵达偏远角落。佛罗里达理工大学用名为 Astro 的新电动飞行器把它变成现实。\n\n佛罗里达理工大学警察局推出 Jetson ONE eVTOL：单座电动飞行器时速可达 63 英里、续航约 20 分钟，用于莱克兰校园监控、应急与抵达难达区域。警察局长 Aaron Murray 称迈向先进空中交通的主动一步，获 FAA 批准后拟与其他机构合作。\n\n造价约 15 万美元的载具亦作航空航天学生教具；反应既有对创新的兴奋，也有对「空中监控」的担忧。",
-      "url": "https://x.com/i/trending/2112660061256335405",
-      "category": "News",
-      "topics": [
-        "Technology"
-      ],
-      "updated_at": "2026-10-21T03:00:44.000Z"
-    },
-    {
       "id": "2111892089000915435",
       "domain": "科学",
       "title_en": "President Ruto Launches Key Projects in Kapsabet Amid Huge Crowds",
@@ -1647,6 +1624,24 @@
       "updated_at": "2026-10-20T05:28:17.000Z"
     },
     {
+      "id": "2112852934581162367",
+      "domain": "科学",
+      "title_en": "Pakistan's First Comprehensive Stroke Centre Opens at JPMC in Karachi",
+      "title_zh": "巴基斯坦首家综合卒中中心在卡拉奇 JPMC 启用",
+      "hook_en": "In Karachi, time-sensitive stroke care just got a major upgrade with Pakistan's first dedicated centre offering free, advanced treatment to anyone in need.",
+      "hook_zh": "卡拉奇时间敏感的卒中救治迎来升级：全国首家专项中心向有需要者提供免费、先进治疗。",
+      "summary_en": "Jinnah Postgraduate Medical Centre in Karachi now runs the country's first comprehensive stroke centre, equipped with biplane angiography systems, a 15-bed neuro-ICU, step-down beds, and 24/7 CT scans for rapid stroke, aneurysm, and malformation treatment. Launched in 2026 through a partnership between the Pakistan Stroke Initiative, Patients’ Aid Foundation, JPMC, and the Sindh government, it provides all services free of cost after planning started around 2024, with early successes like aneurysm repairs and clot removals already saving lives. Supporters highlight how it eases family burdens in Sindh, where hundreds face strokes daily, building local expertise with international help to cut disability and deaths.",
+      "summary_zh": "卡拉奇真纳研究生医学中心（JPMC）已运营全国首家综合卒中中心，配备双平面血管造影、15 张神经重症监护床、过渡病床及全天候 CT，用于快速处理卒中、动脉瘤与血管畸形。该中心 2026 年由巴基斯坦卒中倡议、Patients’ Aid Foundation、JPMC 与信德省政府合作启用，服务全部免费；筹备约自 2024 年开始，已有动脉瘤修补与取栓等早期成功案例。支持者强调它减轻信德省每日数百名卒中患者家庭的负担，并借助国际协作提升本地能力，降低致残与死亡。",
+      "body_en": "Pakistan's First Comprehensive Stroke Centre Opens at JPMC in Karachi.\n\nIn Karachi, time-sensitive stroke care just got a major upgrade with Pakistan's first dedicated centre offering free, advanced treatment to anyone in need.\n\nJinnah Postgraduate Medical Centre in Karachi now runs the country's first comprehensive stroke centre, equipped with biplane angiography systems, a 15-bed neuro-ICU, step-down beds, and 24/7 CT scans for rapid stroke, aneurysm, and malformation treatment.\n\nLaunched in 2026 through a partnership between the Pakistan Stroke Initiative, Patients’ Aid Foundation, JPMC, and the Sindh government, it provides all services free of cost after planning started around 2024, with early successes like aneurysm repairs and clot removals already saving lives. Supporters highlight how it eases family burdens in Sindh, where hundreds face strokes daily, building local expertise with international help to cut disability and deaths.",
+      "body_zh": "巴基斯坦首家综合卒中中心在卡拉奇 JPMC 启用。\n\n卡拉奇时间敏感的卒中救治迎来升级：全国首家专项中心向有需要者提供免费、先进治疗。\n\n卡拉奇真纳研究生医学中心（JPMC）已运营全国首家综合卒中中心，配备双平面血管造影、15 张神经重症监护床、过渡病床及全天候 CT，用于快速处理卒中、动脉瘤与血管畸形。\n\n该中心 2026 年由巴基斯坦卒中倡议、Patients’ Aid Foundation、JPMC 与信德省政府合作启用，服务全部免费；筹备约自 2024 年开始，已有动脉瘤修补与取栓等早期成功案例。支持者强调它减轻信德省每日数百名卒中患者家庭的负担，并借助国际协作提升本地能力，降低致残与死亡。",
+      "url": "https://x.com/i/trending/2112852934581162367",
+      "category": "News",
+      "topics": [
+        "Health & Fitness"
+      ],
+      "updated_at": "2026-10-21T10:31:13.000Z"
+    },
+    {
       "id": "2112802744491000212",
       "domain": "科学",
       "title_en": "UN Report: 1.5°C Limit Overshoot Now Inevitable",
@@ -1660,27 +1655,27 @@
       "url": "https://x.com/i/trending/2112802744491000212",
       "category": "News",
       "topics": [
-        "News"
+        "Science"
       ],
       "updated_at": "2026-10-21T09:36:27.000Z"
     },
     {
-      "id": "2112623559793066330",
+      "id": "2112244933029761280",
       "domain": "科学",
-      "title_en": "College Student with Brain Tumor to Meet Trump at Rally",
-      "title_zh": "脑瘤大学生将在集会会见特朗普，呼吁治疗可及",
-      "hook_en": "Braelyn Hollensbe, a 19-year-old thriving in college after beating grim odds against a massive brain tumor, gets a special moment with President Trump tomorrow alongside her proud mom.",
-      "hook_zh": "19 岁布蕾琳·霍伦斯贝战胜巨大脑瘤重返大学，将与母亲一同在明日集会上与特朗普会面。",
-      "summary_en": "Diagnosed three years ago with aggressive glioblastoma, Braelyn underwent surgery at UCLA and now receives DCVax-L, a personalized vaccine made from her own tumor cells, in the UK since it's unavailable in the US. Her latest scans show no recurrence, yet her family pays out-of-pocket for travel and doses through 2029, aided by GoFundMe. At tomorrow's Clemson rally, Amanda plans to share details on care barriers and push for better access to promising US-developed treatments. Her story, highlighted in a recent commentary, spotlights calls to empower patients and doctors over regulators in desperate cases.",
-      "summary_zh": "三年前确诊侵袭性胶质母细胞瘤后，布蕾琳在加州大学洛杉矶分校接受手术，目前在英国使用由自身肿瘤细胞制成的个性化疫苗 DCVax-L——该疗法在美国尚不可及。最新扫描未见复发，但家人须自费承担赴英治疗至 2029 年的旅行与剂量，并靠 GoFundMe 筹资。在克莱姆森集会上，母亲阿曼达计划讲述就医障碍，推动更好获得美国研发却难落地的疗法。其故事在近期评论中被聚焦，呼吁在危急病例中更多赋权患者与医生，而非仅仰赖监管。",
-      "body_en": "College Student with Brain Tumor to Meet Trump at Rally.\n\nBraelyn Hollensbe, a 19-year-old thriving in college after beating grim odds against a massive brain tumor, gets a special moment with President Trump tomorrow alongside her proud mom.\n\nDiagnosed three years ago with aggressive glioblastoma, Braelyn underwent surgery at UCLA and now receives DCVax-L, a personalized vaccine made from her own tumor cells, in the UK since it's unavailable in the US. Her latest scans show no recurrence, yet her family pays out-of-pocket for travel and doses through 2029, aided by GoFundMe.\n\nAt tomorrow's Clemson rally, Amanda plans to share details on care barriers and push for better access to promising US-developed treatments. Her story, highlighted in a recent commentary, spotlights calls to empower patients and doctors over regulators in desperate cases.",
-      "body_zh": "脑瘤大学生将在集会会见特朗普，呼吁治疗可及。\n\n19 岁布蕾琳·霍伦斯贝战胜巨大脑瘤重返大学，将与母亲一同在明日集会上与特朗普会面。\n\n三年前确诊侵袭性胶质母细胞瘤后，布蕾琳在加州大学洛杉矶分校接受手术，目前在英国使用由自身肿瘤细胞制成的个性化疫苗 DCVax-L——该疗法在美国尚不可及。最新扫描未见复发，但家人须自费承担赴英治疗至 2029 年的旅行与剂量，并靠 GoFundMe 筹资。\n\n在克莱姆森集会上，母亲阿曼达计划讲述就医障碍，推动更好获得美国研发却难落地的疗法。其故事在近期评论中被聚焦，呼吁在危急病例中更多赋权患者与医生，而非仅仰赖监管。",
-      "url": "https://x.com/i/trending/2112623559793066330",
+      "title_en": "Dr. Priti Adani Outlines National Expansion of Healthcare Education and Research",
+      "title_zh": "普里蒂·阿达尼勾勒医疗教育与科研全国扩张",
+      "hook_en": "At the Adani Institute's 17th convocation in Wardha, Dr. Priti Adani spoke directly to graduates about blending compassion with cutting-edge care.",
+      "hook_zh": "在瓦尔达第 17 届毕业典礼上，她勉励毕业生把关怀与尖端医疗结合。",
+      "summary_en": "Dr. Priti Adani, Chancellor of the Adani Institute of Higher Education and Research, announced plans to strengthen Wardha and Nagpur campuses with modern medical equipment, advanced research, and super-specialty services over the next two years. The institute aims to build additional campuses across India, tailored to regional needs while upholding consistent standards and the principle of 'Seva hi sadhana hai'—service as devotion. Guided by UN Sustainable Development Goals, efforts will focus on preventive care, disease prevention, affordable treatments, and support for disadvantaged students, with Dr. Adani urging graduates to prioritize patients' dignity and lifelong learning alongside technical skills.",
+      "summary_zh": "阿达尼高等教育与研究院院长普里蒂·阿达尼宣布，未来两年将加强瓦尔达与那格浦尔校区的现代医疗设备、前沿科研与超专科服务，并按地区需求在全国增设校区，坚持“服务即修行”。计划对标联合国可持续发展目标，聚焦预防、可负担治疗与弱势学生支持，她呼吁毕业生在技术之外守护患者尊严与终身学习。",
+      "body_en": "Dr. Priti Adani Outlines National Expansion of Healthcare Education and Research.\n\nAt the Adani Institute's 17th convocation in Wardha, Dr. Priti Adani spoke directly to graduates about blending compassion with cutting-edge care.\n\nDr. Priti Adani, Chancellor of the Adani Institute of Higher Education and Research, announced plans to strengthen Wardha and Nagpur campuses with modern medical equipment, advanced research, and super-specialty services over the next two years.\n\nThe institute aims to build additional campuses across India, tailored to regional needs while upholding consistent standards and the principle of 'Seva hi sadhana hai'—service as devotion. Guided by UN Sustainable Development Goals, efforts will focus on preventive care, disease prevention, affordable treatments, and support for disadvantaged students, with Dr. Adani urging graduates to prioritize patients' dignity and lifelong learning alongside technical skills.",
+      "body_zh": "普里蒂·阿达尼勾勒医疗教育与科研全国扩张。\n\n在瓦尔达第 17 届毕业典礼上，她勉励毕业生把关怀与尖端医疗结合。\n\n阿达尼高等教育与研究院院长普里蒂·阿达尼宣布，未来两年将加强瓦尔达与那格浦尔校区的现代医疗设备、前沿科研与超专科服务，并按地区需求在全国增设校区，坚持“服务即修行”。计划对标联合国可持续发展目标，聚焦预防、可负担治疗与弱势学生支持，她呼吁毕业生在技术之外守护患者尊严与终身学习。",
+      "url": "https://x.com/i/trending/2112244933029761280",
       "category": "News",
       "topics": [
-        "Politics"
+        "Business & Finance"
       ],
-      "updated_at": "2026-10-20T21:46:13.000Z"
+      "updated_at": "2026-10-19T18:19:21.000Z"
     }
   ]
 }

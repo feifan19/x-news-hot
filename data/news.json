@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21 22:11 Asia/Shanghai",
-  "updated_at_iso": "2026-10-21T14:11:54.000Z",
+  "updated_at": "2026-10-21 23:05 Asia/Shanghai",
+  "updated_at_iso": "2026-10-21T15:05:53.000Z",
   "count": 91,
   "domains": [
     "科技",
@@ -204,25 +204,6 @@
       "updated_at": "2026-10-20T10:54:58.000Z"
     },
     {
-      "id": "2112569366479048900",
-      "domain": "科技",
-      "title_en": "Bob McGrew Launches $1.5B AI Startup Arda to Accelerate U.S. Manufacturing",
-      "title_zh": "前 OpenAI 研究负责人推出估值 15 亿美元制造 AI 创业公司 Arda",
-      "hook_en": "Bob McGrew, fresh from leading research at OpenAI, stepped onto CNBC this week to unveil Arda—a startup building AI agents that slash factory setup times from days to minutes.",
-      "hook_zh": "刚离开 OpenAI 研究负责人岗位的 Bob McGrew 登上 CNBC，介绍能把工厂筹备从“天”压到“分钟”的 AI 智能体创业公司 Arda。",
-      "summary_en": "Founded in 2025, Arda raised $160 million in a Series A round co-led by Altimeter Capital, Accel, and Khosla Ventures, pushing total funding to $230 million and valuing the company at $1.5 billion. The platform turns product designs into assembly instructions, already deployed across Anduril's divisions to cut engineering workflows from 30 hours to 2.5 hours or even 10 hours to 15 minutes. Co-founder Augustus Odena envisions AI that designs and runs entire factories, starting with manual lines and advancing to adaptable robotic systems amid pushes to bring production back to the U.S.",
-      "summary_zh": "Arda 成立于 2025 年，本轮 A 轮融资 1.6 亿美元，由 Altimeter、Accel 与 Khosla 等领投，累计融资约 2.3 亿美元，估值约 15 亿美元。平台可将产品设计转为装配指令，已在 Anduril 多部门落地，把部分工程流程从约 30 小时压到 2.5 小时，甚至 10 小时到 15 分钟。联合创始人设想 AI 逐步设计并运行整座工厂，从人工线走向可适应的机器人系统，契合制造业回流美国的讨论。",
-      "body_en": "Bob McGrew Launches $1.5B AI Startup Arda to Accelerate U.S. Manufacturing.\n\nBob McGrew, fresh from leading research at OpenAI, stepped onto CNBC this week to unveil Arda—a startup building AI agents that slash factory setup times from days to minutes.\n\nFounded in 2025, Arda raised $160 million in a Series A round co-led by Altimeter Capital, Accel, and Khosla Ventures, pushing total funding to $230 million and valuing the company at $1.5 billion.\n\nThe platform turns product designs into assembly instructions, already deployed across Anduril's divisions to cut engineering workflows from 30 hours to 2.5 hours or even 10 hours to 15 minutes. Co-founder Augustus Odena envisions AI that designs and runs entire factories, starting with manual lines and advancing to adaptable robotic systems amid pushes to bring production back to the U.S.",
-      "body_zh": "前 OpenAI 研究负责人推出估值 15 亿美元制造 AI 创业公司 Arda。\n\n刚离开 OpenAI 研究负责人岗位的 Bob McGrew 登上 CNBC，介绍能把工厂筹备从“天”压到“分钟”的 AI 智能体创业公司 Arda。\n\nArda 成立于 2025 年，本轮 A 轮融资 1.6 亿美元，由 Altimeter、Accel 与 Khosla 等领投，累计融资约 2.3 亿美元，估值约 15 亿美元。\n\n平台可将产品设计转为装配指令，已在 Anduril 多部门落地，把部分工程流程从约 30 小时压到 2.5 小时，甚至 10 小时到 15 分钟。联合创始人设想 AI 逐步设计并运行整座工厂，从人工线走向可适应的机器人系统，契合制造业回流美国的讨论。",
-      "url": "https://x.com/i/trending/2112569366479048900",
-      "category": "News",
-      "topics": [
-        "Technology",
-        "Business & Finance"
-      ],
-      "updated_at": "2026-10-21T00:10:14.000Z"
-    },
-    {
       "id": "2112613033243721837",
       "domain": "科技",
       "title_en": "OpenAI Acquires Orchestra Bio to Speed Drug Development",
@@ -242,22 +223,42 @@
       "updated_at": "2026-10-21T12:34:03.000Z"
     },
     {
-      "id": "2112613027359216016",
+      "id": "2112343868393816356",
       "domain": "科技",
-      "title_en": "Goldman Sachs, Microsoft, McDonald's Object to Tokenized Shares on OKXICE Platform",
-      "title_zh": "高盛、微软、麦当劳等反对 OKXICE 平台上的代币化正股",
-      "hook_en": "Major companies like Goldman Sachs, Microsoft, and McDonald's are drawing a line against tokenized versions of their shares on a new blockchain trading venue.",
-      "hook_zh": "高盛、微软、麦当劳等大型公司明确反对在新区块链交易场所上架其股份的代币化版本。",
-      "summary_en": "The OKXICE platform, backed by OKX and Intercontinental Exchange, aims to offer 24/7 trading of share-backed tokens settled in stablecoins under an SEC innovation exemption. Sixteen firms, including recent opt-outs from Alphabet, Qualcomm, and Caterpillar, have now objected, leaving 47 from the original 62 without disclosed pushback. Andrew Cuomo called the responses natural, noting the model allows companies to watch from the sidelines in this controlled sandbox. The objections test how traditional stocks move onchain amid questions on market structure and investor protections.",
-      "summary_zh": "OKX 与洲际交易所支持的 OKXICE 平台，拟在 SEC 创新豁免框架下提供由稳定币结算、可 24/7 交易的股份代币。包括近日表态的 Alphabet、高通、卡特彼勒在内，已有约 16 家公司提出反对，使可上架标的承压。支持者强调合规创新与流动性，反对方则担忧品牌、股东权益与监管边界。事态仍随监管沟通演进。",
-      "body_en": "Goldman Sachs, Microsoft, McDonald's Object to Tokenized Shares on OKXICE Platform.\n\nMajor companies like Goldman Sachs, Microsoft, and McDonald's are drawing a line against tokenized versions of their shares on a new blockchain trading venue.\n\nThe OKXICE platform, backed by OKX and Intercontinental Exchange, aims to offer 24/7 trading of share-backed tokens settled in stablecoins under an SEC innovation exemption. Sixteen firms, including recent opt-outs from Alphabet, Qualcomm, and Caterpillar, have now objected, leaving 47 from the original 62 without disclosed pushback.\n\nAndrew Cuomo called the responses natural, noting the model allows companies to watch from the sidelines in this controlled sandbox. The objections test how traditional stocks move onchain amid questions on market structure and investor protections.",
-      "body_zh": "高盛、微软、麦当劳等反对 OKXICE 平台上的代币化正股。\n\n高盛、微软、麦当劳等大型公司明确反对在新区块链交易场所上架其股份的代币化版本。\n\nOKX 与洲际交易所支持的 OKXICE 平台，拟在 SEC 创新豁免框架下提供由稳定币结算、可 24/7 交易的股份代币。包括近日表态的 Alphabet、高通、卡特彼勒在内，已有约 16 家公司提出反对，使可上架标的承压。\n\n支持者强调合规创新与流动性，反对方则担忧品牌、股东权益与监管边界。事态仍随监管沟通演进。",
-      "url": "https://x.com/i/trending/2112613027359216016",
+      "title_en": "NVIDIA Unveils Modular AI Factories Slashing Deployment to 14 Days",
+      "title_zh": "英伟达发布模块化 AI 工厂，部署最短可压至 14 天",
+      "hook_en": "Imagine turning months of AI factory construction into just 14 days of setup. NVIDIA's new DSX POD system makes that possible, delivering pre-built, fully wired containers ready to plug in.",
+      "hook_zh": "把原本需要数月的 AI 工厂建设压缩到约 14 天——英伟达新的 DSX POD 系统把预装、全接线的集装箱直接交付，插上即可用。",
+      "summary_en": "At GTC Berlin, NVIDIA introduced the DSX POD reference design, which packs complete Vera Rubin AI factories into factory-tested containers for partners to integrate off-site. This cuts deployment from months to as little as 14 days, addressing key bottlenecks in data center builds and speeding up revenue from token production, as CEO Jensen Huang emphasized. The event spotlighted European cloud provider Nebius, praised by Huang for its strong performance, with CEO Arkady Volozh noting robust demand and expansion plans targeting $8 billion in annual recurring revenue. DSX POD units will roll out worldwide in early 2027, boosting Europe's AI ecosystem.",
+      "summary_zh": "在柏林 GTC 上，英伟达推出 DSX POD 参考设计，把完整的 Vera Rubin AI 工厂装进经工厂测试的集装箱，供合作伙伴异地集成。部署周期可由数月缩短至最短约 14 天，缓解数据中心建设瓶颈，并加快代币生产带来的收入，CEO 黄仁勋对此着重强调。活动还聚焦欧洲云服务商 Nebius，黄仁勋称赞其表现强劲；CEO Arkady Volozh 表示需求旺盛，扩张目标指向约 80 亿美元年经常性收入。DSX POD 单元计划于 2027 年初在全球推出，助力欧洲 AI 生态。",
+      "body_en": "NVIDIA Unveils Modular AI Factories Slashing Deployment to 14 Days.\n\nImagine turning months of AI factory construction into just 14 days of setup. NVIDIA's new DSX POD system makes that possible, delivering pre-built, fully wired containers ready to plug in.\n\nAt GTC Berlin, NVIDIA introduced the DSX POD reference design, which packs complete Vera Rubin AI factories into factory-tested containers for partners to integrate off-site. This cuts deployment from months to as little as 14 days, addressing key bottlenecks in data center builds and speeding up revenue from token production, as CEO Jensen Huang emphasized.\n\nThe event spotlighted European cloud provider Nebius, praised by Huang for its strong performance, with CEO Arkady Volozh noting robust demand and expansion plans targeting $8 billion in annual recurring revenue. DSX POD units will roll out worldwide in early 2027, boosting Europe's AI ecosystem.",
+      "body_zh": "英伟达发布模块化 AI 工厂，部署最短可压至 14 天。\n\n把原本需要数月的 AI 工厂建设压缩到约 14 天——英伟达新的 DSX POD 系统把预装、全接线的集装箱直接交付，插上即可用。\n\n在柏林 GTC 上，英伟达推出 DSX POD 参考设计，把完整的 Vera Rubin AI 工厂装进经工厂测试的集装箱，供合作伙伴异地集成。部署周期可由数月缩短至最短约 14 天，缓解数据中心建设瓶颈，并加快代币生产带来的收入，CEO 黄仁勋对此着重强调。\n\n活动还聚焦欧洲云服务商 Nebius，黄仁勋称赞其表现强劲；CEO Arkady Volozh 表示需求旺盛，扩张目标指向约 80 亿美元年经常性收入。DSX POD 单元计划于 2027 年初在全球推出，助力欧洲 AI 生态。",
+      "url": "https://x.com/i/trending/2112343868393816356",
       "category": "News",
       "topics": [
-        "Cryptocurrency"
+        "Technology",
+        "AI"
       ],
-      "updated_at": "2026-10-20T22:01:24.000Z"
+      "updated_at": "2026-10-21T14:42:01.000Z"
+    },
+    {
+      "id": "2112905930044317939",
+      "domain": "科技",
+      "title_en": "NVIDIA and UW Unveil RFD4-Proteina for Faster Protein Design",
+      "title_zh": "英伟达与华盛顿大学发布 RFD4-Proteina，加速蛋白质设计",
+      "hook_en": "Scientists at NVIDIA and the University of Washington just dropped a powerful new AI tool that designs proteins quicker and better than before. It's already drawing cheers for speeding up drug discovery.",
+      "hook_zh": "英伟达与华盛顿大学科学家推出新的 AI 工具，可更快、更好地设计蛋白质，已被寄望加速药物发现。",
+      "summary_en": "RFD4-Proteina, born from a year-long collaboration between NVIDIA's GenAIR team and the Baker Lab at UW's Institute for Protein Design, co-designs protein sequences and structures in a shared latent space. It handles binder design, enzyme scaffolding, motif conditioning, and work with DNA, RNA, or small molecules, outperforming prior models in speed, quality, and wet-lab success rates. Released open source on GitHub and Hugging Face at GTC Berlin, it's available as an NVIDIA NIM microservice and integrated with partners like Tamarind Bio for easy use. Researchers called the results 'astonishing' and a state-of-the-art leap for biology and medicine.",
+      "summary_zh": "RFD4-Proteina 由英伟达 GenAIR 团队与华盛顿大学蛋白质设计研究所 Baker 实验室合作一年而成，在共享潜空间中协同设计蛋白质序列与结构。它可处理结合物设计、酶支架、基序条件化，以及 DNA、RNA 或小分子相关任务，在速度、质量与湿实验成功率上优于此前模型。该工具在柏林 GTC 以开源形式登陆 GitHub 与 Hugging Face，并作为英伟达 NIM 微服务提供，还与 Tamarind Bio 等伙伴集成以便使用。研究人员称结果「令人惊叹」，是生物学与医学的前沿跃升。",
+      "body_en": "NVIDIA and UW Unveil RFD4-Proteina for Faster Protein Design.\n\nScientists at NVIDIA and the University of Washington just dropped a powerful new AI tool that designs proteins quicker and better than before. It's already drawing cheers for speeding up drug discovery.\n\nRFD4-Proteina, born from a year-long collaboration between NVIDIA's GenAIR team and the Baker Lab at UW's Institute for Protein Design, co-designs protein sequences and structures in a shared latent space. It handles binder design, enzyme scaffolding, motif conditioning, and work with DNA, RNA, or small molecules, outperforming prior models in speed, quality, and wet-lab success rates.\n\nReleased open source on GitHub and Hugging Face at GTC Berlin, it's available as an NVIDIA NIM microservice and integrated with partners like Tamarind Bio for easy use. Researchers called the results 'astonishing' and a state-of-the-art leap for biology and medicine.",
+      "body_zh": "英伟达与华盛顿大学发布 RFD4-Proteina，加速蛋白质设计。\n\n英伟达与华盛顿大学科学家推出新的 AI 工具，可更快、更好地设计蛋白质，已被寄望加速药物发现。\n\nRFD4-Proteina 由英伟达 GenAIR 团队与华盛顿大学蛋白质设计研究所 Baker 实验室合作一年而成，在共享潜空间中协同设计蛋白质序列与结构。它可处理结合物设计、酶支架、基序条件化，以及 DNA、RNA 或小分子相关任务，在速度、质量与湿实验成功率上优于此前模型。\n\n该工具在柏林 GTC 以开源形式登陆 GitHub 与 Hugging Face，并作为英伟达 NIM 微服务提供，还与 Tamarind Bio 等伙伴集成以便使用。研究人员称结果「令人惊叹」，是生物学与医学的前沿跃升。",
+      "url": "https://x.com/i/trending/2112905930044317939",
+      "category": "News",
+      "topics": [
+        "Technology",
+        "Biotech"
+      ],
+      "updated_at": "2026-10-21T14:03:05.000Z"
     },
     {
       "id": "2112796521959985524",
@@ -296,43 +297,6 @@
       "updated_at": "2026-10-20T12:59:35.000Z"
     },
     {
-      "id": "2112413052469481717",
-      "domain": "商业",
-      "title_en": "IREN Shares Drop to $26.62 Near 52-Week Low Amid Funding Worries",
-      "title_zh": "IREN 股价跌至约 26.62 美元，逼近年内低点",
-      "hook_en": "IREN's stock closed at $26.62 on October 20 after a 4% plunge on heavy volume, leaving traders split on whether it's primed for a rebound or more pain ahead.",
-      "hook_zh": "10 月 20 日 IREN 收跌约 4% 至 26.62 美元，成交放大，多空对后市分歧明显。",
-      "summary_en": "The company, once a Bitcoin miner now focused on AI cloud data centers, holds over 5 GW of power capacity and NVIDIA infrastructure powered by renewables, but shares have fallen 65% from their November 2025 peak near $77 due to concerns over $25-30 billion in planned 2027 spending and rising borrowing costs. Traders highlight stretched technical patterns that could snap back up, potential support at Fibonacci levels and the 200-week average, yet some warn of drops to $15-18 if those fail. Wall Street targets stay around $77-81, with early November earnings expected to shed light on demand and funding.",
-      "summary_zh": "这家由比特币矿企转向 AI 云数据中心的公司拥有逾 5GW 电力与英伟达算力基础设施，但相对 2025 年 11 月约 77 美元高点已跌约 65%，市场担忧其 2027 年计划开支达 250–300 亿美元及借贷成本上升。交易者看到技术超卖反弹可能，也有人警示若跌破支撑或探向 15–18 美元。华尔街目标价仍多在 77–81 美元一带，11 月初财报或澄清需求与融资。",
-      "body_en": "IREN Shares Drop to $26.62 Near 52-Week Low Amid Funding Worries.\n\nIREN's stock closed at $26.62 on October 20 after a 4% plunge on heavy volume, leaving traders split on whether it's primed for a rebound or more pain ahead.\n\nThe company, once a Bitcoin miner now focused on AI cloud data centers, holds over 5 GW of power capacity and NVIDIA infrastructure powered by renewables, but shares have fallen 65% from their November 2025 peak near $77 due to concerns over $25-30 billion in planned 2027 spending and rising borrowing costs.\n\nTraders highlight stretched technical patterns that could snap back up, potential support at Fibonacci levels and the 200-week average, yet some warn of drops to $15-18 if those fail. Wall Street targets stay around $77-81, with early November earnings expected to shed light on demand and funding.",
-      "body_zh": "IREN 股价跌至约 26.62 美元，逼近年内低点。\n\n10 月 20 日 IREN 收跌约 4% 至 26.62 美元，成交放大，多空对后市分歧明显。\n\n这家由比特币矿企转向 AI 云数据中心的公司拥有逾 5GW 电力与英伟达算力基础设施，但相对 2025 年 11 月约 77 美元高点已跌约 65%，市场担忧其 2027 年计划开支达 250–300 亿美元及借贷成本上升。\n\n交易者看到技术超卖反弹可能，也有人警示若跌破支撑或探向 15–18 美元。华尔街目标价仍多在 77–81 美元一带，11 月初财报或澄清需求与融资。",
-      "url": "https://x.com/i/trending/2112413052469481717",
-      "category": "News",
-      "topics": [
-        "Business & Finance",
-        "Stocks"
-      ],
-      "updated_at": "2026-10-21T00:39:55.000Z"
-    },
-    {
-      "id": "2112369182595788855",
-      "domain": "商业",
-      "title_en": "Jio Platforms Gears Up for India's Largest IPO with ₹30,000 Crore Raise",
-      "title_zh": "Jio Platforms 冲刺印度史上最大 IPO，募资约 3 万亿卢比",
-      "hook_en": "From making mobile data affordable for millions to powering everyday streaming, Jio's decade-long journey has transformed lives across India.",
-      "hook_zh": "从让亿万人用得起移动流量，到撑起日常流媒体，Jio 十年改变了印度数字生活。",
-      "summary_en": "Jio Platforms, Reliance Industries' digital arm, will launch India's biggest IPO on October 21, offering up to 27 crore shares to raise around ₹30,213 crore at the top price of ₹1,119 each. The funds will mostly repay debt at its telecom subsidiary, which serves 533 million customers and handles 60% of India's wireless data traffic. People fondly remember the shift from cautious video watching to seamless scrolling and calls, crediting Jio's growth under Mukesh and Akash Ambani, while analysts watch if its scale can drive better returns through efficiency and new services like cloud and broadband.",
-      "summary_zh": "信实工业数字臂膀 Jio Platforms 定于 10 月 21 日启动印度最大 IPO，最多发行约 27 亿股，顶格价约 1119 卢比/股，募资约 30213 亿卢比。资金主要用于偿还电信子公司债务；该业务服务约 5.33 亿用户，承载印度约 60% 无线数据流量。公众回忆从「省着用视频」到流畅刷屏通话的转变，归功于穆克什与阿卡什·安巴尼治下的扩张；分析师则关注规模能否靠效率与云、宽带等新业务转化为更好回报。",
-      "body_en": "Jio Platforms Gears Up for India's Largest IPO with ₹30,000 Crore Raise.\n\nFrom making mobile data affordable for millions to powering everyday streaming, Jio's decade-long journey has transformed lives across India.\n\nJio Platforms, Reliance Industries' digital arm, will launch India's biggest IPO on October 21, offering up to 27 crore shares to raise around ₹30,213 crore at the top price of ₹1,119 each.\n\nThe funds will mostly repay debt at its telecom subsidiary, which serves 533 million customers and handles 60% of India's wireless data traffic. People fondly remember the shift from cautious video watching to seamless scrolling and calls, crediting Jio's growth under Mukesh and Akash Ambani, while analysts watch if its scale can drive better returns through efficiency and new services like cloud and broadband.",
-      "body_zh": "Jio Platforms 冲刺印度史上最大 IPO，募资约 3 万亿卢比。\n\n从让亿万人用得起移动流量，到撑起日常流媒体，Jio 十年改变了印度数字生活。\n\n信实工业数字臂膀 Jio Platforms 定于 10 月 21 日启动印度最大 IPO，最多发行约 27 亿股，顶格价约 1119 卢比/股，募资约 30213 亿卢比。\n\n资金主要用于偿还电信子公司债务；该业务服务约 5.33 亿用户，承载印度约 60% 无线数据流量。公众回忆从「省着用视频」到流畅刷屏通话的转变，归功于穆克什与阿卡什·安巴尼治下的扩张；分析师则关注规模能否靠效率与云、宽带等新业务转化为更好回报。",
-      "url": "https://x.com/i/trending/2112369182595788855",
-      "category": "News",
-      "topics": [
-        "Business & Finance"
-      ],
-      "updated_at": "2026-10-20T02:29:15.000Z"
-    },
-    {
       "id": "2112213035615990082",
       "domain": "商业",
       "title_en": "NYSE and Cboe Launch Extended Options Trading Hours",
@@ -350,6 +314,24 @@
         "Stocks"
       ],
       "updated_at": "2026-10-20T05:34:56.000Z"
+    },
+    {
+      "id": "2111921386319208960",
+      "domain": "商业",
+      "title_en": "Bank of America Hit with $1.2 Billion Penalty for Anti-Money Laundering Failures",
+      "title_zh": "美国银行因反洗钱失职被罚约 12 亿美元",
+      "hook_en": "Treasury Secretary Scott Bessent made it clear: even giant banks must follow anti-money laundering rules, or face serious consequences.",
+      "hook_zh": "财政部长斯科特·贝森特明确表态：再大的银行也必须遵守反洗钱规则，否则将面对严重后果。",
+      "summary_en": "On October 13, the U.S. Treasury Department fined Bank of America over $1.2 billion for willfully violating the Bank Secrecy Act, including failing to report suspicious activity on more than $5 billion in transactions tied to Chinese money laundering networks and southwest border illicit finance. Additional penalties came from the Office of the Comptroller of the Currency ($750 million, credited against the main fine) and the Office of Foreign Assets Control ($11.6 million) for sanctions breaches involving Iran, Russia, narcotics, and terrorism. Bank of America admitted the violations and pledged ongoing investments in compliance, while whistleblower Everett Stern and online voices called for individual prosecutions beyond the penalties.",
+      "summary_zh": "10 月 13 日，美国财政部以故意违反《银行保密法》为由，对美国银行处以逾 12 亿美元罚款，包括未报告与中国洗钱网络及西南边境非法金融相关的逾 50 亿美元可疑交易。货币监理署另处 7.5 亿美元罚款（可抵扣主罚），海外资产控制办公室再处以 1160 万美元，涉伊朗、俄罗斯、毒品与恐怖主义相关制裁违规。美国银行承认违规并承诺持续加大合规投入；举报人 Everett Stern 与网络舆论则呼吁在罚款之外追究个人刑责。",
+      "body_en": "Bank of America Hit with $1.2 Billion Penalty for Anti-Money Laundering Failures.\n\nTreasury Secretary Scott Bessent made it clear: even giant banks must follow anti-money laundering rules, or face serious consequences.\n\nOn October 13, the U.S. Treasury Department fined Bank of America over $1.2 billion for willfully violating the Bank Secrecy Act, including failing to report suspicious activity on more than $5 billion in transactions tied to Chinese money laundering networks and southwest border illicit finance.\n\nAdditional penalties came from the Office of the Comptroller of the Currency ($750 million, credited against the main fine) and the Office of Foreign Assets Control ($11.6 million) for sanctions breaches involving Iran, Russia, narcotics, and terrorism. Bank of America admitted the violations and pledged ongoing investments in compliance, while whistleblower Everett Stern and online voices called for individual prosecutions beyond the penalties.",
+      "body_zh": "美国银行因反洗钱失职被罚约 12 亿美元。\n\n财政部长斯科特·贝森特明确表态：再大的银行也必须遵守反洗钱规则，否则将面对严重后果。\n\n10 月 13 日，美国财政部以故意违反《银行保密法》为由，对美国银行处以逾 12 亿美元罚款，包括未报告与中国洗钱网络及西南边境非法金融相关的逾 50 亿美元可疑交易。\n\n货币监理署另处 7.5 亿美元罚款（可抵扣主罚），海外资产控制办公室再处以 1160 万美元，涉伊朗、俄罗斯、毒品与恐怖主义相关制裁违规。美国银行承认违规并承诺持续加大合规投入；举报人 Everett Stern 与网络舆论则呼吁在罚款之外追究个人刑责。",
+      "url": "https://x.com/i/trending/2111921386319208960",
+      "category": "News",
+      "topics": [
+        "Business & Finance"
+      ],
+      "updated_at": "2026-10-20T19:35:13.000Z"
     },
     {
       "id": "2112431560116826201",
@@ -426,43 +408,6 @@
       "updated_at": "2026-10-21T13:28:54.000Z"
     },
     {
-      "id": "2112319265076367697",
-      "domain": "商业",
-      "title_en": "Jio Platforms IPO Fully Subscribes in 100 Minutes as India's Largest Offering",
-      "title_zh": "Jio Platforms IPO 百分钟售罄，成印度史上最大发行",
-      "hook_en": "Investors snapped up Jio Platforms' shares in just 100 minutes, marking India's biggest IPO at ₹30,213 crore. Reliance even paid 4.2 lakh employees' October salaries 15 days early to celebrate.",
-      "hook_zh": "投资者仅用约 100 分钟便抢完 Jio Platforms 股份，发行规模约 30213 亿卢比，创印度 IPO 纪录；信实甚至提前 15 天发放约 42 万名员工 10 月工资以示庆祝。",
-      "summary_en": "The IPO opened October 21 with a price band of ₹1,065–1,119 per share, valuing Jio at about $108 billion at the top end. Qualified institutional buyers led the oversubscription, while employee and shareholder portions also filled quickly; proceeds will mainly repay debts at Reliance Jio Infocomm. Zerodha's Nithin Kamath noted Jio's role since 2016 in bringing millions online with cheap data, growing India's investor base from 2 crore to over 13 crore. The fresh issue has no sales by existing shareholders like Reliance, Meta, or Google, with listing eyed for October 28.",
-      "summary_zh": "该 IPO 于 10 月 21 日开售，定价区间每股 1065–1119 卢比，上限估值约 1080 亿美元。合格机构买家认购最猛，员工与股东配额也迅速填满；募资主要用于偿还 Reliance Jio Infocomm 债务。Zerodha 的 Nithin Kamath 称，Jio 自 2016 年起以廉价流量让数千万印度人上网，并把投资者基数从约 2000 万推至逾 1.3 亿。本次为纯新股发行，信实、Meta、谷歌等老股东不出售股份，预计 10 月 28 日左右上市。",
-      "body_en": "Jio Platforms IPO Fully Subscribes in 100 Minutes as India's Largest Offering.\n\nInvestors snapped up Jio Platforms' shares in just 100 minutes, marking India's biggest IPO at ₹30,213 crore. Reliance even paid 4.2 lakh employees' October salaries 15 days early to celebrate.\n\nThe IPO opened October 21 with a price band of ₹1,065–1,119 per share, valuing Jio at about $108 billion at the top end. Qualified institutional buyers led the oversubscription, while employee and shareholder portions also filled quickly; proceeds will mainly repay debts at Reliance Jio Infocomm.\n\nZerodha's Nithin Kamath noted Jio's role since 2016 in bringing millions online with cheap data, growing India's investor base from 2 crore to over 13 crore. The fresh issue has no sales by existing shareholders like Reliance, Meta, or Google, with listing eyed for October 28.",
-      "body_zh": "Jio Platforms IPO 百分钟售罄，成印度史上最大发行。\n\n投资者仅用约 100 分钟便抢完 Jio Platforms 股份，发行规模约 30213 亿卢比，创印度 IPO 纪录；信实甚至提前 15 天发放约 42 万名员工 10 月工资以示庆祝。\n\n该 IPO 于 10 月 21 日开售，定价区间每股 1065–1119 卢比，上限估值约 1080 亿美元。合格机构买家认购最猛，员工与股东配额也迅速填满；募资主要用于偿还 Reliance Jio Infocomm 债务。\n\nZerodha 的 Nithin Kamath 称，Jio 自 2016 年起以廉价流量让数千万印度人上网，并把投资者基数从约 2000 万推至逾 1.3 亿。本次为纯新股发行，信实、Meta、谷歌等老股东不出售股份，预计 10 月 28 日左右上市。",
-      "url": "https://x.com/i/trending/2112319265076367697",
-      "category": "News",
-      "topics": [
-        "Business & Finance"
-      ],
-      "updated_at": "2026-10-21T13:04:04.000Z"
-    },
-    {
-      "id": "2112533925725610232",
-      "domain": "商业",
-      "title_en": "South Korean AI Firm's IPO Flop Hits U.S. Neocloud Stocks",
-      "title_zh": "韩国 AI 公司 IPO 首日暴跌，拖累美国新云股",
-      "hook_en": "Elice Inc. raised $151 million in a hyped Seoul IPO, only to crash 32% on day one—the worst for a major Korean listing.",
-      "hook_zh": "Elice Inc. 在首尔高调 IPO 募资约 1.51 亿美元，上市首日却暴跌约 32%，创韩国大型新股最差开局之一。",
-      "summary_en": "The little-known South Korean AI infrastructure company saw retail demand exceed shares 400 times, yet closed at 61,500 won, well below its 90,500 won price. This triggered a selloff in U.S. neocloud stocks renting GPU power for AI, with IREN down 7%, Cipher Digital near 7%, WhiteFiber around 6%, CoreWeave about 5%, and Nebius Group roughly 5% at points. While Elice tripled revenue and turned profitable in the first half, the debut revived doubts over justifying massive data center spending amid rising borrowing costs; one investor bought the IREN dip aggressively.",
-      "summary_zh": "这家鲜为人知的韩国 AI 基础设施公司零售认购超发逾 400 倍，但收盘报 61500 韩元，远低于发行价 90500 韩元。消息牵动美国出租 GPU 算力的「新云」股：IREN 跌约 7%，Cipher Digital 近 7%，WhiteFiber 约 6%，CoreWeave 约 5%，Nebius 一度亦约 5%。尽管 Elice 上半年营收翻三倍并扭亏，惨淡首秀仍加剧市场对高利率下数据中心巨额开支能否兑现回报的疑虑；亦有投资者趁 IREN 下跌大举抄底。",
-      "body_en": "South Korean AI Firm's IPO Flop Hits U.S. Neocloud Stocks.\n\nElice Inc. raised $151 million in a hyped Seoul IPO, only to crash 32% on day one—the worst for a major Korean listing.\n\nThe little-known South Korean AI infrastructure company saw retail demand exceed shares 400 times, yet closed at 61,500 won, well below its 90,500 won price. This triggered a selloff in U.S.\n\nneocloud stocks renting GPU power for AI, with IREN down 7%, Cipher Digital near 7%, WhiteFiber around 6%, CoreWeave about 5%, and Nebius Group roughly 5% at points. While Elice tripled revenue and turned profitable in the first half, the debut revived doubts over justifying massive data center spending amid rising borrowing costs; one investor bought the IREN dip aggressively.",
-      "body_zh": "韩国 AI 公司 IPO 首日暴跌，拖累美国新云股。\n\nElice Inc. 在首尔高调 IPO 募资约 1.51 亿美元，上市首日却暴跌约 32%，创韩国大型新股最差开局之一。\n\n这家鲜为人知的韩国 AI 基础设施公司零售认购超发逾 400 倍，但收盘报 61500 韩元，远低于发行价 90500 韩元。\n\n消息牵动美国出租 GPU 算力的「新云」股：IREN 跌约 7%，Cipher Digital 近 7%，WhiteFiber 约 6%，CoreWeave 约 5%，Nebius 一度亦约 5%。尽管 Elice 上半年营收翻三倍并扭亏，惨淡首秀仍加剧市场对高利率下数据中心巨额开支能否兑现回报的疑虑；亦有投资者趁 IREN 下跌大举抄底。",
-      "url": "https://x.com/i/trending/2112533925725610232",
-      "category": "News",
-      "topics": [
-        "Technology",
-        "Business & Finance"
-      ],
-      "updated_at": "2026-10-20T16:00:58.000Z"
-    },
-    {
       "id": "2112507803138973871",
       "domain": "商业",
       "title_en": "Fed's $1.827 Billion Treasury Purchase Lifts Stocks and Crypto",
@@ -498,6 +443,61 @@
         "Stocks"
       ],
       "updated_at": "2026-10-21T13:45:53.000Z"
+    },
+    {
+      "id": "2112656501483684033",
+      "domain": "商业",
+      "title_en": "United Airlines Hits Record Revenue but Misses Earnings on High Fuel Costs",
+      "title_zh": "美联航营收创新高，却因油价大涨未达盈利预期",
+      "hook_en": "United Airlines flew a record number of passengers and smashed revenue highs this quarter, but soaring fuel prices clipped their earnings wings.",
+      "hook_zh": "本季美联航承运旅客与营收均创纪录，但飙升的燃油成本拖累了盈利表现。",
+      "summary_en": "For the three months ended September 30, United reported $17.9 billion in operating revenue, up 17.4% from last year, with passenger revenue rising 17.6% to $16.24 billion and a record 49.5 million customers carried. Adjusted earnings per share came in at $2.54, slightly below Wall Street's $2.57 to $2.59 expectations, as fuel costs surged 61.6% to $4.84 billion at $3.90 per gallon. CEO Scott Kirby praised employees' resilience and highlighted Starlink Wi-Fi now on over 640 aircraft, while Q4 guidance forecasts over 20% revenue growth but adjusted EPS of just $0.50 to $1.50 amid $4.80 per gallon fuel—far under analyst hopes—sending shares down 2% to 4% after hours.",
+      "summary_zh": "截至 9 月 30 日的三个月，美联航营业收入 179 亿美元，同比增 17.4%；客运收入增 17.6% 至 162.4 亿美元，承运旅客创纪录达 4950 万人次。调整后每股收益 2.54 美元，略低于华尔街 2.57–2.59 美元预期，因燃油成本飙升 61.6% 至 48.4 亿美元，单价约每加仑 3.90 美元。CEO Scott Kirby 称赞员工韧性，并提到已有逾 640 架飞机配备 Starlink Wi-Fi。四季度指引预计营收增长超 20%，但调整后每股收益仅 0.50–1.50 美元，燃油按约每加仑 4.80 美元估算，远低于分析师期望，盘后股价下跌约 2%–4%。",
+      "body_en": "United Airlines Hits Record Revenue but Misses Earnings on High Fuel Costs.\n\nUnited Airlines flew a record number of passengers and smashed revenue highs this quarter, but soaring fuel prices clipped their earnings wings.\n\nFor the three months ended September 30, United reported $17.9 billion in operating revenue, up 17.4% from last year, with passenger revenue rising 17.6% to $16.24 billion and a record 49.5 million customers carried.\n\nAdjusted earnings per share came in at $2.54, slightly below Wall Street's $2.57 to $2.59 expectations, as fuel costs surged 61.6% to $4.84 billion at $3.90 per gallon. CEO Scott Kirby praised employees' resilience and highlighted Starlink Wi-Fi now on over 640 aircraft, while Q4 guidance forecasts over 20% revenue growth but adjusted EPS of just $0.50 to $1.50 amid $4.80 per gallon fuel—far under analyst hopes—sending shares down 2% to 4% after hours.",
+      "body_zh": "美联航营收创新高，却因油价大涨未达盈利预期。\n\n本季美联航承运旅客与营收均创纪录，但飙升的燃油成本拖累了盈利表现。\n\n截至 9 月 30 日的三个月，美联航营业收入 179 亿美元，同比增 17.4%；客运收入增 17.6% 至 162.4 亿美元，承运旅客创纪录达 4950 万人次。调整后每股收益 2.54 美元，略低于华尔街 2.57–2.59 美元预期，因燃油成本飙升 61.6% 至 48.4 亿美元，单价约每加仑 3.90 美元。\n\nCEO Scott Kirby 称赞员工韧性，并提到已有逾 640 架飞机配备 Starlink Wi-Fi。四季度指引预计营收增长超 20%，但调整后每股收益仅 0.50–1.50 美元，燃油按约每加仑 4.80 美元估算，远低于分析师期望，盘后股价下跌约 2%–4%。",
+      "url": "https://x.com/i/trending/2112656501483684033",
+      "category": "News",
+      "topics": [
+        "Business & Finance"
+      ],
+      "updated_at": "2026-10-21T01:10:41.000Z"
+    },
+    {
+      "id": "2112501506846916810",
+      "domain": "商业",
+      "title_en": "GM Shares Drop After Earnings Beat but Lowered 2026 Profit Outlook",
+      "title_zh": "通用汽车财报超预期却下调 2026 盈利展望，股价大跌",
+      "hook_en": "General Motors posted a strong quarter with revenue topping estimates, yet shares tumbled as investors zeroed in on a narrower full-year profit forecast amid rising costs.",
+      "hook_zh": "通用汽车本季营收超预期，但投资者聚焦全年盈利展望收窄与成本上升，股价应声回落。",
+      "summary_en": "GM reported third-quarter revenue of $50.02 billion, beating expectations of $48.7 billion, with adjusted EPS at $3.70 versus $3.63 anticipated and adjusted EBIT of $4.11 billion. Despite this and a new $20 billion stock buyback plus a $0.18 quarterly dividend, the company cut its 2026 outlook to adjusted EPS of $12.75-$13.75, below prior consensus, and adjusted EBIT of $14.5-$15.5 billion due to higher commodity and logistics costs. Strong North American truck sales boosted automotive free cash flow 40% to $5.9 billion, but critics questioned buybacks over EV and autonomy investments as shares fell as much as 8% in premarket trading to around $77.",
+      "summary_zh": "通用汽车公布三季度营收 500.2 亿美元，高于预期的 487 亿美元；调整后每股收益 3.70 美元（预期 3.63 美元），调整后息税前利润 41.1 亿美元。尽管另宣布 200 亿美元股票回购计划及每股 0.18 美元季度股息，公司仍因大宗商品与物流成本上升，将 2026 年调整后每股收益展望下调至 12.75–13.75 美元、调整后息税前利润 145–155 亿美元，低于此前共识。北美卡车销售强劲推动汽车业务自由现金流增 40% 至 59 亿美元，但批评者质疑回购优先于电动车与自动驾驶投入；盘前股价一度跌约 8% 至约 77 美元。",
+      "body_en": "GM Shares Drop After Earnings Beat but Lowered 2026 Profit Outlook.\n\nGeneral Motors posted a strong quarter with revenue topping estimates, yet shares tumbled as investors zeroed in on a narrower full-year profit forecast amid rising costs.\n\nGM reported third-quarter revenue of $50.02 billion, beating expectations of $48.7 billion, with adjusted EPS at $3.70 versus $3.63 anticipated and adjusted EBIT of $4.11 billion.\n\nDespite this and a new $20 billion stock buyback plus a $0.18 quarterly dividend, the company cut its 2026 outlook to adjusted EPS of $12.75-$13.75, below prior consensus, and adjusted EBIT of $14.5-$15.5 billion due to higher commodity and logistics costs. Strong North American truck sales boosted automotive free cash flow 40% to $5.9 billion, but critics questioned buybacks over EV and autonomy investments as shares fell as much as 8% in premarket trading to around $77.",
+      "body_zh": "通用汽车财报超预期却下调 2026 盈利展望，股价大跌。\n\n通用汽车本季营收超预期，但投资者聚焦全年盈利展望收窄与成本上升，股价应声回落。\n\n通用汽车公布三季度营收 500.2 亿美元，高于预期的 487 亿美元；调整后每股收益 3.70 美元（预期 3.63 美元），调整后息税前利润 41.1 亿美元。\n\n尽管另宣布 200 亿美元股票回购计划及每股 0.18 美元季度股息，公司仍因大宗商品与物流成本上升，将 2026 年调整后每股收益展望下调至 12.75–13.75 美元、调整后息税前利润 145–155 亿美元，低于此前共识。北美卡车销售强劲推动汽车业务自由现金流增 40% 至 59 亿美元，但批评者质疑回购优先于电动车与自动驾驶投入；盘前股价一度跌约 8% 至约 77 美元。",
+      "url": "https://x.com/i/trending/2112501506846916810",
+      "category": "News",
+      "topics": [
+        "Business & Finance",
+        "Stocks"
+      ],
+      "updated_at": "2026-10-20T20:55:03.000Z"
+    },
+    {
+      "id": "2112849951126589933",
+      "domain": "商业",
+      "title_en": "France's 10-Year Bond Yields Hit 5% for First Time Since 2002",
+      "title_zh": "法国十年期国债收益率升至 5%，为 2002 年以来首次",
+      "hook_en": "France's benchmark 10-year bond yield spiked to 5.002% on Wednesday, a level unseen since 2002, as investors grew uneasy over protests and budget woes.",
+      "hook_zh": "周三法国基准十年期国债收益率触及 5.002%，为 2002 年以来未见水平，投资者对抗议与财政困境愈发不安。",
+      "summary_en": "The yield climbed sharply from 3.2% in late February amid violent street protests over living costs and education, a stalled budget with a deficit over 5% of GDP, and debt nearing 119% of GDP. Spreads over German Bunds widened to 157-160 basis points, echoing eurozone debt crisis levels, while Prime Minister Sébastien Lecornu targets €54 billion in spending cuts blocked by parliament. Higher yields threaten to raise mortgage rates, business loans, and push annual debt interest payments past €90 billion, rivaling defense and education spending, with Moody’s credit review due Friday.",
+      "summary_zh": "收益率自 2 月末约 3.2% 急剧攀升，背景是围绕生活成本与教育的街头抗议、赤字超 GDP 5% 的预算僵局，以及债务接近 GDP 的 119%。对德债利差扩大至 157–160 个基点，接近欧债危机水平；总理 Sébastien Lecornu 提出约 540 亿欧元开支削减却遭议会阻滞。更高收益率可能推升房贷与企业贷款成本，并使年度债务利息支出超过 900 亿欧元，比肩国防与教育开支；穆迪信用复评定于周五。",
+      "body_en": "France's 10-Year Bond Yields Hit 5% for First Time Since 2002.\n\nFrance's benchmark 10-year bond yield spiked to 5.002% on Wednesday, a level unseen since 2002, as investors grew uneasy over protests and budget woes.\n\nThe yield climbed sharply from 3.2% in late February amid violent street protests over living costs and education, a stalled budget with a deficit over 5% of GDP, and debt nearing 119% of GDP.\n\nSpreads over German Bunds widened to 157-160 basis points, echoing eurozone debt crisis levels, while Prime Minister Sébastien Lecornu targets €54 billion in spending cuts blocked by parliament. Higher yields threaten to raise mortgage rates, business loans, and push annual debt interest payments past €90 billion, rivaling defense and education spending, with Moody’s credit review due Friday.",
+      "body_zh": "法国十年期国债收益率升至 5%，为 2002 年以来首次。\n\n周三法国基准十年期国债收益率触及 5.002%，为 2002 年以来未见水平，投资者对抗议与财政困境愈发不安。\n\n收益率自 2 月末约 3.2% 急剧攀升，背景是围绕生活成本与教育的街头抗议、赤字超 GDP 5% 的预算僵局，以及债务接近 GDP 的 119%。\n\n对德债利差扩大至 157–160 个基点，接近欧债危机水平；总理 Sébastien Lecornu 提出约 540 亿欧元开支削减却遭议会阻滞。更高收益率可能推升房贷与企业贷款成本，并使年度债务利息支出超过 900 亿欧元，比肩国防与教育开支；穆迪信用复评定于周五。",
+      "url": "https://x.com/i/trending/2112849951126589933",
+      "category": "News",
+      "topics": [
+        "Business & Finance"
+      ],
+      "updated_at": "2026-10-21T14:22:25.000Z"
     },
     {
       "id": "2112486884211650655",
@@ -536,60 +536,6 @@
       "updated_at": "2026-10-20T03:21:48.000Z"
     },
     {
-      "id": "2112895365657567737",
-      "domain": "中国",
-      "title_en": "Micron Reaches Labor Deal at Taiwan's Taichung Plant, Averting Strike",
-      "title_zh": "美光台中厂达成劳资协议，罢工风险缓和",
-      "hook_en": "Workers at Micron's key Taichung chip plant in Taiwan can breathe easier after signing a labor agreement that pulls back from a looming strike.",
-      "hook_zh": "美光台湾关键台中晶圆厂签署劳资协议，此前酝酿的罢工压力明显缓解。",
-      "summary_en": "The deal at the Taichung facility, Micron's largest in Taiwan and a hub for DRAM and high-bandwidth memory chips vital to AI servers, resolves tensions and cancels mediation set for October 22. It covers multiple issues, with both sides calling talks constructive, though details will go directly to the roughly 15,000 employees across Taiwan sites in coming days. Unions pushed for a permanent profit-sharing plan modeled on rivals like Samsung and SK Hynix, potentially worth billions annually. A separate Taoyuan union still plans a one-day warning strike on October 22, but the Taichung progress eases risks amid tight AI-driven memory demand, boosting Micron shares.",
-      "summary_zh": "台中厂是美光在台最大据点，也是服务 AI 服务器的 DRAM 与高带宽内存枢纽；协议化解紧张并取消原定 10 月 22 日的调解。双方称谈判具建设性，细节将在未来几天直接告知台湾各地约 1.5 万名员工。工会曾争取对标三星、SK 海力士的永久利润分享方案，潜在规模可达每年数十亿美元。桃园另一工会仍计划 10 月 22 日警告性罢工一天，但台中进展降低供应风险，美光股价应声走强，正值 AI 带动存储需求偏紧。",
-      "body_en": "Micron Reaches Labor Deal at Taiwan's Taichung Plant, Averting Strike.\n\nWorkers at Micron's key Taichung chip plant in Taiwan can breathe easier after signing a labor agreement that pulls back from a looming strike.\n\nThe deal at the Taichung facility, Micron's largest in Taiwan and a hub for DRAM and high-bandwidth memory chips vital to AI servers, resolves tensions and cancels mediation set for October 22. It covers multiple issues, with both sides calling talks constructive, though details will go directly to the roughly 15,000 employees across Taiwan sites in coming days.\n\nUnions pushed for a permanent profit-sharing plan modeled on rivals like Samsung and SK Hynix, potentially worth billions annually. A separate Taoyuan union still plans a one-day warning strike on October 22, but the Taichung progress eases risks amid tight AI-driven memory demand, boosting Micron shares.",
-      "body_zh": "美光台中厂达成劳资协议，罢工风险缓和。\n\n美光台湾关键台中晶圆厂签署劳资协议，此前酝酿的罢工压力明显缓解。\n\n台中厂是美光在台最大据点，也是服务 AI 服务器的 DRAM 与高带宽内存枢纽；协议化解紧张并取消原定 10 月 22 日的调解。双方称谈判具建设性，细节将在未来几天直接告知台湾各地约 1.5 万名员工。\n\n工会曾争取对标三星、SK 海力士的永久利润分享方案，潜在规模可达每年数十亿美元。桃园另一工会仍计划 10 月 22 日警告性罢工一天，但台中进展降低供应风险，美光股价应声走强，正值 AI 带动存储需求偏紧。",
-      "url": "https://x.com/i/trending/2112895365657567737",
-      "category": "News",
-      "topics": [
-        "Business & Finance"
-      ],
-      "updated_at": "2026-10-21T13:20:26.000Z"
-    },
-    {
-      "id": "2112820742060495085",
-      "domain": "中国",
-      "title_en": "Rizhao Residents Watch Rocket Launch from Home Windows",
-      "title_zh": "日照市民在家门口「看火箭」升空",
-      "hook_en": "People in Rizhao, China, peered out their bedroom windows to see a rocket soar into the sky over the Yellow Sea. It was a stunning, everyday view of space history unfolding right outside.",
-      "hook_zh": "中国日照居民透过卧室窗户，便能看见火箭从黄海上空腾起——航天发射成了海边日常景观。",
-      "summary_en": "On October 21, 2026, Galactic Energy’s Ceres-1S Y8 rocket lifted off at 11:39 a.m. Beijing Time from an offshore platform near Rizhao in Shandong Province, successfully placing the XiGuang-4-01 Earth-observation satellite into a 541-kilometer orbit. The satellite features high-resolution cameras and sensors to support monitoring in areas like the Guangdong-Hong Kong-Macao Greater Bay Area and along the Maritime Silk Road. This seventh sea-based mission for the Ceres-1 series used a new shore-based command center, giving coastal residents a clear, front-row view of the liftoff from their homes.",
-      "summary_zh": "2026 年 10 月 21 日北京时间 11:39，银河动力（Galactic Energy）的朱雀一号（Ceres-1S）Y8 运载火箭在山东日照附近海上平台升空，成功将「羲光四号 01」对地观测卫星送入约 541 公里轨道。卫星搭载高分相机与传感器，服务粤港澳大湾区及海上丝绸之路等监测需求。这是朱雀一号系列第七次海上发射，并启用新的岸基指挥中心，让沿海居民能在家清晰目睹发射。",
-      "body_en": "Rizhao Residents Watch Rocket Launch from Home Windows.\n\nPeople in Rizhao, China, peered out their bedroom windows to see a rocket soar into the sky over the Yellow Sea. It was a stunning, everyday view of space history unfolding right outside.\n\nOn October 21, 2026, Galactic Energy’s Ceres-1S Y8 rocket lifted off at 11:39 a.m. Beijing Time from an offshore platform near Rizhao in Shandong Province, successfully placing the XiGuang-4-01 Earth-observation satellite into a 541-kilometer orbit.\n\nThe satellite features high-resolution cameras and sensors to support monitoring in areas like the Guangdong-Hong Kong-Macao Greater Bay Area and along the Maritime Silk Road. This seventh sea-based mission for the Ceres-1 series used a new shore-based command center, giving coastal residents a clear, front-row view of the liftoff from their homes.",
-      "body_zh": "日照市民在家门口「看火箭」升空。\n\n中国日照居民透过卧室窗户，便能看见火箭从黄海上空腾起——航天发射成了海边日常景观。\n\n2026 年 10 月 21 日北京时间 11:39，银河动力（Galactic Energy）的朱雀一号（Ceres-1S）Y8 运载火箭在山东日照附近海上平台升空，成功将「羲光四号 01」对地观测卫星送入约 541 公里轨道。\n\n卫星搭载高分相机与传感器，服务粤港澳大湾区及海上丝绸之路等监测需求。这是朱雀一号系列第七次海上发射，并启用新的岸基指挥中心，让沿海居民能在家清晰目睹发射。",
-      "url": "https://x.com/i/trending/2112820742060495085",
-      "category": "News",
-      "topics": [
-        "Space"
-      ],
-      "updated_at": "2026-10-21T08:24:00.000Z"
-    },
-    {
-      "id": "2112538623471964597",
-      "domain": "中国",
-      "title_en": "USDA Confirms Major Soybean Export Sale to China",
-      "title_zh": "美国农业部确认对华大豆大额出口成交",
-      "hook_en": "Farmers and traders perked up Tuesday when the USDA announced a hefty private sale of U.S. soybeans to China—the first real sign of renewed buying after quiet months.",
-      "hook_zh": "美国农业部公布私营出口商对华大豆大额销售，沉寂数月后再度出现明显买盘信号，提振农场与贸易商情绪。",
-      "summary_en": "Private exporters reported selling 612,000 metric tons of American soybeans to China for the 2026/27 marketing year, one of the largest single-day deals lately. Chinese customs data showed the first U.S. soybean arrivals in September at 360,878 tons, up from zero a year ago, though total imports fell 8% to 11.88 million tons with Brazil supplying most at 10.7 million. For January through September, U.S. exports to China dropped 34% year-over-year to 11.06 million tons, while Brazil's climbed 3.4% to 65.84 million—yet recent data points to U.S. rebounding amid improving trade conditions.",
-      "summary_zh": "私营出口商报告向中国出售约 61.2 万吨美豆，用于 2026/27 市场年度，是近期单日较大成交之一。中国海关数据显示，9 月首批美豆到港约 36.09 万吨，去年同期为零；但进口总量仍降 8% 至 1188 万吨，巴西供应约 1070 万吨居首。1–9 月美对华出口同比降 34% 至 1106 万吨，巴西则增 3.4% 至 6584 万吨——近期数据则显示在贸易气氛改善下，美豆有回暖迹象。",
-      "body_en": "USDA Confirms Major Soybean Export Sale to China.\n\nFarmers and traders perked up Tuesday when the USDA announced a hefty private sale of U.S. soybeans to China—the first real sign of renewed buying after quiet months.\n\nPrivate exporters reported selling 612,000 metric tons of American soybeans to China for the 2026/27 marketing year, one of the largest single-day deals lately. Chinese customs data showed the first U.S. soybean arrivals in September at 360,878 tons, up from zero a year ago, though total imports fell 8% to 11.88 million tons with Brazil supplying most at 10.7 million.\n\nFor January through September, U.S. exports to China dropped 34% year-over-year to 11.06 million tons, while Brazil's climbed 3.4% to 65.84 million—yet recent data points to U.S. rebounding amid improving trade conditions.",
-      "body_zh": "美国农业部确认对华大豆大额出口成交。\n\n美国农业部公布私营出口商对华大豆大额销售，沉寂数月后再度出现明显买盘信号，提振农场与贸易商情绪。\n\n私营出口商报告向中国出售约 61.2 万吨美豆，用于 2026/27 市场年度，是近期单日较大成交之一。\n\n中国海关数据显示，9 月首批美豆到港约 36.09 万吨，去年同期为零；但进口总量仍降 8% 至 1188 万吨，巴西供应约 1070 万吨居首。1–9 月美对华出口同比降 34% 至 1106 万吨，巴西则增 3.4% 至 6584 万吨——近期数据则显示在贸易气氛改善下，美豆有回暖迹象。",
-      "url": "https://x.com/i/trending/2112538623471964597",
-      "category": "News",
-      "topics": [
-        "Business & Finance"
-      ],
-      "updated_at": "2026-10-20T13:42:34.000Z"
-    },
-    {
       "id": "2112572571275370804",
       "domain": "中国",
       "title_en": "Japan Faces Yttrium Shortage, Seeks US Help Against China Curbs",
@@ -626,44 +572,6 @@
       "updated_at": "2026-10-21T10:44:04.000Z"
     },
     {
-      "id": "2112405151768100963",
-      "domain": "中国",
-      "title_en": "Philippine Senators Push to Expel Chinese Ambassador Over Sea Threat",
-      "title_zh": "菲律宾参议员推动驱逐中国大使",
-      "hook_en": "Chinese Ambassador Jing Quan's words hung heavy: China could 'easily win' with force in the West Philippine Sea, though it prefers peace. Philippine senators fired back, demanding he be sent home.",
-      "hook_zh": "中国大使景泉称中国可「轻松打赢」与菲冲突，引发参议员要求将其驱逐。",
-      "summary_en": "Senators Risa Hontiveros and Erwin Tulfo filed resolutions urging President Marcos to declare Ambassador Jing persona non grata after his remarks, seen as a veiled threat amid China's vessel harassment and illegal fishing in Philippine waters. The Department of Foreign Affairs summoned Jing to protest, while Senator Kiko Pangilinan sharply challenged Marcos to act decisively. The Chinese Embassy hit back by listing critical lawmakers online, but Malacañang favors diplomatic channels over expulsion to avoid escalation.",
-      "summary_zh": "参议员洪蒂维罗斯与图尔福于 10 月 20 日前后提交决议，敦促马科斯总统宣布大使为不受欢迎人士或要求北京召回。言论回应菲防长称中国为地区麻烦制造者，中国使馆随后在社媒发出「你已上榜」等嘲讽帖。外交部 10 月 19 日召见景泉，称其言论具挑衅性；马科斯更倾向外交沟通而非驱逐。",
-      "body_en": "Philippine Senators Push to Expel Chinese Ambassador Over Threatening Remarks.\n\nChinese Ambassador Jing Quan boasted that China could 'easily win' any conflict with the Philippines, igniting calls from senators to send him packing.\n\nSenators Risa Hontiveros and Erwin Tulfo filed resolutions on October 20 and the day before, urging President Marcos to declare Ambassador Jing persona non grata or request his recall from Beijing. The remarks responded to Defense Secretary Gilberto Teodoro Jr.\n\nlabeling China a regional troublemaker, prompting the Chinese Embassy's taunting social media posts like 'You are now on the list' targeting critics. The Department of Foreign Affairs summoned Jing on October 19, calling his words a provocative threat amid ongoing West Philippine Sea tensions, though Marcos prefers diplomatic talks over expulsion.",
-      "body_zh": "菲律宾参议员推动驱逐中国大使。\n\n中国大使景泉称中国可「轻松打赢」与菲冲突，引发参议员要求将其驱逐。\n\n参议员洪蒂维罗斯与图尔福于 10 月 20 日前后提交决议，敦促马科斯总统宣布大使为不受欢迎人士或要求北京召回。言论回应菲防长称中国为地区麻烦制造者，中国使馆随后在社媒发出「你已上榜」等嘲讽帖。\n\n外交部 10 月 19 日召见景泉，称其言论具挑衅性；马科斯更倾向外交沟通而非驱逐。",
-      "url": "https://x.com/i/trending/2112405151768100963",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-21T10:24:16.000Z"
-    },
-    {
-      "id": "2112359332377407666",
-      "domain": "中国",
-      "title_en": "Mynt's GCash Parent Rings Bell for Philippines' Largest IPO",
-      "title_zh": "GCash 母公司 Mynt 敲钟，成菲律宾史上最大 IPO",
-      "hook_en": "President Ferdinand Marcos Jr. stood with Mynt executives for the ceremonial bell ringing, launching the biggest IPO in Philippine stock market history.",
-      "hook_zh": "马科斯总统与 Mynt 高管一同敲钟，启动菲律宾股市史上规模最大的 IPO。",
-      "summary_en": "Mynt Inc., behind the popular GCash app, debuted on the Philippine Stock Exchange Tuesday, raising up to 60.9 billion pesos—topping the prior record from 2021. Around 140,000 GCash users jumped in via the app, investing 1.1 billion pesos, many as first-time buyers, while big names like BlackRock joined. Shares opened and closed at the 6.60-peso price after a brief climb, with leaders eyeing expansion of digital lending and services for low- to middle-income Filipinos who make up most of GCash's 41 million users.",
-      "summary_zh": "运营热门支付应用 GCash 的 Mynt Inc. 周二在菲律宾证券交易所上市，最高募资约 609 亿比索，超过 2021 年此前纪录。约 14 万名 GCash 用户通过应用参与，合计投入约 11 亿比索，许多人是首次买股；贝莱德等机构也参与。股价开盘并收于 6.60 比索发行价附近，盘中曾短暂上扬。管理层表示将拓展面向中低收入用户的数字信贷等服务，该群体占 GCash 约 4100 万用户的大多数。",
-      "body_en": "Mynt's GCash Parent Rings Bell for Philippines' Largest IPO.\n\nPresident Ferdinand Marcos Jr. stood with Mynt executives for the ceremonial bell ringing, launching the biggest IPO in Philippine stock market history.\n\nMynt Inc., behind the popular GCash app, debuted on the Philippine Stock Exchange Tuesday, raising up to 60.9 billion pesos—topping the prior record from 2021.\n\nAround 140,000 GCash users jumped in via the app, investing 1.1 billion pesos, many as first-time buyers, while big names like BlackRock joined. Shares opened and closed at the 6.60-peso price after a brief climb, with leaders eyeing expansion of digital lending and services for low- to middle-income Filipinos who make up most of GCash's 41 million users.",
-      "body_zh": "GCash 母公司 Mynt 敲钟，成菲律宾史上最大 IPO。\n\n马科斯总统与 Mynt 高管一同敲钟，启动菲律宾股市史上规模最大的 IPO。\n\n运营热门支付应用 GCash 的 Mynt Inc. 周二在菲律宾证券交易所上市，最高募资约 609 亿比索，超过 2021 年此前纪录。约 14 万名 GCash 用户通过应用参与，合计投入约 11 亿比索，许多人是首次买股；贝莱德等机构也参与。\n\n股价开盘并收于 6.60 比索发行价附近，盘中曾短暂上扬。管理层表示将拓展面向中低收入用户的数字信贷等服务，该群体占 GCash 约 4100 万用户的大多数。",
-      "url": "https://x.com/i/trending/2112359332377407666",
-      "category": "News",
-      "topics": [
-        "Business & Finance",
-        "Stocks",
-        "Politics"
-      ],
-      "updated_at": "2026-10-20T11:01:50.000Z"
-    },
-    {
       "id": "2112161836116132305",
       "domain": "中国",
       "title_en": "China Restricts Tunnel Boring Machine Exports Targeting India's Projects",
@@ -683,23 +591,23 @@
       "updated_at": "2026-10-20T19:24:59.000Z"
     },
     {
-      "id": "2112437946263474495",
+      "id": "2111803212139569662",
       "domain": "中国",
-      "title_en": "China Tracks U.S. Warship Near Disputed South China Sea Shoal",
-      "title_zh": "中国跟踪靠近争议南沙礁盘的美舰",
-      "hook_en": "Early Tuesday, a U.S. littoral combat ship sailed into waters China calls its own near Xianbin Jiao, prompting Beijing to send forces for close monitoring.",
-      "hook_zh": "周二早间，一艘美军濒海战斗舰驶入中方所称仙宾礁附近水域，北京派出力量抵近监控。",
-      "summary_en": "China's PLA Navy accused the USS Charleston of illegally entering waters adjacent to Xianbin Jiao in the Spratly Islands on October 20, claiming it threatens sovereignty and regional stability. The Philippines countered that the ship stayed in international waters, requiring no permission, and referenced a 2016 arbitral ruling against China's claims. This follows a recent vessel collision near the same shoal and comes amid overlapping territorial assertions by multiple nations in the South China Sea.",
-      "summary_zh": "中国人民解放军海军指责美舰「查尔斯顿」号于 10 月 20 日非法进入南沙群岛仙宾礁邻近水域，称其威胁主权与地区稳定。菲律宾反驳称该舰处于国际水域、无需许可，并援引 2016 年仲裁裁决否定中方主张。事件发生在同礁附近近期船只擦碰之后，正值多国在南海存在重叠领土主张。",
-      "body_en": "China Tracks U.S. Warship Near Disputed South China Sea Shoal.\n\nEarly Tuesday, a U.S. littoral combat ship sailed into waters China calls its own near Xianbin Jiao, prompting Beijing to send forces for close monitoring.\n\nChina's PLA Navy accused the USS Charleston of illegally entering waters adjacent to Xianbin Jiao in the Spratly Islands on October 20, claiming it threatens sovereignty and regional stability.\n\nThe Philippines countered that the ship stayed in international waters, requiring no permission, and referenced a 2016 arbitral ruling against China's claims. This follows a recent vessel collision near the same shoal and comes amid overlapping territorial assertions by multiple nations in the South China Sea.",
-      "body_zh": "中国跟踪靠近争议南沙礁盘的美舰。\n\n周二早间，一艘美军濒海战斗舰驶入中方所称仙宾礁附近水域，北京派出力量抵近监控。\n\n中国人民解放军海军指责美舰「查尔斯顿」号于 10 月 20 日非法进入南沙群岛仙宾礁邻近水域，称其威胁主权与地区稳定。菲律宾反驳称该舰处于国际水域、无需许可，并援引 2016 年仲裁裁决否定中方主张。\n\n事件发生在同礁附近近期船只擦碰之后，正值多国在南海存在重叠领土主张。",
-      "url": "https://x.com/i/trending/2112437946263474495",
+      "title_en": "DeepSeek-V4.1-Flash Tops Coding Leaderboards at Fraction of Cost",
+      "title_zh": "DeepSeek-V4.1-Flash 登顶编程榜，成本仅为对手约十分之一",
+      "hook_en": "DeepSeek AI just dropped an updated open model that climbed to the top of coding leaderboards, outpacing pricier rivals while running smoothly on home setups.",
+      "hook_zh": "DeepSeek 更新开源模型后登上编程榜前列，表现压过更贵的对手，且可在家用设备上流畅运行。",
+      "summary_en": "Released on October 17, DeepSeek-V4.1-Flash-1017 earned the #1 spot among open models on Arena.ai's Code Arena: WebDev leaderboard with 1,670 points, ranking #12 overall ahead of Claude Opus 5 (High) and close to GPT-6 Sol (Max)—all at one-tenth the cost of competitors like Kimi K3 (Max). The 552B-parameter model, with MIT-licensed weights on Hugging Face, also hit #11 in Agent Arena, showing gains in success rates and reliability. Developers quickly optimized it for local use via Unsloth quantizations and DeepSeek's open-source DeepInfer framework, making frontier-level coding and agent performance accessible and affordable.",
+      "summary_zh": "10 月 17 日发布的 DeepSeek-V4.1-Flash-1017 在 Arena.ai 的 Code Arena: WebDev 开源模型榜以 1670 分居首，总榜第 12，领先 Claude Opus 5（High），并接近 GPT-6 Sol（Max），成本约为 Kimi K3（Max）等竞品的十分之一。该 5520 亿参数模型以 MIT 许可权重登陆 Hugging Face，并在 Agent Arena 位列第 11，成功率与稳定性有提升。开发者迅速通过 Unsloth 量化与 DeepSeek 开源的 DeepInfer 框架做本地优化，使前沿级编程与智能体能力更易获得、也更可负担。",
+      "body_en": "DeepSeek-V4.1-Flash Tops Coding Leaderboards at Fraction of Cost.\n\nDeepSeek AI just dropped an updated open model that climbed to the top of coding leaderboards, outpacing pricier rivals while running smoothly on home setups.\n\nReleased on October 17, DeepSeek-V4.1-Flash-1017 earned the #1 spot among open models on Arena.ai's Code Arena: WebDev leaderboard with 1,670 points, ranking #12 overall ahead of Claude Opus 5 (High) and close to GPT-6 Sol (Max)—all at one-tenth the cost of competitors like Kimi K3 (Max).\n\nThe 552B-parameter model, with MIT-licensed weights on Hugging Face, also hit #11 in Agent Arena, showing gains in success rates and reliability. Developers quickly optimized it for local use via Unsloth quantizations and DeepSeek's open-source DeepInfer framework, making frontier-level coding and agent performance accessible and affordable.",
+      "body_zh": "DeepSeek-V4.1-Flash 登顶编程榜，成本仅为对手约十分之一。\n\nDeepSeek 更新开源模型后登上编程榜前列，表现压过更贵的对手，且可在家用设备上流畅运行。\n\n10 月 17 日发布的 DeepSeek-V4.1-Flash-1017 在 Arena.ai 的 Code Arena: WebDev 开源模型榜以 1670 分居首，总榜第 12，领先 Claude Opus 5（High），并接近 GPT-6 Sol（Max），成本约为 Kimi K3（Max）等竞品的十分之一。\n\n该 5520 亿参数模型以 MIT 许可权重登陆 Hugging Face，并在 Agent Arena 位列第 11，成功率与稳定性有提升。开发者迅速通过 Unsloth 量化与 DeepSeek 开源的 DeepInfer 框架做本地优化，使前沿级编程与智能体能力更易获得、也更可负担。",
+      "url": "https://x.com/i/trending/2111803212139569662",
       "category": "News",
       "topics": [
-        "News",
-        "Politics"
+        "Technology",
+        "AI"
       ],
-      "updated_at": "2026-10-20T15:35:04.000Z"
+      "updated_at": "2026-10-20T11:32:56.000Z"
     },
     {
       "id": "2112529713906200727",
@@ -720,23 +628,115 @@
       "updated_at": "2026-10-20T13:07:49.000Z"
     },
     {
-      "id": "2112519854477517177",
+      "id": "2112533926702936100",
       "domain": "中国",
-      "title_en": "Chinese Tech Giants Order $35 Billion in Nvidia AI Cards Amid U.S. Curbs",
-      "title_zh": "中国科技巨头订购约 350 亿美元英伟达 AI 卡",
-      "hook_en": "ByteDance, Alibaba, and Tencent are betting big on Nvidia's RTX PRO 5500 cards for AI tasks, placing orders for over 3 million units despite U.S. export limits.",
-      "hook_zh": "尽管有美国出口限制，字节跳动、阿里巴巴与腾讯仍为大举采购英伟达 RTX PRO 5500，订单规模超过 300 万张。",
-      "summary_en": "The companies' combined orders exceed $35 billion at a list price of about $11,400 per card, designed for AI inference like chatbot responses and compliant with current U.S. rules. Nvidia plans to produce only up to 3 million globally in 2027, warning buyers they might get just 5% to 10% of requests as it prioritizes next-gen chips. Shipments could start in early 2027, highlighting China's strong AI demand even as firms eye local options like Huawei.",
-      "summary_zh": "三家公司合计订单按目录价约每张 1.14 万美元计超过 350 亿美元，该卡面向聊天机器人等 AI 推理，并符合现行美方规则。英伟达计划 2027 年全球最多生产约 300 万张，并警告买家可能只拿到申请量的 5%–10%，因其优先保障下一代芯片。出货或于 2027 年初开始，凸显在企业同时观望华为等本土方案之际，中国市场对 AI 算力需求依然强劲。",
-      "body_en": "Chinese Tech Giants Order $35 Billion in Nvidia AI Cards Amid U.S. Curbs.\n\nByteDance, Alibaba, and Tencent are betting big on Nvidia's RTX PRO 5500 cards for AI tasks, placing orders for over 3 million units despite U.S. export limits.\n\nThe companies' combined orders exceed $35 billion at a list price of about $11,400 per card, designed for AI inference like chatbot responses and compliant with current U.S. rules.\n\nNvidia plans to produce only up to 3 million globally in 2027, warning buyers they might get just 5% to 10% of requests as it prioritizes next-gen chips. Shipments could start in early 2027, highlighting China's strong AI demand even as firms eye local options like Huawei.",
-      "body_zh": "中国科技巨头订购约 350 亿美元英伟达 AI 卡。\n\n尽管有美国出口限制，字节跳动、阿里巴巴与腾讯仍为大举采购英伟达 RTX PRO 5500，订单规模超过 300 万张。\n\n三家公司合计订单按目录价约每张 1.14 万美元计超过 350 亿美元，该卡面向聊天机器人等 AI 推理，并符合现行美方规则。\n\n英伟达计划 2027 年全球最多生产约 300 万张，并警告买家可能只拿到申请量的 5%–10%，因其优先保障下一代芯片。出货或于 2027 年初开始，凸显在企业同时观望华为等本土方案之际，中国市场对 AI 算力需求依然强劲。",
-      "url": "https://x.com/i/trending/2112519854477517177",
+      "title_en": "China's Philosophers Offer Fresh Take on AI and Humanity",
+      "title_zh": "中国学者从人文传统出发，重新思考 AI 与人性",
+      "hook_en": "While Western worries center on super-smart machines outpacing us, Chinese thinkers flip the script to protect what makes us truly human.",
+      "hook_zh": "西方讨论常聚焦超级智能机器是否超越人类，中国思想界则更强调如何守护人之为人的特质。",
+      "summary_en": "Arnaud Bertrand's Substack explores how China's philosophers, sociologists, and ethicists view AI through traditions like Confucianism, emphasizing the heart-mind and benevolence over raw intelligence. Thinkers like Liu Yongmou warn against the 'machinization of humans'—technology eroding our inner qualities—while Zhao Tingyang cautions that aligning AI with human values might backfire. Drawing from ancient texts like the Zhuangzi, these ideas challenge Western fears and highlight overlooked questions as China leads in AI development.",
+      "summary_zh": "Arnaud Bertrand 的 Substack 文章梳理中国哲学家、社会学家与伦理学者如何借儒家等传统审视 AI，强调「心」与仁爱胜过单纯智力。刘永谋等学者警示「人的机器化」——技术侵蚀内在品质；赵汀阳则提醒，把人类价值强行对齐到 AI 上或会适得其反。这些论述援引《庄子》等古典文本，挑战西方恐惧叙事，也在中国 AI 快速发展背景下提出常被忽视的问题。",
+      "body_en": "China's Philosophers Offer Fresh Take on AI and Humanity.\n\nWhile Western worries center on super-smart machines outpacing us, Chinese thinkers flip the script to protect what makes us truly human.\n\nArnaud Bertrand's Substack explores how China's philosophers, sociologists, and ethicists view AI through traditions like Confucianism, emphasizing the heart-mind and benevolence over raw intelligence.\n\nThinkers like Liu Yongmou warn against the 'machinization of humans'—technology eroding our inner qualities—while Zhao Tingyang cautions that aligning AI with human values might backfire. Drawing from ancient texts like the Zhuangzi, these ideas challenge Western fears and highlight overlooked questions as China leads in AI development.",
+      "body_zh": "中国学者从人文传统出发，重新思考 AI 与人性。\n\n西方讨论常聚焦超级智能机器是否超越人类，中国思想界则更强调如何守护人之为人的特质。\n\nArnaud Bertrand 的 Substack 文章梳理中国哲学家、社会学家与伦理学者如何借儒家等传统审视 AI，强调「心」与仁爱胜过单纯智力。\n\n刘永谋等学者警示「人的机器化」——技术侵蚀内在品质；赵汀阳则提醒，把人类价值强行对齐到 AI 上或会适得其反。这些论述援引《庄子》等古典文本，挑战西方恐惧叙事，也在中国 AI 快速发展背景下提出常被忽视的问题。",
+      "url": "https://x.com/i/trending/2112533926702936100",
       "category": "News",
       "topics": [
         "Technology",
         "AI"
       ],
-      "updated_at": "2026-10-20T20:04:28.000Z"
+      "updated_at": "2026-10-20T13:25:56.000Z"
+    },
+    {
+      "id": "2112579117904535807",
+      "domain": "中国",
+      "title_en": "Micron Funds New York Minerals Processing for AI Chip Supplies",
+      "title_zh": "美光出资支持纽约关键矿物精炼，保障 AI 芯片原料",
+      "hook_en": "Micron is stepping up to secure vital materials for its AI memory chips right at home in New York. The move aims to cut reliance on overseas sources amid surging demand.",
+      "hook_zh": "美光加大在纽约本土保障 AI 存储芯片关键材料供应的力度，意在削减对海外来源的依赖，以应对需求激增。",
+      "summary_en": "Micron Technology announced strategic funding for Indium Corporation to expand refining of critical minerals like indium at its Rome, New York facility, paired with a long-term supply agreement. This supports Micron's $3 billion U.S. semiconductor supply chain investment and addresses China's dominance in key materials production. Despite the positive step for national security and AI growth, shares dipped 2-3% that day amid concerns over AI spending, Taiwan strikes, and competition.",
+      "summary_zh": "美光科技宣布向 Indium Corporation 提供战略性资金，扩大其纽约罗马工厂对铟等关键矿物的精炼，并配套长期供货协议。此举支撑美光约 30 亿美元的美国半导体供应链投资，也回应中国在关键材料生产中的主导地位。尽管对国家安全与 AI 增长属正面一步，当日股价仍因 AI 开支、台湾相关冲击与竞争等担忧下跌约 2%–3%。",
+      "body_en": "Micron Funds New York Minerals Processing for AI Chip Supplies.\n\nMicron is stepping up to secure vital materials for its AI memory chips right at home in New York. The move aims to cut reliance on overseas sources amid surging demand.\n\nMicron Technology announced strategic funding for Indium Corporation to expand refining of critical minerals like indium at its Rome, New York facility, paired with a long-term supply agreement. This supports Micron's $3 billion U.S.\n\nsemiconductor supply chain investment and addresses China's dominance in key materials production. Despite the positive step for national security and AI growth, shares dipped 2-3% that day amid concerns over AI spending, Taiwan strikes, and competition.",
+      "body_zh": "美光出资支持纽约关键矿物精炼，保障 AI 芯片原料。\n\n美光加大在纽约本土保障 AI 存储芯片关键材料供应的力度，意在削减对海外来源的依赖，以应对需求激增。\n\n美光科技宣布向 Indium Corporation 提供战略性资金，扩大其纽约罗马工厂对铟等关键矿物的精炼，并配套长期供货协议。\n\n此举支撑美光约 30 亿美元的美国半导体供应链投资，也回应中国在关键材料生产中的主导地位。尽管对国家安全与 AI 增长属正面一步，当日股价仍因 AI 开支、台湾相关冲击与竞争等担忧下跌约 2%–3%。",
+      "url": "https://x.com/i/trending/2112579117904535807",
+      "category": "News",
+      "topics": [
+        "Technology"
+      ],
+      "updated_at": "2026-10-20T16:26:46.000Z"
+    },
+    {
+      "id": "2112787028131914147",
+      "domain": "中国",
+      "title_en": "Zhao Lusi Stuns in Elie Saab Gown for Harper’s Bazaar Gala",
+      "title_zh": "赵露思身着 Elie Saab 高定亮相时尚芭莎盛典",
+      "hook_en": "Zhao Lusi reclined gracefully on a vivid red chaise lounge, her black Elie Saab gown blooming with red roses under dramatic lights.",
+      "hook_zh": "赵露思斜倚鲜红躺椅，黑色 Elie Saab 礼服在灯光下绽放红玫瑰刺绣。",
+      "summary_en": "At the Harper’s Bazaar “From China” 2026 Annual Gala on October 21, Chinese actress Zhao Lusi shone in an Elie Saab Fall/Winter 2026 Haute Couture gown from the “The Ball of Untamed Dreams” collection. The elaborate black design featured delicate lace, floral appliqués, a mermaid silhouette, and flowing train, paired with BVLGARI serpenti jewelry including necklaces, rings, and a watch. Fans loved the “Midnight Rose” and “Rosy Heritage Beauty” theme, sharing close-ups of her glowing presence and intimate portraits that highlighted the intricate details. Her standout look from the season’s most coveted pieces underscored her rising influence in entertainment and fashion.",
+      "summary_zh": "10 月 21 日时尚芭莎“From China”2026 年度盛典上，赵露思身着 Elie Saab 2026 秋冬高定“不羁梦之舞会”系列黑色礼服，蕾丝与花卉贴花、鱼尾剪裁与拖尾搭配宝格丽蛇形珠宝。粉丝称赞“午夜玫瑰”造型与细节特写。该造型也被视为她在娱乐与时尚影响力上升的又一注脚。",
+      "body_en": "Zhao Lusi Stuns in Elie Saab Gown for Harper’s Bazaar Gala.\n\nZhao Lusi reclined gracefully on a vivid red chaise lounge, her black Elie Saab gown blooming with red roses under dramatic lights.\n\nAt the Harper’s Bazaar “From China” 2026 Annual Gala on October 21, Chinese actress Zhao Lusi shone in an Elie Saab Fall/Winter 2026 Haute Couture gown from the “The Ball of Untamed Dreams” collection. The elaborate black design featured delicate lace, floral appliqués, a mermaid silhouette, and flowing train, paired with BVLGARI serpenti jewelry including necklaces, rings, and a watch.\n\nFans loved the “Midnight Rose” and “Rosy Heritage Beauty” theme, sharing close-ups of her glowing presence and intimate portraits that highlighted the intricate details. Her standout look from the season’s most coveted pieces underscored her rising influence in entertainment and fashion.",
+      "body_zh": "赵露思身着 Elie Saab 高定亮相时尚芭莎盛典。\n\n赵露思斜倚鲜红躺椅，黑色 Elie Saab 礼服在灯光下绽放红玫瑰刺绣。\n\n10 月 21 日时尚芭莎“From China”2026 年度盛典上，赵露思身着 Elie Saab 2026 秋冬高定“不羁梦之舞会”系列黑色礼服，蕾丝与花卉贴花、鱼尾剪裁与拖尾搭配宝格丽蛇形珠宝。\n\n粉丝称赞“午夜玫瑰”造型与细节特写。该造型也被视为她在娱乐与时尚影响力上升的又一注脚。",
+      "url": "https://x.com/i/trending/2112787028131914147",
+      "category": "Entertainment",
+      "topics": [
+        "Celebrity",
+        "Fashion"
+      ],
+      "updated_at": "2026-10-21T13:04:04.000Z"
+    },
+    {
+      "id": "2112426906595524740",
+      "domain": "中国",
+      "title_en": "JoongDunk Fan Meeting Sells Out in Hong Kong Amid Duo Split",
+      "title_zh": "JoongDunk 香港粉丝见面会售罄，恰逢搭档拆队消息",
+      "hook_en": "Fans grabbed every ticket for JoongDunk's December 5 Hong Kong fan meeting, turning it into a sell-out just days after their agency announced the end of their on-screen pairing.",
+      "hook_zh": "经纪公司刚宣布二人荧幕搭档结束数日，JoongDunk 12 月 5 日香港粉丝见面会门票即被抢光。",
+      "summary_en": "Thai actors Joong Archen Aydin and Dunk Natachai Boonprasert, beloved as JoongDunk, will appear together one last time with their character Jaidee at Nina Hotel Tsuen Wan West. GMMTV announced on October 19 that the pair mutually agreed to pursue separate careers, but this event and prior schedules remain on track. Supporters from multiple countries snapped up tickets and add-ons, sharing emotional tributes like sketches and messages of endless love, while warning against unofficial sellers. The rapid sell-out underscores their lasting bond with fans, who mix joy over the gathering with hopes for cherished memories.",
+      "summary_zh": "泰国演员 Joong Archen Aydin 与 Dunk Natachai Boonprasert（合称 JoongDunk）将携角色 Jaidee 在荃湾西如心酒店最后一次同台。GMMTV 于 10 月 19 日称双方协议各自发展事业，但本场活动与既定行程仍按计划进行。多国粉丝迅速购票并加购周边，分享手绘与「永远的爱」等感性留言，同时提醒警惕非官方黄牛。快速售罄凸显其与粉丝的长久联结——人们既为再聚欢欣，也希望留下珍贵回忆。",
+      "body_en": "JoongDunk Fan Meeting Sells Out in Hong Kong Amid Duo Split.\n\nFans grabbed every ticket for JoongDunk's December 5 Hong Kong fan meeting, turning it into a sell-out just days after their agency announced the end of their on-screen pairing.\n\nThai actors Joong Archen Aydin and Dunk Natachai Boonprasert, beloved as JoongDunk, will appear together one last time with their character Jaidee at Nina Hotel Tsuen Wan West. GMMTV announced on October 19 that the pair mutually agreed to pursue separate careers, but this event and prior schedules remain on track.\n\nSupporters from multiple countries snapped up tickets and add-ons, sharing emotional tributes like sketches and messages of endless love, while warning against unofficial sellers. The rapid sell-out underscores their lasting bond with fans, who mix joy over the gathering with hopes for cherished memories.",
+      "body_zh": "JoongDunk 香港粉丝见面会售罄，恰逢搭档拆队消息。\n\n经纪公司刚宣布二人荧幕搭档结束数日，JoongDunk 12 月 5 日香港粉丝见面会门票即被抢光。\n\n泰国演员 Joong Archen Aydin 与 Dunk Natachai Boonprasert（合称 JoongDunk）将携角色 Jaidee 在荃湾西如心酒店最后一次同台。GMMTV 于 10 月 19 日称双方协议各自发展事业，但本场活动与既定行程仍按计划进行。\n\n多国粉丝迅速购票并加购周边，分享手绘与「永远的爱」等感性留言，同时提醒警惕非官方黄牛。快速售罄凸显其与粉丝的长久联结——人们既为再聚欢欣，也希望留下珍贵回忆。",
+      "url": "https://x.com/i/trending/2112426906595524740",
+      "category": "Entertainment",
+      "topics": [
+        "Concerts"
+      ],
+      "updated_at": "2026-10-21T11:16:28.000Z"
+    },
+    {
+      "id": "2112450617138659781",
+      "domain": "中国",
+      "title_en": "Wang Yibo Shares North China Leopard Expedition at Beijing Premiere",
+      "title_zh": "王一博北京首映分享华北豹科考经历",
+      "hook_en": "Wang Yibo beamed with pride at the Beijing premiere when he learned his infrared camera had captured a rare North China leopard in the wild.",
+      "hook_zh": "在北京首映礼上，王一博得知自己架设的红外相机拍到稀有华北豹，难掩自豪。",
+      "summary_en": "The Chinese actor and WildAid ambassador attended the media premiere for 'Defenders of the Hidden 2: Land of Leopards' on October 20 in Beijing, recounting his 10-to-15-day high-altitude shoot in Qinghai where he wielded a professional Canon camera for the first time and set up wildlife cams. The series spotlights the North China leopard's habitat struggles and human-wildlife harmony efforts, with the first episode streaming on Tencent Video October 24 and the second on October 31. Yibo urged fans to reject products from endangered species, holding a framed leopard photo amid warm event cheers.",
+      "summary_zh": "这位中国演员、WildAid 大使出席 10 月 20 日北京《隐秘的守护者 2：豹之境》媒体首映，讲述在青海海拔地区拍摄约 10 至 15 天的经历：首次使用专业佳能相机，并布设野生动物相机。系列聚焦华北豹栖息地困境与人兽和谐努力；第一集 10 月 24 日、第二集 10 月 31 日登陆腾讯视频。一博手持镶框豹照，呼吁粉丝拒绝濒危物种制品，现场反响热烈。",
+      "body_en": "Wang Yibo Shares North China Leopard Expedition at Beijing Premiere.\n\nWang Yibo beamed with pride at the Beijing premiere when he learned his infrared camera had captured a rare North China leopard in the wild.\n\nThe Chinese actor and WildAid ambassador attended the media premiere for 'Defenders of the Hidden 2: Land of Leopards' on October 20 in Beijing, recounting his 10-to-15-day high-altitude shoot in Qinghai where he wielded a professional Canon camera for the first time and set up wildlife cams.\n\nThe series spotlights the North China leopard's habitat struggles and human-wildlife harmony efforts, with the first episode streaming on Tencent Video October 24 and the second on October 31. Yibo urged fans to reject products from endangered species, holding a framed leopard photo amid warm event cheers.",
+      "body_zh": "王一博北京首映分享华北豹科考经历。\n\n在北京首映礼上，王一博得知自己架设的红外相机拍到稀有华北豹，难掩自豪。\n\n这位中国演员、WildAid 大使出席 10 月 20 日北京《隐秘的守护者 2：豹之境》媒体首映，讲述在青海海拔地区拍摄约 10 至 15 天的经历：首次使用专业佳能相机，并布设野生动物相机。\n\n系列聚焦华北豹栖息地困境与人兽和谐努力；第一集 10 月 24 日、第二集 10 月 31 日登陆腾讯视频。一博手持镶框豹照，呼吁粉丝拒绝濒危物种制品，现场反响热烈。",
+      "url": "https://x.com/i/trending/2112450617138659781",
+      "category": "Entertainment",
+      "topics": [
+        "Celebrity"
+      ],
+      "updated_at": "2026-10-20T17:18:13.000Z"
+    },
+    {
+      "id": "2112228072351223810",
+      "domain": "中国",
+      "title_en": "AI Agent Swarms Promise Fast Research with Built-in Verification",
+      "title_zh": "AI 智能体「蜂群」承诺快速调研并内置核验",
+      "hook_en": "A 23-year-old developer in China built a system of 300 AI agents that research and verify data in hours, dumping results into an Obsidian vault without a single hallucination.",
+      "hook_zh": "中国一位 23 岁开发者搭建由 300 个 AI 智能体组成的系统，可在数小时内调研并核验数据，结果写入 Obsidian 库，自称几乎无幻觉。",
+      "summary_en": "The setup uses a powerful model for main tasks and a cheaper one to cross-check claims in 100 milliseconds, repeating until full consensus on company profiles or codebases. Supporters hail it as a 'Second Brain + swarm' that replaces analyst teams, while skeptics like developer Wes Winder call it 'tokenmaxxing'—chasing high AI usage over real value—and question flashy dashboards for hype. Real tools like shared Markdown folders in Obsidian enable agent coordination, fueling experiments amid debates on true capabilities versus promises.",
+      "summary_zh": "该方案用强大模型负主任务，用更便宜的模型在约 100 毫秒内交叉核对主张，反复直至对公司画像或代码库达成共识。支持者称之为可取代分析团队的「第二大脑 + 蜂群」；怀疑者如开发者 Wes Winder 则批评是「刷 token」——追逐高用量而非真实价值，并质疑花哨仪表盘是否偏于炒作。Obsidian 中共享 Markdown 文件夹等真实工具支撑智能体协作，相关实验在能力与承诺之辩中持续推进。",
+      "body_en": "AI Agent Swarms Promise Fast Research with Built-in Verification.\n\nA 23-year-old developer in China built a system of 300 AI agents that research and verify data in hours, dumping results into an Obsidian vault without a single hallucination.\n\nThe setup uses a powerful model for main tasks and a cheaper one to cross-check claims in 100 milliseconds, repeating until full consensus on company profiles or codebases.\n\nSupporters hail it as a 'Second Brain + swarm' that replaces analyst teams, while skeptics like developer Wes Winder call it 'tokenmaxxing'—chasing high AI usage over real value—and question flashy dashboards for hype. Real tools like shared Markdown folders in Obsidian enable agent coordination, fueling experiments amid debates on true capabilities versus promises.",
+      "body_zh": "AI 智能体「蜂群」承诺快速调研并内置核验。\n\n中国一位 23 岁开发者搭建由 300 个 AI 智能体组成的系统，可在数小时内调研并核验数据，结果写入 Obsidian 库，自称几乎无幻觉。\n\n该方案用强大模型负主任务，用更便宜的模型在约 100 毫秒内交叉核对主张，反复直至对公司画像或代码库达成共识。\n\n支持者称之为可取代分析团队的「第二大脑 + 蜂群」；怀疑者如开发者 Wes Winder 则批评是「刷 token」——追逐高用量而非真实价值，并质疑花哨仪表盘是否偏于炒作。Obsidian 中共享 Markdown 文件夹等真实工具支撑智能体协作，相关实验在能力与承诺之辩中持续推进。",
+      "url": "https://x.com/i/trending/2112228072351223810",
+      "category": "Other",
+      "topics": [
+        "Technology",
+        "AI"
+      ],
+      "updated_at": "2026-10-20T17:06:07.000Z"
     },
     {
       "id": "2112296384745631848",
@@ -755,60 +755,6 @@
         "Politics"
       ],
       "updated_at": "2026-10-20T14:03:55.000Z"
-    },
-    {
-      "id": "2112538624109535581",
-      "domain": "国际",
-      "title_en": "Iran Claims Agreement with Iraq to Expel Kurdish Opposition Groups",
-      "title_zh": "伊朗称与伊拉克达成协议，拟驱逐库尔德反对派武装",
-      "hook_en": "Iran's ambassador announced a major step against Kurdish opposition groups in Iraq's Kurdish region, but Baghdad has stayed quiet so far.",
-      "hook_zh": "伊朗大使宣布将针对伊拉克库区伊朗库尔德反对派采取重大步骤，但巴格达官方口径迄今保持沉默。",
-      "summary_en": "Iran's envoy to Iraq, Mohammad Kazem Al-Sadegh, stated that a joint security meeting in Baghdad resulted in an agreement to remove or hand over Iranian Kurdish opposition groups from the Kurdistan region. The talks included Iraq’s national security advisor and a Kurdistan Regional Government delegation, framed by Iran as part of ongoing security cooperation. Iraq's official readout made no mention of expulsion or handover, focusing instead on implementing a 2023 pact to disarm and relocate the groups from border areas. A KDPI official rejected the demands, vowing to continue their struggle, while analysts warn of legal and humanitarian challenges for long-term refugees.",
-      "summary_zh": "伊朗驻伊拉克大使穆罕默德·卡齐姆·萨迪克称，在巴格达举行的联合安全会议达成协议，将把伊朗库尔德反对派组织从库尔德地区清除或移交。会谈有伊拉克国家安全顾问及库区政府代表团参与，伊方将其表述为持续安全合作的一部分。伊拉克官方纪要未提「驱逐」或「移交」，而强调落实 2023 年协议——解除武装并将相关组织迁离边境。库民党（KDPI）官员拒绝相关要求并称将继续斗争；分析人士警告长期难民安置面临法律与人道难题。",
-      "body_en": "Iran Claims Agreement with Iraq to Expel Kurdish Opposition Groups.\n\nIran's ambassador announced a major step against Kurdish opposition groups in Iraq's Kurdish region, but Baghdad has stayed quiet so far.\n\nIran's envoy to Iraq, Mohammad Kazem Al-Sadegh, stated that a joint security meeting in Baghdad resulted in an agreement to remove or hand over Iranian Kurdish opposition groups from the Kurdistan region. The talks included Iraq’s national security advisor and a Kurdistan Regional Government delegation, framed by Iran as part of ongoing security cooperation.\n\nIraq's official readout made no mention of expulsion or handover, focusing instead on implementing a 2023 pact to disarm and relocate the groups from border areas. A KDPI official rejected the demands, vowing to continue their struggle, while analysts warn of legal and humanitarian challenges for long-term refugees.",
-      "body_zh": "伊朗称与伊拉克达成协议，拟驱逐库尔德反对派武装。\n\n伊朗大使宣布将针对伊拉克库区伊朗库尔德反对派采取重大步骤，但巴格达官方口径迄今保持沉默。\n\n伊朗驻伊拉克大使穆罕默德·卡齐姆·萨迪克称，在巴格达举行的联合安全会议达成协议，将把伊朗库尔德反对派组织从库尔德地区清除或移交。会谈有伊拉克国家安全顾问及库区政府代表团参与，伊方将其表述为持续安全合作的一部分。\n\n伊拉克官方纪要未提「驱逐」或「移交」，而强调落实 2023 年协议——解除武装并将相关组织迁离边境。库民党（KDPI）官员拒绝相关要求并称将继续斗争；分析人士警告长期难民安置面临法律与人道难题。",
-      "url": "https://x.com/i/trending/2112538624109535581",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-20T13:42:45.000Z"
-    },
-    {
-      "id": "2112244933927272860",
-      "domain": "国际",
-      "title_en": "UN Rapporteur Joins Iranian Prisoners' Hunger Strike Against Executions",
-      "title_zh": "联合国报告员加入伊朗囚犯绝食，抗议处决",
-      "hook_en": "In a powerful act of solidarity, UN Special Rapporteur Leopoldo Maldonado Gutiérrez began a 24-hour fast at midnight Iran time on October 20, standing with political prisoners facing death for their beliefs.",
-      "hook_zh": "联合国言论自由问题特别报告员莱奥波尔多·马尔多纳多·古铁雷斯于伊朗时间 10 月 20 日午夜起绝食 24 小时，声援因信仰面临死刑的政治犯。",
-      "summary_en": "Maldonado, focused on freedom of opinion and expression, joined the 143rd week of the 'No to Execution Tuesdays' campaign, where prisoners in 66 Iranian prisons hunger strike every Tuesday to protest executions often scheduled midweek. He highlighted alarming figures from Amnesty International: 2,159 executions in 2025—the highest since 1981—and at least 46 political prisoners executed since March 2026, with over 100 more on death row under vague charges like 'enmity against God.' Members of the European Parliament and activists like Ali Safavi also showed support, calling for halted executions, fair trials, and an end to politically motivated death sentences.",
-      "summary_zh": "马尔多纳多加入「拒绝处决的星期二」运动第 143 周：伊朗 66 所监狱的囚犯每周二绝食，抗议常在周中执行的死刑。他援引国际特赦组织数据：2025 年处决 2159 人，为 1981 年以来最高；自 2026 年 3 月以来至少 46 名政治犯被处决，另有逾 100 人因「与真主为敌」等模糊罪名仍在死囚区。欧洲议会议员及活动人士阿里·萨法维等亦表态支持，呼吁停止处决、保障公正审判、终结政治性死刑。",
-      "body_en": "UN Rapporteur Joins Iranian Prisoners' Hunger Strike Against Executions.\n\nIn a powerful act of solidarity, UN Special Rapporteur Leopoldo Maldonado Gutiérrez began a 24-hour fast at midnight Iran time on October 20, standing with political prisoners facing death for their beliefs.\n\nMaldonado, focused on freedom of opinion and expression, joined the 143rd week of the 'No to Execution Tuesdays' campaign, where prisoners in 66 Iranian prisons hunger strike every Tuesday to protest executions often scheduled midweek. He highlighted alarming figures from Amnesty International: 2,159 executions in 2025—the highest since 1981—and at least 46 political prisoners executed since March 2026, with over 100 more on death row under vague charges like 'enmity against God.' Members of the European Parliament and activists like Ali Safavi also showed support, calling for halted executions, fair trials, and an end to politically motivated death sentences.",
-      "body_zh": "联合国报告员加入伊朗囚犯绝食，抗议处决。\n\n联合国言论自由问题特别报告员莱奥波尔多·马尔多纳多·古铁雷斯于伊朗时间 10 月 20 日午夜起绝食 24 小时，声援因信仰面临死刑的政治犯。\n\n马尔多纳多加入「拒绝处决的星期二」运动第 143 周：伊朗 66 所监狱的囚犯每周二绝食，抗议常在周中执行的死刑。\n\n他援引国际特赦组织数据：2025 年处决 2159 人，为 1981 年以来最高；自 2026 年 3 月以来至少 46 名政治犯被处决，另有逾 100 人因「与真主为敌」等模糊罪名仍在死囚区。欧洲议会议员及活动人士阿里·萨法维等亦表态支持，呼吁停止处决、保障公正审判、终结政治性死刑。",
-      "url": "https://x.com/i/trending/2112244933927272860",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-21T13:12:12.000Z"
-    },
-    {
-      "id": "2112811720599318629",
-      "domain": "国际",
-      "title_en": "Gaza Faces Deepening Food Crisis as Markets Empty and Aid Cuts Hit",
-      "title_zh": "加沙食品危机加深：市场空空、援助削减",
-      "hook_en": "Markets once full of fresh fruits and vegetables now stand bare, leaving families like one worried mother fearing for her daughters' health without nutritious food.",
-      "hook_zh": "曾摆满蔬果的市场如今货架空空，有母亲担心女儿缺少营养食物影响健康。",
-      "summary_en": "Israel halted commercial shipments into Gaza around October 14 due to a dispute over merchant fees, sharply cutting supplies of produce and other goods, while humanitarian aid continues in limited amounts. The World Food Programme announced on October 19 that funding shortages forced it to slash assistance from 1.6 million to 1.1 million people, halving rations and dropping daily hot meals from 250,000 to 150,000. About 1.4 million Gazans, or two-thirds of the population, already face crisis-level food insecurity, with residents describing starving crowds chasing flour bags, skyrocketing prices, and closing bakeries as winter nears.",
-      "summary_zh": "以色列约自 10 月 14 日起因商户费用争议暂停对加沙商业货运，果蔬等供应锐减，人道援助仍以有限规模继续。世界粮食计划署 10 月 19 日宣布因资金短缺将受助人数从 160 万砍至 110 万，口粮减半，每日热餐从 25 万份降至 15 万份。约 140 万加沙人（约三分之二人口）已处于危机级粮食不安全，居民描述人群追逐面粉袋、物价飙升、面包店关闭，冬日将至形势更紧。",
-      "body_en": "Gaza Faces Deepening Food Crisis as Markets Empty and Aid Cuts Hit.\n\nMarkets once full of fresh fruits and vegetables now stand bare, leaving families like one worried mother fearing for her daughters' health without nutritious food.\n\nIsrael halted commercial shipments into Gaza around October 14 due to a dispute over merchant fees, sharply cutting supplies of produce and other goods, while humanitarian aid continues in limited amounts.\n\nThe World Food Programme announced on October 19 that funding shortages forced it to slash assistance from 1.6 million to 1.1 million people, halving rations and dropping daily hot meals from 250,000 to 150,000. About 1.4 million Gazans, or two-thirds of the population, already face crisis-level food insecurity, with residents describing starving crowds chasing flour bags, skyrocketing prices, and closing bakeries as winter nears.",
-      "body_zh": "加沙食品危机加深：市场空空、援助削减。\n\n曾摆满蔬果的市场如今货架空空，有母亲担心女儿缺少营养食物影响健康。\n\n以色列约自 10 月 14 日起因商户费用争议暂停对加沙商业货运，果蔬等供应锐减，人道援助仍以有限规模继续。\n\n世界粮食计划署 10 月 19 日宣布因资金短缺将受助人数从 160 万砍至 110 万，口粮减半，每日热餐从 25 万份降至 15 万份。约 140 万加沙人（约三分之二人口）已处于危机级粮食不安全，居民描述人群追逐面粉袋、物价飙升、面包店关闭，冬日将至形势更紧。",
-      "url": "https://x.com/i/trending/2112811720599318629",
-      "category": "News",
-      "topics": [
-        "News"
-      ],
-      "updated_at": "2026-10-21T12:33:40.000Z"
     },
     {
       "id": "2112460842902151394",
@@ -849,38 +795,21 @@
     {
       "id": "2112773061082767722",
       "domain": "国际",
-      "title_en": "Putin Orders Escalation of Russian Sabotage in NATO Europe",
+      "title_en": "Putin Ordered Sabotage Campaign Against NATO, U.S. Intel Assesses",
       "title_zh": "美情报称普京下令加大对北约欧洲的破坏行动",
-      "hook_en": "A drone packed with explosives struck a Ukrainian cargo plane at Germany's Leipzig-Halle Airport in August, but mercifully failed to detonate amid a broader covert campaign.",
+      "hook_en": "A drone packed with explosives struck a cargo plane at Germany's Leipzig-Halle Airport in August, but mercifully failed to detonate. U.S. intelligence now pins it on a personal order from Putin to ramp up covert attacks on NATO nations.",
       "hook_zh": "今年 8 月一架装有爆炸物的无人机袭击德国莱比锡机场一架乌克兰货机但未起爆，被指属于更广泛隐蔽行动的一部分。",
-      "summary_en": "U.S. intelligence reports that Vladimir Putin directly ordered a major increase in Russian sabotage operations across NATO countries in Europe, frustrated by stalled Ukraine talks and Kyiv's deep strikes. The Leipzig incident, traced to a GRU unit with explosives via Serbia, targeted military aid; a Kremlin backchannel later warned Germany of more attacks to come. Germany raised its military sabotage threat to 'significant' and considered NATO's Article 5 if casualties had mounted, while the campaign now hits suppliers, infrastructure, and shipping. Russia denies involvement as NATO weighs a response.",
+      "summary_en": "The Wall Street Journal investigation reveals Russian President Vladimir Putin directed the GRU military intelligence unit to intensify sabotage against NATO countries, targeting military aid shipments to Ukraine, infrastructure, and shipping to weaken European support. The Leipzig plot involved three drones aimed at an Antonov aircraft; one hit but didn't explode, averting disaster. German Chancellor Friedrich Merz warned of Russia's societal threat, noting mass casualties there could have triggered NATO's Article 5. Berlin blamed Moscow publicly, raised sabotage alerts, while Russia denies involvement.",
       "summary_zh": "美方情报称，因乌克兰和谈停滞及基辅深远打击，普京直接下令显著加强对欧洲北约国家的破坏活动。莱比锡事件被指向经塞尔维亚运送爆炸物的俄军情报单位，目标涉及军援；克里姆林宫后据称通过后门警告德国还将有更多袭击。德国已将军事破坏威胁调至“显著”，并讨论若造成伤亡是否触及北约第五条。俄方否认，北约仍在评估应对。",
       "body_en": "Putin Orders Escalation of Russian Sabotage in NATO Europe.\n\nA drone packed with explosives struck a Ukrainian cargo plane at Germany's Leipzig-Halle Airport in August, but mercifully failed to detonate amid a broader covert campaign.\n\nU.S. intelligence reports that Vladimir Putin directly ordered a major increase in Russian sabotage operations across NATO countries in Europe, frustrated by stalled Ukraine talks and Kyiv's deep strikes.\n\nThe Leipzig incident, traced to a GRU unit with explosives via Serbia, targeted military aid; a Kremlin backchannel later warned Germany of more attacks to come. Germany raised its military sabotage threat to 'significant' and considered NATO's Article 5 if casualties had mounted, while the campaign now hits suppliers, infrastructure, and shipping. Russia denies involvement as NATO weighs a response.",
       "body_zh": "美情报称普京下令加大对北约欧洲的破坏行动。\n\n今年 8 月一架装有爆炸物的无人机袭击德国莱比锡机场一架乌克兰货机但未起爆，被指属于更广泛隐蔽行动的一部分。\n\n美方情报称，因乌克兰和谈停滞及基辅深远打击，普京直接下令显著加强对欧洲北约国家的破坏活动。莱比锡事件被指向经塞尔维亚运送爆炸物的俄军情报单位，目标涉及军援；克里姆林宫后据称通过后门警告德国还将有更多袭击。\n\n德国已将军事破坏威胁调至“显著”，并讨论若造成伤亡是否触及北约第五条。俄方否认，北约仍在评估应对。",
       "url": "https://x.com/i/trending/2112773061082767722",
       "category": "News",
       "topics": [
+        "News",
         "Politics"
       ],
-      "updated_at": "2026-10-21T12:07:41.000Z"
-    },
-    {
-      "id": "2112190707750306028",
-      "domain": "国际",
-      "title_en": "US Defense Secretary Hegseth Visits Israel Amid Iran Strike Talks",
-      "title_zh": "美国防部长赫格塞思突访以色列，谈及对伊打击议题",
-      "hook_en": "Pete Hegseth landed unannounced at a southern Israeli air base to huddle with Netanyahu, just as whispers of strikes on Iran grow louder before Israel's elections.",
-      "hook_zh": "皮特·赫格塞思未经事先声张降落以色列南部空军基地，与内塔尼亚胡会晤，恰逢以色列大选前对伊打击传闻升温。",
-      "summary_en": "The US Secretary of Defense met Prime Minister Benjamin Netanyahu on Monday to discuss regional threats and potential operations against Iran, eight days before Israel's October 27 parliamentary elections. Netanyahu reiterated his vow that Iran will not get nuclear weapons under his watch and told President Trump they would finish the job together, amid Israeli troops on high alert with leave canceled. While some question the timing ahead of Netanyahu's tough re-election fight, the visit underscores strong US-Israel coordination, though the White House plans no US strikes before American midterms.",
-      "summary_zh": "美国防部长周一与总理本雅明·内塔尼亚胡讨论地区威胁及可能的对伊行动，距离以色列 10 月 27 日议会选举仅八天。内塔尼亚胡重申任内不会允许伊朗获得核武器，并向特朗普总统表示将「一起把事情做完」；以军高度戒备并取消休假。外界质疑时机是否服务其艰难连任战，但此访凸显美以协调；白宫则表示美国中期选举前不计划美方打击。",
-      "body_en": "US Defense Secretary Hegseth Visits Israel Amid Iran Strike Talks.\n\nPete Hegseth landed unannounced at a southern Israeli air base to huddle with Netanyahu, just as whispers of strikes on Iran grow louder before Israel's elections.\n\nThe US Secretary of Defense met Prime Minister Benjamin Netanyahu on Monday to discuss regional threats and potential operations against Iran, eight days before Israel's October 27 parliamentary elections.\n\nNetanyahu reiterated his vow that Iran will not get nuclear weapons under his watch and told President Trump they would finish the job together, amid Israeli troops on high alert with leave canceled. While some question the timing ahead of Netanyahu's tough re-election fight, the visit underscores strong US-Israel coordination, though the White House plans no US strikes before American midterms.",
-      "body_zh": "美国防部长赫格塞思突访以色列，谈及对伊打击议题。\n\n皮特·赫格塞思未经事先声张降落以色列南部空军基地，与内塔尼亚胡会晤，恰逢以色列大选前对伊打击传闻升温。\n\n美国防部长周一与总理本雅明·内塔尼亚胡讨论地区威胁及可能的对伊行动，距离以色列 10 月 27 日议会选举仅八天。\n\n内塔尼亚胡重申任内不会允许伊朗获得核武器，并向特朗普总统表示将「一起把事情做完」；以军高度戒备并取消休假。外界质疑时机是否服务其艰难连任战，但此访凸显美以协调；白宫则表示美国中期选举前不计划美方打击。",
-      "url": "https://x.com/i/trending/2112190707750306028",
-      "category": "News",
-      "topics": [
-        "Politics"
-      ],
-      "updated_at": "2026-10-21T13:54:22.000Z"
+      "updated_at": "2026-10-21T14:41:42.000Z"
     },
     {
       "id": "2112533926879125584",
@@ -938,22 +867,97 @@
       "updated_at": "2026-10-20T21:20:55.000Z"
     },
     {
-      "id": "2112893265859031331",
+      "id": "2112462431087939712",
       "domain": "国际",
-      "title_en": "Polls Show Doubts on Trump Accepting Midterm Election Losses",
-      "title_zh": "民调：多数人担心特朗普不愿接受中期选举失利",
-      "hook_en": "With midterms just weeks away, a new poll reveals most Americans trust the voting process but worry President Trump might not accept a Republican defeat.",
-      "hook_zh": "距中期选举仅数周，新民调显示多数美国人信任投票过程，但担心若共和党落败，特朗普总统可能不接受结果。",
-      "summary_en": "A Washington Post, ABC News and Ipsos survey of over 2,500 registered voters from October 9-13 found 7 in 10 lack confidence that Trump would accept results if Republicans lose, with doubts spanning parties: 36% of Republicans, 77% of independents, and 94% of Democrats. A Public Religion Research Institute poll showed 58% viewing Trump as a dangerous dictator whose power needs limiting, up from 52% earlier. These findings highlight partisan divides on election issues and come as Democrats lead generic House ballot polls amid Trump's low approval ratings, with Election Day on November 3.",
-      "summary_zh": "《华盛顿邮报》、ABC 新闻与 Ipsos 于 10 月 9–13 日调查逾 2500 名登记选民：约七成对特朗普在共和党落败时会接受结果缺乏信心，跨党派均有疑虑——共和党人 36%、独立选民 77%、民主党人 94%。公共宗教研究所民调显示 58% 视特朗普为危险的独裁者、需限制其权力，高于早前的 52%。这些结果凸显选举议题上的党派裂痕；与此同时民主党在众议院泛选民调领先，特朗普支持率偏低，选举日为 11 月 3 日。",
-      "body_en": "Polls Show Doubts on Trump Accepting Midterm Election Losses.\n\nWith midterms just weeks away, a new poll reveals most Americans trust the voting process but worry President Trump might not accept a Republican defeat.\n\nA Washington Post, ABC News and Ipsos survey of over 2,500 registered voters from October 9-13 found 7 in 10 lack confidence that Trump would accept results if Republicans lose, with doubts spanning parties: 36% of Republicans, 77% of independents, and 94% of Democrats.\n\nA Public Religion Research Institute poll showed 58% viewing Trump as a dangerous dictator whose power needs limiting, up from 52% earlier. These findings highlight partisan divides on election issues and come as Democrats lead generic House ballot polls amid Trump's low approval ratings, with Election Day on November 3.",
-      "body_zh": "民调：多数人担心特朗普不愿接受中期选举失利。\n\n距中期选举仅数周，新民调显示多数美国人信任投票过程，但担心若共和党落败，特朗普总统可能不接受结果。\n\n《华盛顿邮报》、ABC 新闻与 Ipsos 于 10 月 9–13 日调查逾 2500 名登记选民：约七成对特朗普在共和党落败时会接受结果缺乏信心，跨党派均有疑虑——共和党人 36%、独立选民 77%、民主党人 94%。\n\n公共宗教研究所民调显示 58% 视特朗普为危险的独裁者、需限制其权力，高于早前的 52%。这些结果凸显选举议题上的党派裂痕；与此同时民主党在众议院泛选民调领先，特朗普支持率偏低，选举日为 11 月 3 日。",
-      "url": "https://x.com/i/trending/2112893265859031331",
+      "title_en": "South Korea Withdraws Embassy Staff from Ukraine Over North Korean POW Dispute",
+      "title_zh": "韩因朝战俘纠纷撤回驻乌使馆约半数人员",
+      "hook_en": "Two North Korean soldiers captured in Ukraine's brutal fighting now sit at the heart of a deepening rift between Seoul and Kyiv, prompting a partial pullback of embassy staff.",
+      "hook_zh": "两名在乌克兰战场被俘的朝鲜士兵，成为首尔与基辅关系裂痕的核心，促使韩方部分撤回使馆人员。",
+      "summary_en": "South Korea's Foreign Ministry announced it will withdraw about half its diplomatic personnel from Ukraine due to Kyiv's failure to resolve a dispute over two captured North Korean soldiers transferred to Seoul last month. The tensions erupted after President Zelenskyy publicly disclosed the transfer at the UN, which Seoul says breached a confidentiality agreement meant to protect the soldiers and their families. While consular services continue and channels for citizen evacuations remain open, the move underscores Seoul's frustration amid ongoing Russian airstrikes. Ukraine denies any secrecy pact and insists the issue is settled, keeping doors open for talks.",
+      "summary_zh": "韩国外交部宣布，因基辅未能解决上月移交首尔的两名被俘朝鲜士兵相关争议，将撤回驻乌约半数外交人员。紧张在泽连斯基总统于联合国公开披露移交后升温，首尔称此举违反旨在保护士兵及其家属的保密约定。领事服务仍继续，公民撤离渠道保持畅通，此举凸显首尔在俄军持续空袭背景下的不满。乌方否认存在保密协议并坚称问题已解决，同时表示对话大门仍开。",
+      "body_en": "South Korea Withdraws Embassy Staff from Ukraine Over North Korean POW Dispute.\n\nTwo North Korean soldiers captured in Ukraine's brutal fighting now sit at the heart of a deepening rift between Seoul and Kyiv, prompting a partial pullback of embassy staff.\n\nSouth Korea's Foreign Ministry announced it will withdraw about half its diplomatic personnel from Ukraine due to Kyiv's failure to resolve a dispute over two captured North Korean soldiers transferred to Seoul last month. The tensions erupted after President Zelenskyy publicly disclosed the transfer at the UN, which Seoul says breached a confidentiality agreement meant to protect the soldiers and their families.\n\nWhile consular services continue and channels for citizen evacuations remain open, the move underscores Seoul's frustration amid ongoing Russian airstrikes. Ukraine denies any secrecy pact and insists the issue is settled, keeping doors open for talks.",
+      "body_zh": "韩因朝战俘纠纷撤回驻乌使馆约半数人员。\n\n两名在乌克兰战场被俘的朝鲜士兵，成为首尔与基辅关系裂痕的核心，促使韩方部分撤回使馆人员。\n\n韩国外交部宣布，因基辅未能解决上月移交首尔的两名被俘朝鲜士兵相关争议，将撤回驻乌约半数外交人员。紧张在泽连斯基总统于联合国公开披露移交后升温，首尔称此举违反旨在保护士兵及其家属的保密约定。\n\n领事服务仍继续，公民撤离渠道保持畅通，此举凸显首尔在俄军持续空袭背景下的不满。乌方否认存在保密协议并坚称问题已解决，同时表示对话大门仍开。",
+      "url": "https://x.com/i/trending/2112462431087939712",
       "category": "News",
       "topics": [
-        "Elections"
+        "News",
+        "Politics"
       ],
-      "updated_at": "2026-10-21T13:13:03.000Z"
+      "updated_at": "2026-10-20T13:25:27.000Z"
+    },
+    {
+      "id": "2112913095827861592",
+      "domain": "国际",
+      "title_en": "Poll Shows 58% of Americans View Trump as Dangerous Dictator",
+      "title_zh": "民调：58% 美国人视特朗普为危险的独裁者",
+      "hook_en": "A fresh poll reveals nearly six in ten Americans worry former President Trump could threaten democracy if his power isn't checked. The finding, from a nonpartisan survey, highlights sharp divides ahead of midterms.",
+      "hook_zh": "最新非党派民调显示，近六成美国人担心若权力不受约束，前总统特朗普可能威胁民主；中期选举前分歧尖锐。",
+      "summary_en": "The Public Religion Research Institute’s American Values Survey, released October 20, 2026, found 58% of Americans agree Trump is a potentially dangerous dictator—up from 52% in March 2025—with two-thirds of independents and Hispanic Americans sharing this view. Only 37% see him as a strong leader who should get more power to restore the country. Partisan gaps are wide: Democrats back the dictator framing, Republicans the strong leader one, amid low approval on economy and foreign policy, while a separate AP-NORC poll shows Democrats' election trust dropping to 55%. These results underscore deepening polarization on leadership and voting as midterms approach.",
+      "summary_zh": "公共宗教研究所 2026 年 10 月 20 日发布的《美国价值观调查》显示，58% 美国人认同特朗普是潜在危险的独裁者——高于 2025 年 3 月的 52%；约三分之二的独立选民与西裔美国人持此看法。仅 37% 视其为应获更多权力以「重建国家」的强势领袖。党派分野明显：民主党人倾向「独裁者」表述，共和党人倾向「强势领袖」；经济与外交支持率偏低。另有 AP-NORC 民调显示民主党人对选举的信任降至 55%。结果凸显中期选举临近时，领导力与投票议题上的极化加深。",
+      "body_en": "Poll Shows 58% of Americans View Trump as Dangerous Dictator.\n\nA fresh poll reveals nearly six in ten Americans worry former President Trump could threaten democracy if his power isn't checked. The finding, from a nonpartisan survey, highlights sharp divides ahead of midterms.\n\nThe Public Religion Research Institute’s American Values Survey, released October 20, 2026, found 58% of Americans agree Trump is a potentially dangerous dictator—up from 52% in March 2025—with two-thirds of independents and Hispanic Americans sharing this view. Only 37% see him as a strong leader who should get more power to restore the country.\n\nPartisan gaps are wide: Democrats back the dictator framing, Republicans the strong leader one, amid low approval on economy and foreign policy, while a separate AP-NORC poll shows Democrats' election trust dropping to 55%. These results underscore deepening polarization on leadership and voting as midterms approach.",
+      "body_zh": "民调：58% 美国人视特朗普为危险的独裁者。\n\n最新非党派民调显示，近六成美国人担心若权力不受约束，前总统特朗普可能威胁民主；中期选举前分歧尖锐。\n\n公共宗教研究所 2026 年 10 月 20 日发布的《美国价值观调查》显示，58% 美国人认同特朗普是潜在危险的独裁者——高于 2025 年 3 月的 52%；约三分之二的独立选民与西裔美国人持此看法。仅 37% 视其为应获更多权力以「重建国家」的强势领袖。\n\n党派分野明显：民主党人倾向「独裁者」表述，共和党人倾向「强势领袖」；经济与外交支持率偏低。另有 AP-NORC 民调显示民主党人对选举的信任降至 55%。结果凸显中期选举临近时，领导力与投票议题上的极化加深。",
+      "url": "https://x.com/i/trending/2112913095827861592",
+      "category": "News",
+      "topics": [
+        "News",
+        "Politics"
+      ],
+      "updated_at": "2026-10-21T14:31:53.000Z"
+    },
+    {
+      "id": "2112592169139855608",
+      "domain": "国际",
+      "title_en": "Hungary Blocks Ukraine and Moldova EU Accession Steps",
+      "title_zh": "匈牙利阻拦乌克兰与摩尔多瓦入盟谈判下一步",
+      "hook_en": "Just days after Ukraine passed a law protecting its Hungarian-speaking minority, Hungary halted the next phase of EU talks for both Ukraine and Moldova, leaving diplomats puzzled by the silence.",
+      "hook_zh": "乌克兰刚通过保护匈牙利语少数群体的法律数日，匈牙利即叫停乌、摩两国欧盟谈判下一阶段，外交人士对其沉默感到困惑。",
+      "summary_en": "At a meeting of EU technical experts on October 20, Hungary objected to advancing the final two negotiating clusters on green agenda, sustainable connectivity, resources, agriculture, and cohesion, while the other 26 member states supported the move. This follows recent progress, including Ukraine's minority protections law on October 12 and a meeting between Prime Minister Péter Magyar and President Volodymyr Zelenskyy to reset ties, which allowed earlier clusters to open. The block revives questions about Hungary's stance on EU enlargement, as unanimity is required, and observers note frustration over the unexplained decision despite outreach efforts.",
+      "summary_zh": "在 10 月 20 日欧盟技术专家会议上，匈牙利反对推进绿色议程、可持续互联、资源、农业与凝聚等最后两组谈判集群，其余 26 国支持。此前乌克兰已于 10 月 12 日通过少数群体保护法，总理 Péter Magyar 与总统泽连斯基会晤以修复关系，并曾因此打开更早的谈判集群。因入盟需全体一致，此次阻拦再次引发对匈牙利扩大立场的质疑；观察人士指出，尽管已有沟通努力，这一未解释决定仍令人沮丧。",
+      "body_en": "Hungary Blocks Ukraine and Moldova EU Accession Steps.\n\nJust days after Ukraine passed a law protecting its Hungarian-speaking minority, Hungary halted the next phase of EU talks for both Ukraine and Moldova, leaving diplomats puzzled by the silence.\n\nAt a meeting of EU technical experts on October 20, Hungary objected to advancing the final two negotiating clusters on green agenda, sustainable connectivity, resources, agriculture, and cohesion, while the other 26 member states supported the move.\n\nThis follows recent progress, including Ukraine's minority protections law on October 12 and a meeting between Prime Minister Péter Magyar and President Volodymyr Zelenskyy to reset ties, which allowed earlier clusters to open. The block revives questions about Hungary's stance on EU enlargement, as unanimity is required, and observers note frustration over the unexplained decision despite outreach efforts.",
+      "body_zh": "匈牙利阻拦乌克兰与摩尔多瓦入盟谈判下一步。\n\n乌克兰刚通过保护匈牙利语少数群体的法律数日，匈牙利即叫停乌、摩两国欧盟谈判下一阶段，外交人士对其沉默感到困惑。\n\n在 10 月 20 日欧盟技术专家会议上，匈牙利反对推进绿色议程、可持续互联、资源、农业与凝聚等最后两组谈判集群，其余 26 国支持。\n\n此前乌克兰已于 10 月 12 日通过少数群体保护法，总理 Péter Magyar 与总统泽连斯基会晤以修复关系，并曾因此打开更早的谈判集群。因入盟需全体一致，此次阻拦再次引发对匈牙利扩大立场的质疑；观察人士指出，尽管已有沟通努力，这一未解释决定仍令人沮丧。",
+      "url": "https://x.com/i/trending/2112592169139855608",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-20T17:18:54.000Z"
+    },
+    {
+      "id": "2112713662490194099",
+      "domain": "国际",
+      "title_en": "Debate Erupts Over Ukraine's History and US Role in Conflict",
+      "title_zh": "乌克兰历史归属与美国角色再引激烈争论",
+      "hook_en": "A bold claim that Ukraine is historically Russian land and should be returned to end US involvement hit a nerve, drawing sharp replies rooted in Kyiv's ancient legacy.",
+      "hook_zh": "有人断言乌克兰历史上属俄罗斯土地、应「归还」以结束美方卷入，立刻引来以基辅古代遗产为依据的尖锐反驳。",
+      "summary_en": "User @provemewrong411 argued handing Ukraine back to Russia would let America focus on domestic issues instead of foreign aid. Critics countered by noting Kyivan Rus originated in modern Ukraine's territory as the first East Slavic state, shared by Ukraine, Russia, and Belarus, with its capital in Kyiv during its 11th-century peak. Others referenced the 1994 Budapest Memorandum, where Ukraine gave up its nuclear arsenal for sovereignty pledges from the US, UK, and Russia—pledges Russia later violated. The exchange highlights clashing historical views fueling debates on US policy, alliances, and priorities amid reduced aid post-administration change.",
+      "summary_zh": "用户 @provemewrong411 主张把乌克兰交还俄罗斯，好让美国专注国内而非对外援助。批评者指出，基辅罗斯发源于今乌克兰领土，是最早的东斯拉夫国家，由乌、俄、白共享，其 11 世纪鼎盛期首都在基辅。另有人援引 1994 年《布达佩斯备忘录》：乌克兰放弃核武库，换取美、英、俄对主权的保证——而俄方后来违反了承诺。争论凸显历史叙事冲突，并牵动对美政策、同盟与优先事项的讨论，尤其在政府更迭后援助缩减的背景下。",
+      "body_en": "Debate Erupts Over Ukraine's History and US Role in Conflict.\n\nA bold claim that Ukraine is historically Russian land and should be returned to end US involvement hit a nerve, drawing sharp replies rooted in Kyiv's ancient legacy.\n\nUser @provemewrong411 argued handing Ukraine back to Russia would let America focus on domestic issues instead of foreign aid. Critics countered by noting Kyivan Rus originated in modern Ukraine's territory as the first East Slavic state, shared by Ukraine, Russia, and Belarus, with its capital in Kyiv during its 11th-century peak.\n\nOthers referenced the 1994 Budapest Memorandum, where Ukraine gave up its nuclear arsenal for sovereignty pledges from the US, UK, and Russia—pledges Russia later violated. The exchange highlights clashing historical views fueling debates on US policy, alliances, and priorities amid reduced aid post-administration change.",
+      "body_zh": "乌克兰历史归属与美国角色再引激烈争论。\n\n有人断言乌克兰历史上属俄罗斯土地、应「归还」以结束美方卷入，立刻引来以基辅古代遗产为依据的尖锐反驳。\n\n用户 @provemewrong411 主张把乌克兰交还俄罗斯，好让美国专注国内而非对外援助。批评者指出，基辅罗斯发源于今乌克兰领土，是最早的东斯拉夫国家，由乌、俄、白共享，其 11 世纪鼎盛期首都在基辅。\n\n另有人援引 1994 年《布达佩斯备忘录》：乌克兰放弃核武库，换取美、英、俄对主权的保证——而俄方后来违反了承诺。争论凸显历史叙事冲突，并牵动对美政策、同盟与优先事项的讨论，尤其在政府更迭后援助缩减的背景下。",
+      "url": "https://x.com/i/trending/2112713662490194099",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-21T01:18:02.000Z"
+    },
+    {
+      "id": "2112663042865639469",
+      "domain": "国际",
+      "title_en": "Türkiye, Qatar, Pakistan and Indonesia Sign Badr Defense Pact in Doha",
+      "title_zh": "土耳其、卡塔尔、巴基斯坦与印尼在多哈签署「巴德尔」防务谅解备忘录",
+      "hook_en": "In a formal hall in Doha, defense ministers from four nations gathered around a long wooden table, signing a pact to unite their strengths in weapons production and training.",
+      "hook_zh": "四国国防部长在多哈正式厅堂围坐长桌，签署旨在联合武器生产与训练的协议。",
+      "summary_en": "Türkiye, Qatar, Pakistan, and Indonesia formalized the Badr Memorandum of Understanding on Wednesday, shifting bilateral defense projects into a shared framework for joint manufacturing, research, technology transfers, and military training. The agreement builds on existing ties, like Turkey's Bayraktar drones to Qatar and co-built corvettes with Pakistan, aiming to reduce reliance on external suppliers and boost economic opportunities through new production lines. Officials emphasized combining each country's capabilities, with further project details expected soon; it's focused on industry, separate from any mutual-defense commitments.",
+      "summary_zh": "土耳其、卡塔尔、巴基斯坦与印尼于周三正式签署「巴德尔」谅解备忘录，将双边防务项目纳入联合制造、研发、技术转让与军事训练的共享框架。协议建立在既有合作之上，如土耳其向卡塔尔出口 Bayraktar 无人机、与巴基斯坦合建轻型护卫舰等，目标是减少对外部供应商依赖，并通过新产线创造经济机会。官员强调整合各国能力，更多项目细节将陆续公布；其重心在产业合作，并非互助防务承诺。",
+      "body_en": "Türkiye, Qatar, Pakistan and Indonesia Sign Badr Defense Pact in Doha.\n\nIn a formal hall in Doha, defense ministers from four nations gathered around a long wooden table, signing a pact to unite their strengths in weapons production and training.\n\nTürkiye, Qatar, Pakistan, and Indonesia formalized the Badr Memorandum of Understanding on Wednesday, shifting bilateral defense projects into a shared framework for joint manufacturing, research, technology transfers, and military training.\n\nThe agreement builds on existing ties, like Turkey's Bayraktar drones to Qatar and co-built corvettes with Pakistan, aiming to reduce reliance on external suppliers and boost economic opportunities through new production lines. Officials emphasized combining each country's capabilities, with further project details expected soon; it's focused on industry, separate from any mutual-defense commitments.",
+      "body_zh": "土耳其、卡塔尔、巴基斯坦与印尼在多哈签署「巴德尔」防务谅解备忘录。\n\n四国国防部长在多哈正式厅堂围坐长桌，签署旨在联合武器生产与训练的协议。\n\n土耳其、卡塔尔、巴基斯坦与印尼于周三正式签署「巴德尔」谅解备忘录，将双边防务项目纳入联合制造、研发、技术转让与军事训练的共享框架。\n\n协议建立在既有合作之上，如土耳其向卡塔尔出口 Bayraktar 无人机、与巴基斯坦合建轻型护卫舰等，目标是减少对外部供应商依赖，并通过新产线创造经济机会。官员强调整合各国能力，更多项目细节将陆续公布；其重心在产业合作，并非互助防务承诺。",
+      "url": "https://x.com/i/trending/2112663042865639469",
+      "category": "News",
+      "topics": [
+        "News",
+        "Politics"
+      ],
+      "updated_at": "2026-10-21T13:45:45.000Z"
     },
     {
       "id": "2112290595213554074",
@@ -990,6 +994,24 @@
         "Baseball"
       ],
       "updated_at": "2026-10-21T01:55:22.000Z"
+    },
+    {
+      "id": "2112389686094417978",
+      "domain": "体育",
+      "title_en": "Polymarket Removes Betting Market on Cornell Rape Charges After Backlash",
+      "title_zh": "Polymarket 在舆论反弹后下架康奈尔性侵指控投注盘",
+      "hook_en": "A prediction market letting people bet on felony charges for seven Cornell students accused of rape drew quick outrage and calls for sports leagues to cut ties.",
+      "hook_zh": "一个可对七名被控强奸的康奈尔学生是否面临重罪指控下注的预测市场，迅速引发愤怒，并有人呼吁体育联盟切断合作。",
+      "summary_en": "Polymarket's international site hosted a market with $451,633 in volume, where traders gave a 28% chance that at least one of the seven defendants would face felony sex crime charges by January 2027. The market stemmed from a September 2026 civil lawsuit alleging a female Cornell student was drugged and gang-raped at a fraternity house in October 2024, after a district attorney declined to prosecute. Critics called it dehumanizing and gamifying trauma, prompting the market's removal and scrutiny of endorsers like LeBron James and MLB's partnership.",
+      "summary_zh": "Polymarket 国际站曾开设成交额约 45.1633 万美元的市场，交易者给出到 2027 年 1 月至少一名被告面临性犯罪重罪指控的概率为 28%。该盘源自 2026 年 9 月民事诉讼：指控一名康奈尔女学生于 2024 年 10 月在兄弟会房屋遭下药并轮奸，地检此前拒绝起诉。批评者称其非人性化、把创伤游戏化，促使市场被下架，并牵连对代言人勒布朗·詹姆斯及美国职业棒球大联盟等相关合作的审视。",
+      "body_en": "Polymarket Removes Betting Market on Cornell Rape Charges After Backlash.\n\nA prediction market letting people bet on felony charges for seven Cornell students accused of rape drew quick outrage and calls for sports leagues to cut ties.\n\nPolymarket's international site hosted a market with $451,633 in volume, where traders gave a 28% chance that at least one of the seven defendants would face felony sex crime charges by January 2027.\n\nThe market stemmed from a September 2026 civil lawsuit alleging a female Cornell student was drugged and gang-raped at a fraternity house in October 2024, after a district attorney declined to prosecute. Critics called it dehumanizing and gamifying trauma, prompting the market's removal and scrutiny of endorsers like LeBron James and MLB's partnership.",
+      "body_zh": "Polymarket 在舆论反弹后下架康奈尔性侵指控投注盘。\n\n一个可对七名被控强奸的康奈尔学生是否面临重罪指控下注的预测市场，迅速引发愤怒，并有人呼吁体育联盟切断合作。\n\nPolymarket 国际站曾开设成交额约 45.1633 万美元的市场，交易者给出到 2027 年 1 月至少一名被告面临性犯罪重罪指控的概率为 28%。\n\n该盘源自 2026 年 9 月民事诉讼：指控一名康奈尔女学生于 2024 年 10 月在兄弟会房屋遭下药并轮奸，地检此前拒绝起诉。批评者称其非人性化、把创伤游戏化，促使市场被下架，并牵连对代言人勒布朗·詹姆斯及美国职业棒球大联盟等相关合作的审视。",
+      "url": "https://x.com/i/trending/2112389686094417978",
+      "category": "News",
+      "topics": [
+        "Crime"
+      ],
+      "updated_at": "2026-10-20T03:49:23.000Z"
     },
     {
       "id": "2112623559877042588",
@@ -1048,11 +1070,11 @@
     {
       "id": "2112363184577191956",
       "domain": "体育",
-      "title_en": "NFL Pushes Ahead with First France Game Amid Paris Unrest",
+      "title_en": "NFL Pushes Ahead with Paris Game Amid French Riots",
       "title_zh": "巴黎动荡中 NFL 仍推进法国首场常规赛",
-      "hook_en": "As riots rage in Paris over rising costs and public services, the NFL stands firm on its historic game at Stade de France. Steelers star T.J. Watt's wife posted a headline questioning the decision with 'Tell me how this one make sense???'.",
+      "hook_en": "As fires burn and clashes echo through Paris streets, the NFL insists its first regular-season game there will go on as planned this Sunday.",
       "hook_zh": "巴黎因生活成本与公共服务爆发骚乱，NFL 仍坚持法兰西体育场历史性比赛。钢人球星 T.J. 瓦特妻子发帖质问「这怎么说得通」。",
-      "summary_en": "The Pittsburgh Steelers and New Orleans Saints are set to play the NFL's first regular-season game in France on October 25 at Stade de France in Saint-Denis, despite violent protests that erupted October 17-18, leading to arrests, fires, and curfews. League officials, including Roger Goodell, call the unrest 'mostly peaceful' and have ramped up security with local police, national authorities, and the U.S. State Department, confirming no plans to postpone. The Saints have arrived, Steelers are en route, and executives like Peter O’Reilly stress safety as the top priority, even as some players' families voice concerns.",
+      "summary_en": "The Pittsburgh Steelers face the New Orleans Saints at Stade de France on October 25, despite weeks of student-led protests over living costs and school issues that turned into riots with fires, looting, and over 1,800 arrests. Commissioner Roger Goodell called the unrest 'mostly peaceful' with no plans to cancel, while the league boosts security in coordination with French authorities and the U.S. State Department. Steelers linebacker T.J. Watt's wife questioned the call online, and memes of riot-gear players have popped up, but both teams affirm they're set to play this international milestone.",
       "summary_zh": "匹兹堡钢人与新奥尔良圣徒定于 10 月 25 日在圣但尼法兰西体育场进行 NFL 法国首场常规赛，尽管 10 月 17–18 日暴力抗议导致逮捕、纵火与宵禁。包括罗杰·古德尔在内的联盟官员称动荡「大体和平」，并与地方警察、国家当局及美国国务院加强安保，暂无延期计划。圣徒已抵达、钢人在途，高管强调安全优先，部分球员家属仍表担忧。",
       "body_en": "NFL Pushes Ahead with First France Game Amid Paris Unrest.\n\nAs riots rage in Paris over rising costs and public services, the NFL stands firm on its historic game at Stade de France. Steelers star T.J. Watt's wife posted a headline questioning the decision with 'Tell me how this one make sense???'.\n\nThe Pittsburgh Steelers and New Orleans Saints are set to play the NFL's first regular-season game in France on October 25 at Stade de France in Saint-Denis, despite violent protests that erupted October 17-18, leading to arrests, fires, and curfews. League officials, including Roger Goodell, call the unrest 'mostly peaceful' and have ramped up security with local police, national authorities, and the U.S.\n\nState Department, confirming no plans to postpone. The Saints have arrived, Steelers are en route, and executives like Peter O’Reilly stress safety as the top priority, even as some players' families voice concerns.",
       "body_zh": "巴黎动荡中 NFL 仍推进法国首场常规赛。\n\n巴黎因生活成本与公共服务爆发骚乱，NFL 仍坚持法兰西体育场历史性比赛。钢人球星 T.J. 瓦特妻子发帖质问「这怎么说得通」。\n\n匹兹堡钢人与新奥尔良圣徒定于 10 月 25 日在圣但尼法兰西体育场进行 NFL 法国首场常规赛，尽管 10 月 17–18 日暴力抗议导致逮捕、纵火与宵禁。包括罗杰·古德尔在内的联盟官员称动荡「大体和平」，并与地方警察、国家当局及美国国务院加强安保，暂无延期计划。\n\n圣徒已抵达、钢人在途，高管强调安全优先，部分球员家属仍表担忧。",
@@ -1061,25 +1083,7 @@
       "topics": [
         "NFL"
       ],
-      "updated_at": "2026-10-21T05:34:34.000Z"
-    },
-    {
-      "id": "2112623569473597808",
-      "domain": "体育",
-      "title_en": "Liverpool Fans Debate Skipping Villarreal Game for PSG-Barcelona Clash",
-      "title_zh": "利物浦球迷纠结：要不要为巴黎-巴萨错过黄潜战",
-      "hook_en": "Picture this: Liverpool's Champions League night at Anfield collides head-on with PSG versus Barcelona's star power, leaving fans torn on where to point their screens.",
-      "hook_zh": "安菲尔德的欧冠之夜与巴黎圣日耳曼对巴塞罗那的巨星对决撞车，球迷为该看哪场争得不可开交。",
-      "summary_en": "On Tuesday, Liverpool host Villarreal at Anfield at 8pm BST, the exact same time PSG welcomes Barcelona in another Champions League league-phase match. Fans are debating fiercely online after one called out those tempted to watch the glamorous PSG-Barcelona tie instead, with most insisting loyalty means sticking with the Reds no matter what. Some admit the pull of players like Lamine Yamal and Ousmane Dembélé but plan to prioritize their team, while others suggest splitting screens or note the spat feels like an online-only thing. It highlights football's tug between club devotion and big European showdowns.",
-      "summary_zh": "周二英国夏令时晚 8 点，利物浦主场对阵比利亚雷亚尔，同一时刻巴黎主场迎战巴萨，同属欧冠联赛阶段。有人点名批评那些想看「更华丽」巴黎-巴萨的球迷后，网上争论升温，多数人坚持「忠诚就该死撑红军」。也有人承认亚马尔、登贝莱等球星吸引力，但仍计划优先自家球队，或建议分屏观看；有人觉得这纯属网上吵。现象折射俱乐部忠诚与欧洲大场面之间的拉扯。",
-      "body_en": "Liverpool Fans Debate Skipping Villarreal Game for PSG-Barcelona Clash.\n\nPicture this: Liverpool's Champions League night at Anfield collides head-on with PSG versus Barcelona's star power, leaving fans torn on where to point their screens.\n\nOn Tuesday, Liverpool host Villarreal at Anfield at 8pm BST, the exact same time PSG welcomes Barcelona in another Champions League league-phase match. Fans are debating fiercely online after one called out those tempted to watch the glamorous PSG-Barcelona tie instead, with most insisting loyalty means sticking with the Reds no matter what.\n\nSome admit the pull of players like Lamine Yamal and Ousmane Dembélé but plan to prioritize their team, while others suggest splitting screens or note the spat feels like an online-only thing. It highlights football's tug between club devotion and big European showdowns.",
-      "body_zh": "利物浦球迷纠结：要不要为巴黎-巴萨错过黄潜战。\n\n安菲尔德的欧冠之夜与巴黎圣日耳曼对巴塞罗那的巨星对决撞车，球迷为该看哪场争得不可开交。\n\n周二英国夏令时晚 8 点，利物浦主场对阵比利亚雷亚尔，同一时刻巴黎主场迎战巴萨，同属欧冠联赛阶段。有人点名批评那些想看「更华丽」巴黎-巴萨的球迷后，网上争论升温，多数人坚持「忠诚就该死撑红军」。\n\n也有人承认亚马尔、登贝莱等球星吸引力，但仍计划优先自家球队，或建议分屏观看；有人觉得这纯属网上吵。现象折射俱乐部忠诚与欧洲大场面之间的拉扯。",
-      "url": "https://x.com/i/trending/2112623569473597808",
-      "category": "Sports",
-      "topics": [
-        "UEFA Champions League"
-      ],
-      "updated_at": "2026-10-20T19:23:57.000Z"
+      "updated_at": "2026-10-21T14:15:21.000Z"
     },
     {
       "id": "2112527510105919970",
@@ -1132,24 +1136,6 @@
         "MLB"
       ],
       "updated_at": "2026-10-21T05:20:54.000Z"
-    },
-    {
-      "id": "2112780082767130940",
-      "domain": "体育",
-      "title_en": "Caminero's Homer and Trot Send Rays to First World Series",
-      "title_zh": "卡米内罗全垒打助光芒队史第三次进世界大赛",
-      "hook_en": "Junior Caminero crushed a two-run homer off the foul pole, then took a 38.66-second trot, beating his chest and pointing to ex-teammate Randy Arozarena amid 40,000 roaring fans.",
-      "hook_zh": "小将卡米内罗打出两分炮打中杆，再花约 38.66 秒绕垒庆祝，胸部击打并指向旧队友阿罗萨雷纳。",
-      "summary_en": "The 23-year-old Rays third baseman's seventh-inning blast off Guardians closer Cade Smith clinched a 7-3 win in ALCS Game 6, marking his first playoff homer and the franchise's third pennant. His drawn-out celebration drew mixed reactions—some called it classless, while others celebrated the joy for a young star and a hurricane-hit community still rebuilding after storms Helene and Milton tore the Tropicana Field roof. Now the low-payroll Rays face the Milwaukee Brewers in the World Series starting Friday, both chasing their first title through smart scouting and development.",
-      "summary_zh": "23 岁三垒手在美联冠军赛第六场七局从守护者终结者 Cade Smith 手上轰出季后赛首轰，光芒 7–3 取胜，拿下队史第三座联盟冠军。超长庆祝引来“缺乏风度”与“年轻人该尽兴”的两极评价；对饱受飓风损毁球场顶棚之苦的社区而言，晋级也被视为振奋。低薪光芒将对阵酿酒人，争夺双方首冠。",
-      "body_en": "Caminero's Homer and Trot Send Rays to First World Series.\n\nJunior Caminero crushed a two-run homer off the foul pole, then took a 38.66-second trot, beating his chest and pointing to ex-teammate Randy Arozarena amid 40,000 roaring fans.\n\nThe 23-year-old Rays third baseman's seventh-inning blast off Guardians closer Cade Smith clinched a 7-3 win in ALCS Game 6, marking his first playoff homer and the franchise's third pennant.\n\nHis drawn-out celebration drew mixed reactions—some called it classless, while others celebrated the joy for a young star and a hurricane-hit community still rebuilding after storms Helene and Milton tore the Tropicana Field roof. Now the low-payroll Rays face the Milwaukee Brewers in the World Series starting Friday, both chasing their first title through smart scouting and development.",
-      "body_zh": "卡米内罗全垒打助光芒队史第三次进世界大赛。\n\n小将卡米内罗打出两分炮打中杆，再花约 38.66 秒绕垒庆祝，胸部击打并指向旧队友阿罗萨雷纳。\n\n23 岁三垒手在美联冠军赛第六场七局从守护者终结者 Cade Smith 手上轰出季后赛首轰，光芒 7–3 取胜，拿下队史第三座联盟冠军。\n\n超长庆祝引来“缺乏风度”与“年轻人该尽兴”的两极评价；对饱受飓风损毁球场顶棚之苦的社区而言，晋级也被视为振奋。低薪光芒将对阵酿酒人，争夺双方首冠。",
-      "url": "https://x.com/i/trending/2112780082767130940",
-      "category": "Sports",
-      "topics": [
-        "MLB"
-      ],
-      "updated_at": "2026-10-21T13:12:22.000Z"
     },
     {
       "id": "2112804232634187907",
@@ -1206,23 +1192,58 @@
       "updated_at": "2026-10-21T01:36:46.000Z"
     },
     {
-      "id": "2112787028131914147",
-      "domain": "娱乐",
-      "title_en": "Zhao Lusi Stuns in Elie Saab Gown for Harper’s Bazaar Gala",
-      "title_zh": "赵露思身着 Elie Saab 高定亮相时尚芭莎盛典",
-      "hook_en": "Zhao Lusi reclined gracefully on a vivid red chaise lounge, her black Elie Saab gown blooming with red roses under dramatic lights.",
-      "hook_zh": "赵露思斜倚鲜红躺椅，黑色 Elie Saab 礼服在灯光下绽放红玫瑰刺绣。",
-      "summary_en": "At the Harper’s Bazaar “From China” 2026 Annual Gala on October 21, Chinese actress Zhao Lusi shone in an Elie Saab Fall/Winter 2026 Haute Couture gown from the “The Ball of Untamed Dreams” collection. The elaborate black design featured delicate lace, floral appliqués, a mermaid silhouette, and flowing train, paired with BVLGARI serpenti jewelry including necklaces, rings, and a watch. Fans loved the “Midnight Rose” and “Rosy Heritage Beauty” theme, sharing close-ups of her glowing presence and intimate portraits that highlighted the intricate details. Her standout look from the season’s most coveted pieces underscored her rising influence in entertainment and fashion.",
-      "summary_zh": "10 月 21 日时尚芭莎“From China”2026 年度盛典上，赵露思身着 Elie Saab 2026 秋冬高定“不羁梦之舞会”系列黑色礼服，蕾丝与花卉贴花、鱼尾剪裁与拖尾搭配宝格丽蛇形珠宝。粉丝称赞“午夜玫瑰”造型与细节特写。该造型也被视为她在娱乐与时尚影响力上升的又一注脚。",
-      "body_en": "Zhao Lusi Stuns in Elie Saab Gown for Harper’s Bazaar Gala.\n\nZhao Lusi reclined gracefully on a vivid red chaise lounge, her black Elie Saab gown blooming with red roses under dramatic lights.\n\nAt the Harper’s Bazaar “From China” 2026 Annual Gala on October 21, Chinese actress Zhao Lusi shone in an Elie Saab Fall/Winter 2026 Haute Couture gown from the “The Ball of Untamed Dreams” collection. The elaborate black design featured delicate lace, floral appliqués, a mermaid silhouette, and flowing train, paired with BVLGARI serpenti jewelry including necklaces, rings, and a watch.\n\nFans loved the “Midnight Rose” and “Rosy Heritage Beauty” theme, sharing close-ups of her glowing presence and intimate portraits that highlighted the intricate details. Her standout look from the season’s most coveted pieces underscored her rising influence in entertainment and fashion.",
-      "body_zh": "赵露思身着 Elie Saab 高定亮相时尚芭莎盛典。\n\n赵露思斜倚鲜红躺椅，黑色 Elie Saab 礼服在灯光下绽放红玫瑰刺绣。\n\n10 月 21 日时尚芭莎“From China”2026 年度盛典上，赵露思身着 Elie Saab 2026 秋冬高定“不羁梦之舞会”系列黑色礼服，蕾丝与花卉贴花、鱼尾剪裁与拖尾搭配宝格丽蛇形珠宝。\n\n粉丝称赞“午夜玫瑰”造型与细节特写。该造型也被视为她在娱乐与时尚影响力上升的又一注脚。",
-      "url": "https://x.com/i/trending/2112787028131914147",
-      "category": "Entertainment",
+      "id": "2112449095977582635",
+      "domain": "体育",
+      "title_en": "Australia and India Launch Umpire Exchange Program",
+      "title_zh": "澳印启动板球裁判交流项目",
+      "hook_en": "Ben Treloar steps onto Indian pitches for Ranji Trophy matches, while Parashar Joshi heads Down Under for Sheffield Shield games. It's a smart swap giving both umpires hands-on experience in new conditions.",
+      "hook_zh": "本·特雷洛尔将赴印度执法兰吉杯，帕拉沙尔·乔希则赴澳执法谢菲尔德盾——双方在新环境下积累实战经验。",
+      "summary_en": "Cricket Australia and the BCCI announced a reciprocal program where Australian umpire Ben Treloar will officiate two Ranji Trophy matches in India, including Delhi vs. Gujarat from October 18-21 and Mumbai vs. Haryana from October 26-29. In return, Indian umpire Parashar Joshi will handle two Sheffield Shield games and one One-Day Cup match in Australia, starting with Queensland vs. Tasmania at the Gabba on November 11-14. Both bring solid credentials—Treloar with 30 first-class matches and Big Bash experience, Joshi with IPL and domestic stints—and the exchange aims to build ties and sharpen skills through international exposure.",
+      "summary_zh": "澳大利亚板球协会与印度板球控制委员会宣布对等交流：澳籍裁判本·特雷洛尔将在印度执法两场兰吉杯，包括 10 月 18–21 日德里对古吉拉特，以及 10 月 26–29 日孟买对哈里亚纳。印籍裁判帕拉沙尔·乔希则赴澳执法两场谢菲尔德盾及一场一日杯，首场为 11 月 11–14 日加巴球场昆士兰对塔斯马尼亚。特雷洛尔有约 30 场一线比赛与大联盟经验，乔希有印超与国内赛事经历；交流意在加深联系，并通过国际曝光提升执法水平。",
+      "body_en": "Australia and India Launch Umpire Exchange Program.\n\nBen Treloar steps onto Indian pitches for Ranji Trophy matches, while Parashar Joshi heads Down Under for Sheffield Shield games. It's a smart swap giving both umpires hands-on experience in new conditions.\n\nCricket Australia and the BCCI announced a reciprocal program where Australian umpire Ben Treloar will officiate two Ranji Trophy matches in India, including Delhi vs. Gujarat from October 18-21 and Mumbai vs. Haryana from October 26-29.\n\nIn return, Indian umpire Parashar Joshi will handle two Sheffield Shield games and one One-Day Cup match in Australia, starting with Queensland vs. Tasmania at the Gabba on November 11-14. Both bring solid credentials—Treloar with 30 first-class matches and Big Bash experience, Joshi with IPL and domestic stints—and the exchange aims to build ties and sharpen skills through international exposure.",
+      "body_zh": "澳印启动板球裁判交流项目。\n\n本·特雷洛尔将赴印度执法兰吉杯，帕拉沙尔·乔希则赴澳执法谢菲尔德盾——双方在新环境下积累实战经验。\n\n澳大利亚板球协会与印度板球控制委员会宣布对等交流：澳籍裁判本·特雷洛尔将在印度执法两场兰吉杯，包括 10 月 18–21 日德里对古吉拉特，以及 10 月 26–29 日孟买对哈里亚纳。\n\n印籍裁判帕拉沙尔·乔希则赴澳执法两场谢菲尔德盾及一场一日杯，首场为 11 月 11–14 日加巴球场昆士兰对塔斯马尼亚。特雷洛尔有约 30 场一线比赛与大联盟经验，乔希有印超与国内赛事经历；交流意在加深联系，并通过国际曝光提升执法水平。",
+      "url": "https://x.com/i/trending/2112449095977582635",
+      "category": "Sports",
       "topics": [
-        "Celebrity",
-        "Fashion"
+        "Cricket"
       ],
-      "updated_at": "2026-10-21T13:04:04.000Z"
+      "updated_at": "2026-10-20T07:45:38.000Z"
+    },
+    {
+      "id": "2112826877455053262",
+      "domain": "娱乐",
+      "title_en": "India Adds Three Sites to UNESCO World Heritage Tentative List",
+      "title_zh": "印度新增三处遗址进入联合国教科文组织世界遗产预备名单",
+      "hook_en": "From bubbling mud volcanoes in the Andamans to ancient temples along the Mahanadi River, three Indian treasures now stand closer to global recognition.",
+      "hook_zh": "从安达曼冒泡的泥火山，到马哈纳迪河沿岸古寺，三处印度遗产向全球认可又近一步。",
+      "summary_en": "India's Permanent Delegation to UNESCO announced on October 20, 2026, the addition of the Karst-mud-volcano Complex of Baratang and Andaman Subduction Volcanoes in the Andaman and Nicobar Islands, plus the Sirpur Cultural and Archaeological Landscape in Chhattisgarh. These sites highlight unique geology like active volcanoes and limestone caves, alongside historic temples reflecting Hindu, Buddhist, and Jain heritage with evidence of multi-faith harmony. Union Minister Gajendra Singh Shekhawat praised Sirpur for its traditions in art, architecture, spirituality, and learning, as India builds on its 45 inscribed World Heritage Sites.",
+      "summary_zh": "印度常驻联合国教科文组织代表团于 2026 年 10 月 20 日宣布，将安达曼-尼科巴群岛的巴拉唐岩溶泥火山综合体与安达曼俯冲火山，以及恰蒂斯加尔邦的希尔普尔文化考古景观列入预备名单。这些地点既有活火山、石灰岩洞穴等独特地质，也有体现印度教、佛教与耆那教遗产及多信仰共处的历史寺庙。联邦部长 Gajendra Singh Shekhawat 称赞希尔普尔在艺术、建筑、灵性与学问上的传统；印度目前已有 45 处列入世界遗产名录。",
+      "body_en": "India Adds Three Sites to UNESCO World Heritage Tentative List.\n\nFrom bubbling mud volcanoes in the Andamans to ancient temples along the Mahanadi River, three Indian treasures now stand closer to global recognition.\n\nIndia's Permanent Delegation to UNESCO announced on October 20, 2026, the addition of the Karst-mud-volcano Complex of Baratang and Andaman Subduction Volcanoes in the Andaman and Nicobar Islands, plus the Sirpur Cultural and Archaeological Landscape in Chhattisgarh.\n\nThese sites highlight unique geology like active volcanoes and limestone caves, alongside historic temples reflecting Hindu, Buddhist, and Jain heritage with evidence of multi-faith harmony. Union Minister Gajendra Singh Shekhawat praised Sirpur for its traditions in art, architecture, spirituality, and learning, as India builds on its 45 inscribed World Heritage Sites.",
+      "body_zh": "印度新增三处遗址进入联合国教科文组织世界遗产预备名单。\n\n从安达曼冒泡的泥火山，到马哈纳迪河沿岸古寺，三处印度遗产向全球认可又近一步。\n\n印度常驻联合国教科文组织代表团于 2026 年 10 月 20 日宣布，将安达曼-尼科巴群岛的巴拉唐岩溶泥火山综合体与安达曼俯冲火山，以及恰蒂斯加尔邦的希尔普尔文化考古景观列入预备名单。\n\n这些地点既有活火山、石灰岩洞穴等独特地质，也有体现印度教、佛教与耆那教遗产及多信仰共处的历史寺庙。联邦部长 Gajendra Singh Shekhawat 称赞希尔普尔在艺术、建筑、灵性与学问上的传统；印度目前已有 45 处列入世界遗产名录。",
+      "url": "https://x.com/i/trending/2112826877455053262",
+      "category": "News",
+      "topics": [
+        "Travel"
+      ],
+      "updated_at": "2026-10-21T11:43:52.000Z"
+    },
+    {
+      "id": "2112566578415849780",
+      "domain": "娱乐",
+      "title_en": "Copper Supply Shortfall Looms from 2028 Amid Surging Demand",
+      "title_zh": "铜需求猛增，报告预警 2028 年起或现供应缺口",
+      "hook_en": "Copper powers electric vehicles, grids, and AI data centers, but a new report warns of massive shortages starting in 2028 as supply struggles to keep up.",
+      "hook_zh": "铜支撑电动车、电网与 AI 数据中心，新报告警告自 2028 年起可能出现严重短缺，供应难以跟上。",
+      "summary_en": "BloombergNEF projects copper demand jumping 61% to 46 million tonnes by 2050, driven by electric transport needing 11.4 million tonnes, while supply deficits could hit 20 million tonnes without new investments. Chile, the top producer with 180 million tonnes in reserves, faces slumping output from aging mines, low ore grades, weather, and accidents—potentially dropping to 5 million tonnes by 2026, the lowest in over 20 years. Prices have surged to $14,500 per tonne, with banks forecasting further rises, though closing the gap requires $332 billion and 17 years per new mine.",
+      "summary_zh": "彭博新能源财经预计到 2050 年铜需求将升 61% 至 4600 万吨，其中电动交通约需 1140 万吨；若无新增投资，供应缺口或达 2000 万吨。头号产国智利储量约 1.8 亿吨，但因矿龄老化、品位下降、天气与事故，产量或在 2026 年降至约 500 万吨，为二十多年来最低。价格已升至约每吨 14500 美元，银行预期还将上行；填补缺口据估需约 3320 亿美元，且新矿从投建到投产平均约 17 年。",
+      "body_en": "Copper Supply Shortfall Looms from 2028 Amid Surging Demand.\n\nCopper powers electric vehicles, grids, and AI data centers, but a new report warns of massive shortages starting in 2028 as supply struggles to keep up.\n\nBloombergNEF projects copper demand jumping 61% to 46 million tonnes by 2050, driven by electric transport needing 11.4 million tonnes, while supply deficits could hit 20 million tonnes without new investments.\n\nChile, the top producer with 180 million tonnes in reserves, faces slumping output from aging mines, low ore grades, weather, and accidents—potentially dropping to 5 million tonnes by 2026, the lowest in over 20 years. Prices have surged to $14,500 per tonne, with banks forecasting further rises, though closing the gap requires $332 billion and 17 years per new mine.",
+      "body_zh": "铜需求猛增，报告预警 2028 年起或现供应缺口。\n\n铜支撑电动车、电网与 AI 数据中心，新报告警告自 2028 年起可能出现严重短缺，供应难以跟上。\n\n彭博新能源财经预计到 2050 年铜需求将升 61% 至 4600 万吨，其中电动交通约需 1140 万吨；若无新增投资，供应缺口或达 2000 万吨。\n\n头号产国智利储量约 1.8 亿吨，但因矿龄老化、品位下降、天气与事故，产量或在 2026 年降至约 500 万吨，为二十多年来最低。价格已升至约每吨 14500 美元，银行预期还将上行；填补缺口据估需约 3320 亿美元，且新矿从投建到投产平均约 17 年。",
+      "url": "https://x.com/i/trending/2112566578415849780",
+      "category": "News",
+      "topics": [
+        "Business & Finance"
+      ],
+      "updated_at": "2026-10-20T15:35:06.000Z"
     },
     {
       "id": "2112244938171924792",
@@ -1262,61 +1283,6 @@
       "updated_at": "2026-10-21T14:03:21.000Z"
     },
     {
-      "id": "2112446063462297885",
-      "domain": "娱乐",
-      "title_en": "ElevenLabs Launches Chroma Awards Season 2 with $1M Trials and $450K Prizes",
-      "title_zh": "ElevenLabs 启动第二季 Chroma 大奖：百万试用与逾 45 万美元奖池",
-      "hook_en": "Creators lit up with excitement as ElevenLabs dropped Season 2 of the Chroma Awards, offering $1 million in free trials and over $450,000 in cash plus travel perks.",
-      "hook_zh": "ElevenLabs 公布第二季 Chroma Awards，提供约 100 万美元免费试用与逾 45 万美元现金及差旅奖励，创作者热情高涨。",
-      "summary_en": "Submissions are now open for the expanded competition, featuring new divisions for advertising, games, film and TV, music videos, behind-the-scenes content, sponsor awards, and student entries. AI community members shared plans like swapping temp tracks for original scores, building real games instead of trailers, and teaming up with family for voice work and level design. One team sees the prizes as their first chance to meet in person, while others are forming crews after years solo or finishing long-stalled projects. The early January deadline gives time to polish original AI-assisted work amid a wave of collaborations.",
-      "summary_zh": "扩大后的赛事现已开放投稿，分设广告、游戏、影视、音乐视频、幕后、赞助商奖与学生组别等。AI 社区分享用原声替换临时音轨、打磨短片等参赛计划。主办方希望以奖金与算力试用推动语音与多媒体创作；截稿与评审时间表以官方页面为准。",
-      "body_en": "ElevenLabs Launches Chroma Awards Season 2 with $1M Trials and $450K Prizes.\n\nCreators lit up with excitement as ElevenLabs dropped Season 2 of the Chroma Awards, offering $1 million in free trials and over $450,000 in cash plus travel perks.\n\nSubmissions are now open for the expanded competition, featuring new divisions for advertising, games, film and TV, music videos, behind-the-scenes content, sponsor awards, and student entries. AI community members shared plans like swapping temp tracks for original scores, building real games instead of trailers, and teaming up with family for voice work and level design.\n\nOne team sees the prizes as their first chance to meet in person, while others are forming crews after years solo or finishing long-stalled projects. The early January deadline gives time to polish original AI-assisted work amid a wave of collaborations.",
-      "body_zh": "ElevenLabs 启动第二季 Chroma 大奖：百万试用与逾 45 万美元奖池。\n\nElevenLabs 公布第二季 Chroma Awards，提供约 100 万美元免费试用与逾 45 万美元现金及差旅奖励，创作者热情高涨。\n\n扩大后的赛事现已开放投稿，分设广告、游戏、影视、音乐视频、幕后、赞助商奖与学生组别等。\n\nAI 社区分享用原声替换临时音轨、打磨短片等参赛计划。主办方希望以奖金与算力试用推动语音与多媒体创作；截稿与评审时间表以官方页面为准。",
-      "url": "https://x.com/i/trending/2112446063462297885",
-      "category": "Entertainment",
-      "topics": [
-        "Technology",
-        "AI"
-      ],
-      "updated_at": "2026-10-20T12:40:13.000Z"
-    },
-    {
-      "id": "2112878220479775067",
-      "domain": "娱乐",
-      "title_en": "Disney+ and Hulu Order Glee Reboot More Than a Decade Later",
-      "title_zh": "Disney+ 与 Hulu 订购《欢乐合唱团》重启版，距完结已逾十年",
-      "hook_en": "The official Glee account captured the thrill perfectly: 'Currently gleeking out!' Fans are buzzing over the return of the show choir drama that launched stars and hit songs.",
-      "hook_zh": "《Glee》官方账号写道「Currently gleeking out！」粉丝为这部曾捧红明星、打造热歌的校园合唱剧回归而沸腾。",
-      "summary_en": "Disney+ and Hulu have given a full series order to a Glee reboot from 20th Television, with co-creator Ryan Murphy finishing a script alongside original collaborators Brad Falchuk and Ian Brennan. Murphy reached out to about 10 cast members from the 2009-2015 Fox run, who responded enthusiastically despite questions about how it will connect to the original. While no casting is confirmed yet, the revival taps into the show's enduring popularity from its stories of high school life, identity, and pop covers, even as some fans express caution over recapturing the magic without late stars like Cory Monteith and Naya Rivera.",
-      "summary_zh": "Disney+ 与 Hulu 向 20th Television 发出《Glee》重启剧集全季订单，联合创作者瑞恩·墨菲正与原班合作者布拉德·法尔查克、伊恩·布伦南完成剧本。墨菲已联系约 10 位 2009–2015 年福克斯原班演员，反响积极，但如何衔接原作仍待明确。目前尚无正式定角；重启借力该剧关于高中生活、身份认同与流行翻唱的持久人气，也有粉丝担心在科里·蒙特斯、娜雅·里维拉等已故主演缺席下难再现当年魔力。",
-      "body_en": "Disney+ and Hulu Order Glee Reboot More Than a Decade Later.\n\nThe official Glee account captured the thrill perfectly: 'Currently gleeking out!' Fans are buzzing over the return of the show choir drama that launched stars and hit songs.\n\nDisney+ and Hulu have given a full series order to a Glee reboot from 20th Television, with co-creator Ryan Murphy finishing a script alongside original collaborators Brad Falchuk and Ian Brennan.\n\nMurphy reached out to about 10 cast members from the 2009-2015 Fox run, who responded enthusiastically despite questions about how it will connect to the original. While no casting is confirmed yet, the revival taps into the show's enduring popularity from its stories of high school life, identity, and pop covers, even as some fans express caution over recapturing the magic without late stars like Cory Monteith and Naya Rivera.",
-      "body_zh": "Disney+ 与 Hulu 订购《欢乐合唱团》重启版，距完结已逾十年。\n\n《Glee》官方账号写道「Currently gleeking out！」粉丝为这部曾捧红明星、打造热歌的校园合唱剧回归而沸腾。\n\nDisney+ 与 Hulu 向 20th Television 发出《Glee》重启剧集全季订单，联合创作者瑞恩·墨菲正与原班合作者布拉德·法尔查克、伊恩·布伦南完成剧本。\n\n墨菲已联系约 10 位 2009–2015 年福克斯原班演员，反响积极，但如何衔接原作仍待明确。目前尚无正式定角；重启借力该剧关于高中生活、身份认同与流行翻唱的持久人气，也有粉丝担心在科里·蒙特斯、娜雅·里维拉等已故主演缺席下难再现当年魔力。",
-      "url": "https://x.com/i/trending/2112878220479775067",
-      "category": "Entertainment",
-      "topics": [
-        "Movies & TV"
-      ],
-      "updated_at": "2026-10-21T12:11:50.000Z"
-    },
-    {
-      "id": "2112807301782638724",
-      "domain": "娱乐",
-      "title_en": "Kim Hyeyoon Named Taiwan Tourism Ambassador for 2026-2027",
-      "title_zh": "金惠允出任台湾观光大使（2026–2027）",
-      "hook_en": "Kim Hyeyoon stepped out in a crisp white pantsuit, flashing smiles and holding her official certificate as fans snapped photos at the Seoul launch.",
-      "hook_zh": "金惠允身着利落白西装亮相首尔发布会，手持证书微笑，粉丝围拍留念。",
-      "summary_en": "South Korean actress Kim Hyeyoon was appointed promotional ambassador for Taiwan Tourism at a Seoul press conference, where new campaign videos debuted under the slogan 'Everyone, Anytime, Taiwan Delights.' The clips show her enjoying Tainan food streets with her brother, Sun Moon Lake with family, solo time in Kaohsiung, and beach fun with friends, highlighting Taiwan's charms for any traveler or season. Organizers picked her for her bright image and wide appeal, boosted by her popularity from *Lovely Runner* and a 2024 Taiwan fan meeting. She hopes the videos inspire people to plan trips that fit their style.",
-      "summary_zh": "韩国演员金惠允在首尔记者会上获聘台湾观光推广大使，同步亮相「Everyone, Anytime, Taiwan Delights」新宣传片。片段呈现她与兄长逛台南小吃、与家人游日月潭、在高雄独处，以及与友人海边玩乐，强调台湾适合各类旅人与季节。主办方看中其明朗形象与《Lovely Runner》等作品带来的人气，以及 2024 年台湾粉丝见面会的号召力。她希望影片能启发观众规划符合自己风格的行程。",
-      "body_en": "Kim Hyeyoon Named Taiwan Tourism Ambassador for 2026-2027.\n\nKim Hyeyoon stepped out in a crisp white pantsuit, flashing smiles and holding her official certificate as fans snapped photos at the Seoul launch.\n\nSouth Korean actress Kim Hyeyoon was appointed promotional ambassador for Taiwan Tourism at a Seoul press conference, where new campaign videos debuted under the slogan 'Everyone, Anytime, Taiwan Delights.' The clips show her enjoying Tainan food streets with her brother, Sun Moon Lake with family, solo time in Kaohsiung, and beach fun with friends, highlighting Taiwan's charms for any traveler or season.\n\nOrganizers picked her for her bright image and wide appeal, boosted by her popularity from *Lovely Runner* and a 2024 Taiwan fan meeting. She hopes the videos inspire people to plan trips that fit their style.",
-      "body_zh": "金惠允出任台湾观光大使（2026–2027）。\n\n金惠允身着利落白西装亮相首尔发布会，手持证书微笑，粉丝围拍留念。\n\n韩国演员金惠允在首尔记者会上获聘台湾观光推广大使，同步亮相「Everyone, Anytime, Taiwan Delights」新宣传片。片段呈现她与兄长逛台南小吃、与家人游日月潭、在高雄独处，以及与友人海边玩乐，强调台湾适合各类旅人与季节。\n\n主办方看中其明朗形象与《Lovely Runner》等作品带来的人气，以及 2024 年台湾粉丝见面会的号召力。她希望影片能启发观众规划符合自己风格的行程。",
-      "url": "https://x.com/i/trending/2112807301782638724",
-      "category": "Entertainment",
-      "topics": [
-        "Travel"
-      ],
-      "updated_at": "2026-10-21T12:40:57.000Z"
-    },
-    {
       "id": "2111675291110088931",
       "domain": "娱乐",
       "title_en": "Taylor Swift Shines in Custom Dior at 2026 Academy Museum Gala",
@@ -1333,24 +1299,6 @@
         "Celebrity"
       ],
       "updated_at": "2026-10-20T03:07:04.000Z"
-    },
-    {
-      "id": "2111997785189093552",
-      "domain": "娱乐",
-      "title_en": "Netflix's Norm Macdonald Documentary Draws Laughs and Mixed Views",
-      "title_zh": "网飞 Norm Macdonald 纪录片引笑声与两极评价",
-      "hook_en": "Five years after Norm Macdonald's death at 61, fans are revisiting his deadpan genius through a new Netflix film that mixes laughs with heartfelt memories.",
-      "hook_zh": "离世五年后，粉丝通过新片重温他的冷面幽默与深情回忆。",
-      "summary_en": "Directed by Judd Apatow, 'Norm: The Tale of Norm Macdonald' premiered October 16 and runs two hours, using archival clips, home videos, photos, and his own audiobook narration instead of new interviews. Viewers praise it as a worthy tribute to his SNL Weekend Update days, O.J. jokes, and legendary timing, with some left laughing and crying over the man they miss. Others call it a clip show lacking fresh insight or his edgier routines, like certain 9/11 bits, though it highlights his private cancer battle and uncompromised style. The responses reflect his enduring, divisive impact on comedy.",
-      "summary_zh": "由贾德·阿帕图执导的《Norm: The Tale of Norm Macdonald》10 月 16 日上线，时长约两小时，以档案片段、家庭影像、照片及其有声书旁白串联，未做新采访。观众称其为向 SNL《Weekend Update》、O.J. 玩笑与标志性节奏的致敬，有人边笑边哭；也有人觉得像精剪合集，缺少新洞察或其更锋利的段子。影片亦触及他私下与癌症抗争等面向，整体褒贬并存。",
-      "body_en": "Netflix's Norm Macdonald Documentary Draws Laughs and Mixed Views.\n\nFive years after Norm Macdonald's death at 61, fans are revisiting his deadpan genius through a new Netflix film that mixes laughs with heartfelt memories.\n\nDirected by Judd Apatow, 'Norm: The Tale of Norm Macdonald' premiered October 16 and runs two hours, using archival clips, home videos, photos, and his own audiobook narration instead of new interviews. Viewers praise it as a worthy tribute to his SNL Weekend Update days, O.J.\n\njokes, and legendary timing, with some left laughing and crying over the man they miss. Others call it a clip show lacking fresh insight or his edgier routines, like certain 9/11 bits, though it highlights his private cancer battle and uncompromised style. The responses reflect his enduring, divisive impact on comedy.",
-      "body_zh": "网飞 Norm Macdonald 纪录片引笑声与两极评价。\n\n离世五年后，粉丝通过新片重温他的冷面幽默与深情回忆。\n\n由贾德·阿帕图执导的《Norm: The Tale of Norm Macdonald》10 月 16 日上线，时长约两小时，以档案片段、家庭影像、照片及其有声书旁白串联，未做新采访。\n\n观众称其为向 SNL《Weekend Update》、O.J. 玩笑与标志性节奏的致敬，有人边笑边哭；也有人觉得像精剪合集，缺少新洞察或其更锋利的段子。影片亦触及他私下与癌症抗争等面向，整体褒贬并存。",
-      "url": "https://x.com/i/trending/2111997785189093552",
-      "category": "Entertainment",
-      "topics": [
-        "Movies & TV"
-      ],
-      "updated_at": "2026-10-20T05:10:09.000Z"
     },
     {
       "id": "2112653365356433717",
@@ -1390,31 +1338,13 @@
       "updated_at": "2026-10-20T18:15:13.000Z"
     },
     {
-      "id": "2112468483736834436",
-      "domain": "娱乐",
-      "title_en": "Tate McRae's 'Housewife' Eyes First Hot 100 Number One",
-      "title_zh": "Tate McRae《Housewife》与 Olivia Rodrigo 混音争夺 Hot 100 亚军",
-      "hook_en": "Tate McRae lit up the Victoria’s Secret Fashion Show stage in a bold red look, belting 'Housewife' with dancers before dropping a live version that fans couldn't get enough of.",
-      "hook_zh": "维多利亚的秘密秀上的火红舞台带动《Housewife》猛冲榜，与 Rodrigo 合作曲缠斗第二名。",
-      "summary_en": "After her high-energy October 18 performance in Los Angeles, Tate McRae's 'Housewife' racked up 6.5 million Spotify streams in one day and leads global Apple Music, positioning it for a possible top-two Hot 100 debut and her first solo number one. Olivia Rodrigo's 'expectations' remix with Chappell Roan, boosted by a fun retro game-show video on Spotify, is hot on its heels in the tight race. Tracks from Taylor Swift, Lana Del Rey, and others are crowding the top, showing how live shows, strategic releases, and fan streams drive the charts.",
-      "summary_zh": "早期预测显示，Tate McRae 的《Housewife》与 Olivia Rodrigo 联手 Chappell Roan 的《expectations》混音，在 2026 年 10 月 31 日 Hot 100 亚军位置胶着，泰勒·斯威夫特及 Lana Del Rey 与 Zach Bryan 等亦在挑战。维多利亚的秘密时装秀表演助推串流。《Housewife》成为流行榜焦点之一。",
-      "body_en": "Tate McRae's 'Housewife' Battles Olivia Rodrigo Remix for Hot 100 No. 2.\n\nTate McRae's bold red performance at the Victoria’s Secret Fashion Show has fans streaming 'Housewife' nonstop, fueling its tight race for No. 2 on the Billboard Hot 100.\n\nEarly forecasts show Tate McRae’s “Housewife” neck-and-neck with Olivia Rodrigo’s “expectations” remix featuring Chappell Roan for the No. 2 spot on the October 31, 2026 Hot 100 chart, alongside challengers like Taylor Swift and Lana Del Rey with Zach Bryan.\n\n“Housewife” notched over 6.5 million Spotify streams in a day, topped U.S. and global charts on debut, and won Billboard’s fan poll for favorite new music after Tate’s standout Fashion Show performance now selling for 69 cents. The Rodrigo-Roan remix video, with its fun game-show vibe and cameos, adds fresh push as streams and sales decide the final order in this streaming-driven showdown.",
-      "body_zh": "Tate McRae《Housewife》与 Olivia Rodrigo 混音争夺 Hot 100 亚军。\n\n维多利亚的秘密秀上的火红舞台带动《Housewife》猛冲榜，与 Rodrigo 合作曲缠斗第二名。\n\n早期预测显示，Tate McRae 的《Housewife》与 Olivia Rodrigo 联手 Chappell Roan 的《expectations》混音，在 2026 年 10 月 31 日 Hot 100 亚军位置胶着，泰勒·斯威夫特及 Lana Del Rey 与 Zach Bryan 等亦在挑战。\n\n维多利亚的秘密时装秀表演助推串流。《Housewife》成为流行榜焦点之一。",
-      "url": "https://x.com/i/trending/2112468483736834436",
-      "category": "Entertainment",
-      "topics": [
-        "Music"
-      ],
-      "updated_at": "2026-10-21T13:36:14.000Z"
-    },
-    {
       "id": "2112801173090587112",
       "domain": "娱乐",
-      "title_en": "Thai Star Lingling Kwong Shines at Cartier's Wild Singapore Event",
+      "title_en": "Thai Star Lingling Kwong Shines at Cartier's Wild Jewelry Event in Singapore",
       "title_zh": "Lingling Kwong 亮相新加坡卡地亚活动",
-      "hook_en": "Lingling Sirilak Kwong glided through lush gardens in shimmering gowns and bold Cartier jewels, captivating everyone at the Faune & Flore celebration.",
+      "hook_en": "Lingling Sirilak Kwong stepped into a lush jungle paradise, her sparkling gowns and bold jewels perfectly capturing the night's animal-inspired magic.",
       "hook_zh": "Lingling Kwong 身着黑色亮片长裙、配戏剧性手套，走进卡地亚丛林主题场景，以经典优雅吸引目光。",
-      "summary_en": "Cartier transformed Rochester Park's historic bungalows into a nature-inspired wonderland for its 'Into the Wild' event, spotlighting panther motifs and floral designs across jewelry and more. Thai actress Kwong arrived as a special guest, switching elegant looks like a sequined halter gown with opera gloves and statement necklaces amid dances and illuminated gardens. The free public exhibition at 17 Rochester Park continues through October 25, with artisan demos and a tea salon inviting all to explore Cartier's craft.",
+      "summary_en": "Thai actress Lingling Sirilak Kwong flew from Thailand to attend Cartier’s “Into the Wild” celebration at Rochester Park, where historic bungalows became immersive gardens filled with dance, music, and fauna-flora tributes. She turned heads in multiple glamorous looks, like a black sequined gown with diamond, onyx, and colorful stone pieces evoking tigers and parrots, plus a grey textured dress amid rattan and plants. Fans and media praised her elegant style matching the event's luxurious wild vibe, with the Faune & Flore exhibition open through October 25.",
       "summary_zh": "10 月 21 日在罗切斯特公园举行的「Into the Wild」沉浸式体验中，她佩戴卡地亚全新 Faune & Flore 系列，搭配缟玛瑙、蓝宝石与钻石，被粉丝称为「女王范」。活动展出品牌动物灵感设计，持续至 10 月 25 日。同日她还在曼谷大型粉丝活动上推广 Her Hyness 防晒产品，凸显其在奢侈品与美妆领域的上升势头。",
       "body_en": "Lingling Kwong Shines at Cartier Event in Singapore.\n\nLingling Kwong stepped into Cartier’s wild jungle-themed world in a sleek black sequined gown and dramatic gloves, turning heads with her timeless elegance.\n\nAt the 'Into the Wild' immersive experience in Rochester Park on October 21, Kwong wore pieces from Cartier’s new Faune & Flore collection, featuring onyx, sapphires, and diamonds that fans called striking and queenly.\n\nThe event celebrates the brand’s animal-inspired designs through October 25. That same day, she promoted Her Hyness sunscreen at a big fan event in Bangkok, highlighting her rising star in luxury and beauty.",
       "body_zh": "Lingling Kwong 亮相新加坡卡地亚活动。\n\nLingling Kwong 身着黑色亮片长裙、配戏剧性手套，走进卡地亚丛林主题场景，以经典优雅吸引目光。\n\n10 月 21 日在罗切斯特公园举行的「Into the Wild」沉浸式体验中，她佩戴卡地亚全新 Faune & Flore 系列，搭配缟玛瑙、蓝宝石与钻石，被粉丝称为「女王范」。\n\n活动展出品牌动物灵感设计，持续至 10 月 25 日。同日她还在曼谷大型粉丝活动上推广 Her Hyness 防晒产品，凸显其在奢侈品与美妆领域的上升势头。",
@@ -1423,25 +1353,98 @@
       "topics": [
         "Celebrity"
       ],
-      "updated_at": "2026-10-21T11:50:05.000Z"
+      "updated_at": "2026-10-21T14:14:44.000Z"
     },
     {
-      "id": "2112852935252259068",
+      "id": "2112878220479775067",
       "domain": "娱乐",
-      "title_en": "Lena Lalina's 'Her in Frame' Hits Netflix October 29",
-      "title_zh": "莉娜首部电影《Her in Frame》10 月 29 日登陆网飞",
-      "hook_en": "A young photographer chases dreams of a mysterious woman sparked by an old photo, leading him across Thailand in search of timeless love.",
-      "hook_zh": "泰国女演员莉娜大银幕处女作全球上线，粉丝期待已久。",
-      "summary_en": "Thai actress Lena Lalina stars as museum curator Mint in her first leading role in the romantic drama 'Her in Frame,' directed by Ekkasit Trakulkaemsuk. The story blends mystery, past lives, and cultural touches like a Thai fabric museum, with Thanapob Leeratanakachorn as the haunted photographer Tawan. Fans worldwide are sharing excitement online, resubscribing to Netflix, and planning watch parties ahead of the October 29 streaming debut in countries including Thailand, Indonesia, and Japan.",
-      "summary_zh": "这部爱情剧讲述年轻摄影师追寻旧照中神秘女子的梦想，交织前世今生与当代泰国。由 Ekkasit Trakulkaesemsuk 执导，Thanapob Leeratanakachorn 与莉娜主演，灵感来自普密蓬国王与诗丽吉王后的爱情故事。影片约 1 小时 41 分，13+ 分级，先在泰国、印尼、马来西亚、越南、韩国与日本上线，早期评价称情感与对手戏有吸引力。",
-      "body_en": "Lena's Debut Film 'Her in Frame' Hits Netflix October 29.\n\nFans are buzzing with joy as Thai actress Lena's first movie finally streams worldwide, marking her long-awaited big-screen moment.\n\nThe romantic drama follows a young photographer chasing dreams of a mysterious woman from an old photo, blending past lives with present-day Thailand. Directed by Ekkasit Trakulkaesemsuk, it stars Thanapob Leeratanakachorn and Lena, inspired by the love story of King Bhumibol Adulyadej and Queen Sirikit.\n\nAvailable in Thailand, Indonesia, Malaysia, Vietnam, South Korea, and Japan, the 1-hour-41-minute film has a 13+ rating and early praise for its emotional depth and the leads' chemistry. Supporters are resubscribing to Netflix and organizing watch parties to celebrate this milestone.",
-      "body_zh": "莉娜首部电影《Her in Frame》10 月 29 日登陆网飞。\n\n泰国女演员莉娜大银幕处女作全球上线，粉丝期待已久。\n\n这部爱情剧讲述年轻摄影师追寻旧照中神秘女子的梦想，交织前世今生与当代泰国。\n\n由 Ekkasit Trakulkaesemsuk 执导，Thanapob Leeratanakachorn 与莉娜主演，灵感来自普密蓬国王与诗丽吉王后的爱情故事。影片约 1 小时 41 分，13+ 分级，先在泰国、印尼、马来西亚、越南、韩国与日本上线，早期评价称情感与对手戏有吸引力。",
-      "url": "https://x.com/i/trending/2112852935252259068",
+      "title_en": "Disney+ and Hulu Greenlight Glee Reboot Series",
+      "title_zh": "Disney+ 与 Hulu 订购《欢乐合唱团》重启版，距完结已逾十年",
+      "hook_en": "The yellow 'glee' logo is back on a bold red background, with fans lighting up at the news of fresh musical numbers ahead.",
+      "hook_zh": "《Glee》官方账号写道「Currently gleeking out！」粉丝为这部曾捧红明星、打造热歌的校园合唱剧回归而沸腾。",
+      "summary_en": "Disney+ and Hulu have officially ordered a reboot of Ryan Murphy's Glee, the musical dramedy that ran on Fox from 2009 to 2015. Co-creator Murphy recently finished a script with Brad Falchuk and Ian Brennan, and he shared that about 10 original cast members are enthusiastic after he reached out. The series from 20th Television will stream on both platforms, though casting and premiere details are still under wraps. Fans are buzzing with excitement for new stories and songs, mixed with fond memories of the show's high school drama and pop covers.",
+      "summary_zh": "Disney+ 与 Hulu 向 20th Television 发出《Glee》重启剧集全季订单，联合创作者瑞恩·墨菲正与原班合作者布拉德·法尔查克、伊恩·布伦南完成剧本。墨菲已联系约 10 位 2009–2015 年福克斯原班演员，反响积极，但如何衔接原作仍待明确。目前尚无正式定角；重启借力该剧关于高中生活、身份认同与流行翻唱的持久人气，也有粉丝担心在科里·蒙特斯、娜雅·里维拉等已故主演缺席下难再现当年魔力。",
+      "body_en": "Disney+ and Hulu Order Glee Reboot More Than a Decade Later.\n\nThe official Glee account captured the thrill perfectly: 'Currently gleeking out!' Fans are buzzing over the return of the show choir drama that launched stars and hit songs.\n\nDisney+ and Hulu have given a full series order to a Glee reboot from 20th Television, with co-creator Ryan Murphy finishing a script alongside original collaborators Brad Falchuk and Ian Brennan.\n\nMurphy reached out to about 10 cast members from the 2009-2015 Fox run, who responded enthusiastically despite questions about how it will connect to the original. While no casting is confirmed yet, the revival taps into the show's enduring popularity from its stories of high school life, identity, and pop covers, even as some fans express caution over recapturing the magic without late stars like Cory Monteith and Naya Rivera.",
+      "body_zh": "Disney+ 与 Hulu 订购《欢乐合唱团》重启版，距完结已逾十年。\n\n《Glee》官方账号写道「Currently gleeking out！」粉丝为这部曾捧红明星、打造热歌的校园合唱剧回归而沸腾。\n\nDisney+ 与 Hulu 向 20th Television 发出《Glee》重启剧集全季订单，联合创作者瑞恩·墨菲正与原班合作者布拉德·法尔查克、伊恩·布伦南完成剧本。\n\n墨菲已联系约 10 位 2009–2015 年福克斯原班演员，反响积极，但如何衔接原作仍待明确。目前尚无正式定角；重启借力该剧关于高中生活、身份认同与流行翻唱的持久人气，也有粉丝担心在科里·蒙特斯、娜雅·里维拉等已故主演缺席下难再现当年魔力。",
+      "url": "https://x.com/i/trending/2112878220479775067",
       "category": "Entertainment",
       "topics": [
         "Movies & TV"
       ],
-      "updated_at": "2026-10-21T13:45:46.000Z"
+      "updated_at": "2026-10-21T14:22:07.000Z"
+    },
+    {
+      "id": "2112722969550107047",
+      "domain": "娱乐",
+      "title_en": "InterLink Founder Clears Up Rumors Ahead of ITLG Mainnet Launch",
+      "title_zh": "InterLink 创始人在 ITLG 主网上线前澄清传闻",
+      "hook_en": "After nearly a year of whispers, founder KV stepped in with straight talk on the team's credentials and big partnerships, easing nerves as users gear up for token claims.",
+      "hook_zh": "近一年传言不断后，创始人 KV 就团队资历与重大合作给出直白说明，试图在用户准备领币前安抚情绪。",
+      "summary_en": "InterLink, a blockchain using AI for Proof of Personhood, is nearing its ITLG Mainnet with 55 billion mined tokens ready for on-chain migration via a KYC portal—completing Step 1 qualifies users, though not all balances may be claimable. KV highlighted the team's heavy hitters like a NYSE chairman and Wall Street leader, plus partnerships with Google for Startups, OKX, Visa, and AWS, all from U.S. headquarters with global plans. Community tools like vaults for borrowing against tokens and in-app livestreams are rolling out, while supporters point to milestones like the 2026 private mainnet as proof of progress amid lingering questions on supply and verification.",
+      "summary_zh": "使用 AI 做「人格证明」的区块链项目 InterLink 接近推出 ITLG 主网，约 550 亿枚已挖代币将经 KYC 门户迁至链上——完成第一步即具备资格，但并非所有余额都可领取。KV 强调团队有纽约证交所主席、华尔街高管等成员，并与 Google for Startups、OKX、Visa、AWS 等合作，总部在美国、计划面向全球。社区工具如以代币抵押借贷的金库、应用内直播等正在上线；支持者把 2026 年私有主网等里程碑视为进展证据，同时供应与核验问题仍待解答。",
+      "body_en": "InterLink Founder Clears Up Rumors Ahead of ITLG Mainnet Launch.\n\nAfter nearly a year of whispers, founder KV stepped in with straight talk on the team's credentials and big partnerships, easing nerves as users gear up for token claims.\n\nInterLink, a blockchain using AI for Proof of Personhood, is nearing its ITLG Mainnet with 55 billion mined tokens ready for on-chain migration via a KYC portal—completing Step 1 qualifies users, though not all balances may be claimable. KV highlighted the team's heavy hitters like a NYSE chairman and Wall Street leader, plus partnerships with Google for Startups, OKX, Visa, and AWS, all from U.S.\n\nheadquarters with global plans. Community tools like vaults for borrowing against tokens and in-app livestreams are rolling out, while supporters point to milestones like the 2026 private mainnet as proof of progress amid lingering questions on supply and verification.",
+      "body_zh": "InterLink 创始人在 ITLG 主网上线前澄清传闻。\n\n近一年传言不断后，创始人 KV 就团队资历与重大合作给出直白说明，试图在用户准备领币前安抚情绪。\n\n使用 AI 做「人格证明」的区块链项目 InterLink 接近推出 ITLG 主网，约 550 亿枚已挖代币将经 KYC 门户迁至链上——完成第一步即具备资格，但并非所有余额都可领取。\n\nKV 强调团队有纽约证交所主席、华尔街高管等成员，并与 Google for Startups、OKX、Visa、AWS 等合作，总部在美国、计划面向全球。社区工具如以代币抵押借贷的金库、应用内直播等正在上线；支持者把 2026 年私有主网等里程碑视为进展证据，同时供应与核验问题仍待解答。",
+      "url": "https://x.com/i/trending/2112722969550107047",
+      "category": "Other",
+      "topics": [
+        "Technology",
+        "Cryptocurrency"
+      ],
+      "updated_at": "2026-10-21T04:52:46.000Z"
+    },
+    {
+      "id": "2112918023249989711",
+      "domain": "娱乐",
+      "title_en": "Sunshine Benzi Shares Notebook-to-Studio Process for 'Forbes List'",
+      "title_zh": "Sunshine Benzi 分享《Forbes List》从笔记本到录音棚的创作过程",
+      "hook_en": "Sunshine Benzi flips through her notebook in the studio, pen flying as she crafts lyrics for her new track. Fans can't get enough of her hands-on hustle.",
+      "hook_zh": "Sunshine Benzi 在录音棚翻着笔记本奋笔写词，粉丝为她亲力亲为的创作节奏着迷。",
+      "summary_en": "The 24-year-old Chicago-area rapper, born Sunshine Kathleen Holt in Pontiac, Illinois, posted behind-the-scenes clips of writing and recording 'Forbes List,' produced by Bangladesh of Nicki Minaj fame and Chinoo.xo. Viewers praise her raw talent, work ethic, and poetry-rooted approach, with comments like 'this chick can rap' and 'RAW talent' flooding in. She first gained notice in late 2025 with her TikTok freestyle 'Trump the Bill,' followed by singles like 'Barracuda' and a December 2026 Miss Bellum Tour. While some note her background as a white artist in hip-hop, the buzz focuses on her focused craft and building momentum.",
+      "summary_zh": "这位 24 岁、生于伊利诺伊州庞蒂亚克的芝加哥地区说唱歌手 Sunshine Kathleen Holt，晒出创作与录制《Forbes List》的幕后片段，制作人包括曾与 Nicki Minaj 合作的 Bangladesh 以及 Chinoo.xo。观众称赞其原始才华、工作态度与诗歌根底，评论区常见「这姑娘会说唱」「真正的天赋」等话。她 2025 年末因 TikTok 自由说唱《Trump the Bill》走红，随后发行《Barracuda》等单曲，并计划 2026 年 12 月 Miss Bellum 巡演。虽有人提到她作为白人艺人进入嘻哈圈的背景，讨论焦点仍在其专注打磨与持续升温的势头。",
+      "body_en": "Sunshine Benzi Shares Notebook-to-Studio Process for 'Forbes List'.\n\nSunshine Benzi flips through her notebook in the studio, pen flying as she crafts lyrics for her new track. Fans can't get enough of her hands-on hustle.\n\nThe 24-year-old Chicago-area rapper, born Sunshine Kathleen Holt in Pontiac, Illinois, posted behind-the-scenes clips of writing and recording 'Forbes List,' produced by Bangladesh of Nicki Minaj fame and Chinoo.xo. Viewers praise her raw talent, work ethic, and poetry-rooted approach, with comments like 'this chick can rap' and 'RAW talent' flooding in.\n\nShe first gained notice in late 2025 with her TikTok freestyle 'Trump the Bill,' followed by singles like 'Barracuda' and a December 2026 Miss Bellum Tour. While some note her background as a white artist in hip-hop, the buzz focuses on her focused craft and building momentum.",
+      "body_zh": "Sunshine Benzi 分享《Forbes List》从笔记本到录音棚的创作过程。\n\nSunshine Benzi 在录音棚翻着笔记本奋笔写词，粉丝为她亲力亲为的创作节奏着迷。\n\n这位 24 岁、生于伊利诺伊州庞蒂亚克的芝加哥地区说唱歌手 Sunshine Kathleen Holt，晒出创作与录制《Forbes List》的幕后片段，制作人包括曾与 Nicki Minaj 合作的 Bangladesh 以及 Chinoo.xo。观众称赞其原始才华、工作态度与诗歌根底，评论区常见「这姑娘会说唱」「真正的天赋」等话。\n\n她 2025 年末因 TikTok 自由说唱《Trump the Bill》走红，随后发行《Barracuda》等单曲，并计划 2026 年 12 月 Miss Bellum 巡演。虽有人提到她作为白人艺人进入嘻哈圈的背景，讨论焦点仍在其专注打磨与持续升温的势头。",
+      "url": "https://x.com/i/trending/2112918023249989711",
+      "category": "Entertainment",
+      "topics": [
+        "Music"
+      ],
+      "updated_at": "2026-10-21T14:50:09.000Z"
+    },
+    {
+      "id": "2112713657054322887",
+      "domain": "娱乐",
+      "title_en": "A2O LITE Grabs Second Music Show Win with 'NEON'",
+      "title_zh": "A2O LITE 凭《NEON》再夺音乐节目奖杯",
+      "hook_en": "Just over a week into their debut, A2O LITE's nine young members stood tall on Show Champion's stage, nailing their encore with clear vocals and boundless energy.",
+      "hook_zh": "出道刚过一周，A2O LITE 九名年轻成员站上 Show Champion 舞台，安可演唱音准清晰、能量十足。",
+      "summary_en": "The multinational girl group, founded by former SM chief Lee Soo-man, released 'NEON' on October 13 and quickly claimed their first trophy on The Show before securing back-to-back wins, including today's Show Champion victory. The track topped Melon's Top 100 in just 29 hours—the fastest for a debut since the chart's 2021 update—and has led the Daily Chart for six straight days. Members from South Korea, Japan, China, Thailand, and the U.S., aged 13 to 17, impressed with stable live performances on stage and their first radio spot on MBC FM4U, where they introduced themselves and delivered the song flawlessly.",
+      "summary_zh": "由前 SM 掌门人李秀满创办的跨国女团于 10 月 13 日发行《NEON》，很快先在 The Show 拿下首个奖杯，再连夺包括当日 Show Champion 在内的背靠背胜利。歌曲仅用 29 小时登顶 Melon Top 100——为该榜 2021 年改版以来出道曲最快纪录，并连续六日领跑日榜。成员来自韩、日、中、泰与美国，年龄 13 至 17 岁，舞台现场稳定，并在 MBC FM4U 完成首个电台亮相，自我介绍后完整演唱。",
+      "body_en": "A2O LITE Grabs Second Music Show Win with 'NEON'.\n\nJust over a week into their debut, A2O LITE's nine young members stood tall on Show Champion's stage, nailing their encore with clear vocals and boundless energy.\n\nThe multinational girl group, founded by former SM chief Lee Soo-man, released 'NEON' on October 13 and quickly claimed their first trophy on The Show before securing back-to-back wins, including today's Show Champion victory.\n\nThe track topped Melon's Top 100 in just 29 hours—the fastest for a debut since the chart's 2021 update—and has led the Daily Chart for six straight days. Members from South Korea, Japan, China, Thailand, and the U.S., aged 13 to 17, impressed with stable live performances on stage and their first radio spot on MBC FM4U, where they introduced themselves and delivered the song flawlessly.",
+      "body_zh": "A2O LITE 凭《NEON》再夺音乐节目奖杯。\n\n出道刚过一周，A2O LITE 九名年轻成员站上 Show Champion 舞台，安可演唱音准清晰、能量十足。\n\n由前 SM 掌门人李秀满创办的跨国女团于 10 月 13 日发行《NEON》，很快先在 The Show 拿下首个奖杯，再连夺包括当日 Show Champion 在内的背靠背胜利。\n\n歌曲仅用 29 小时登顶 Melon Top 100——为该榜 2021 年改版以来出道曲最快纪录，并连续六日领跑日榜。成员来自韩、日、中、泰与美国，年龄 13 至 17 岁，舞台现场稳定，并在 MBC FM4U 完成首个电台亮相，自我介绍后完整演唱。",
+      "url": "https://x.com/i/trending/2112713657054322887",
+      "category": "Entertainment",
+      "topics": [
+        "Music"
+      ],
+      "updated_at": "2026-10-21T13:28:43.000Z"
+    },
+    {
+      "id": "2112078869360726394",
+      "domain": "娱乐",
+      "title_en": "Lingling Kwong Shines at Cartier’s Into The Wild Event in Singapore",
+      "title_zh": "Kwong Lingling 亮相新加坡卡地亚「Into The Wild」活动",
+      "hook_en": "Lingling Kwong turned heads in a shimmering black sequined gown and dramatic floral gloves, posing confidently amid jungle-inspired backdrops at Cartier’s elegant gathering.",
+      "hook_zh": "Kwong Lingling 身着闪亮黑色亮片礼服、搭配戏剧感花卉手套，在丛林灵感布景前自信亮相，成为卡地亚雅集焦点。",
+      "summary_en": "On October 19, Thai actress Lingling Kwong brought her sophisticated style to Cartier’s “Into The Wild” event in Singapore, celebrating the brand’s iconic panther motifs and animal-inspired jewelry. She stunned in multiple looks, from a strapless grey dress to a flowing black gown, accessorized with bold silver chains, sparkling bracelets, and statement earrings. Fans raved about her radiant smile and glamour, with one calling her “Elegance has a name.” The immersive experience opens to the public at 17 Rochester Park from October 21 to 25, with elements lingering at ION Orchard through early November.",
+      "summary_zh": "10 月 19 日，泰国女演员 Kwong Lingling 以精致造型出席新加坡卡地亚「Into The Wild」活动，庆祝品牌标志性豹纹与动物灵感珠宝。她多次换装，从抹胸灰裙到飘逸黑礼服，搭配粗银链、闪亮手镯与夸张耳环。粉丝盛赞其笑容与气场，有人写道「优雅有了名字」。沉浸式体验 10 月 21 日至 25 日在 17 Rochester Park 对公众开放，部分元素将在 ION Orchard 延续至 11 月初。",
+      "body_en": "Lingling Kwong Shines at Cartier’s Into The Wild Event in Singapore.\n\nLingling Kwong turned heads in a shimmering black sequined gown and dramatic floral gloves, posing confidently amid jungle-inspired backdrops at Cartier’s elegant gathering.\n\nOn October 19, Thai actress Lingling Kwong brought her sophisticated style to Cartier’s “Into The Wild” event in Singapore, celebrating the brand’s iconic panther motifs and animal-inspired jewelry.\n\nShe stunned in multiple looks, from a strapless grey dress to a flowing black gown, accessorized with bold silver chains, sparkling bracelets, and statement earrings. Fans raved about her radiant smile and glamour, with one calling her “Elegance has a name.” The immersive experience opens to the public at 17 Rochester Park from October 21 to 25, with elements lingering at ION Orchard through early November.",
+      "body_zh": "Kwong Lingling 亮相新加坡卡地亚「Into The Wild」活动。\n\nKwong Lingling 身着闪亮黑色亮片礼服、搭配戏剧感花卉手套，在丛林灵感布景前自信亮相，成为卡地亚雅集焦点。\n\n10 月 19 日，泰国女演员 Kwong Lingling 以精致造型出席新加坡卡地亚「Into The Wild」活动，庆祝品牌标志性豹纹与动物灵感珠宝。她多次换装，从抹胸灰裙到飘逸黑礼服，搭配粗银链、闪亮手镯与夸张耳环。\n\n粉丝盛赞其笑容与气场，有人写道「优雅有了名字」。沉浸式体验 10 月 21 日至 25 日在 17 Rochester Park 对公众开放，部分元素将在 ION Orchard 延续至 11 月初。",
+      "url": "https://x.com/i/trending/2112078869360726394",
+      "category": "Entertainment",
+      "topics": [
+        "Celebrity"
+      ],
+      "updated_at": "2026-10-21T06:02:16.000Z"
     },
     {
       "id": "2112433199888679267",
@@ -1517,22 +1520,40 @@
       "updated_at": "2026-10-20T17:06:35.000Z"
     },
     {
-      "id": "2112833225118625949",
+      "id": "2112802744491000212",
       "domain": "科学",
-      "title_en": "Nigeria Debunks Viral Claims on US Medical Aid Deal",
-      "title_zh": "尼日利亚驳斥美医疗援助协议「禁检疫苗」谣言",
-      "hook_en": "Panic spread online after posts claimed a US deal would block Nigeria's drug agency from testing free vaccines and medicines. Officials stepped in swiftly to set the record straight.",
-      "hook_zh": "网传美援协议禁止药监局检测免费疫苗药品，官方迅速澄清主权与安检仍在。",
-      "summary_en": "Viral messages alleged a $3 billion US aid package for malaria and other diseases barred NAFDAC from reviewing supplies, sparking fears of unsafe products and lost sovereignty—claims that Ghana supposedly rejected. NAFDAC's Director-General Prof. Mojisola Adeyeye clarified on October 20, 2026, that the agency keeps full authority: US FDA-approved products get expedited review due to existing reliance, but all undergo safety checks, especially non-US ones, with tracking via blockchain. The five-year MoU, signed December 2025, provides nearly $2 billion in declining US grants for HIV/AIDS and health programs, while Nigeria boosts its spending to $3 billion for self-reliance.",
-      "summary_zh": "病毒式帖文称约 30 亿美元美援疟疾等项目禁止 NAFDAC 审查物资，引发不安全与主权丧失恐慌，并称加纳已拒绝。NAFDAC 局长 Mojisola Adeyeye 教授 2026 年 10 月 20 日澄清：机构保留完整权限；FDA 已批产品可加快审评，但皆须安全检查，非美产品尤然，并以区块链追踪。2025 年 12 月签署的五年谅解备忘录提供近 20 亿美元递减美方拨款用于艾滋病等卫生项目，尼日利亚同步将本国投入提至约 30 亿美元以增强自立。",
-      "body_en": "Nigeria Debunks Viral Claims on US Medical Aid Deal.\n\nPanic spread online after posts claimed a US deal would block Nigeria's drug agency from testing free vaccines and medicines. Officials stepped in swiftly to set the record straight.\n\nViral messages alleged a $3 billion US aid package for malaria and other diseases barred NAFDAC from reviewing supplies, sparking fears of unsafe products and lost sovereignty—claims that Ghana supposedly rejected. NAFDAC's Director-General Prof.\n\nMojisola Adeyeye clarified on October 20, 2026, that the agency keeps full authority: US FDA-approved products get expedited review due to existing reliance, but all undergo safety checks, especially non-US ones, with tracking via blockchain. The five-year MoU, signed December 2025, provides nearly $2 billion in declining US grants for HIV/AIDS and health programs, while Nigeria boosts its spending to $3 billion for self-reliance.",
-      "body_zh": "尼日利亚驳斥美医疗援助协议「禁检疫苗」谣言。\n\n网传美援协议禁止药监局检测免费疫苗药品，官方迅速澄清主权与安检仍在。\n\n病毒式帖文称约 30 亿美元美援疟疾等项目禁止 NAFDAC 审查物资，引发不安全与主权丧失恐慌，并称加纳已拒绝。\n\nNAFDAC 局长 Mojisola Adeyeye 教授 2026 年 10 月 20 日澄清：机构保留完整权限；FDA 已批产品可加快审评，但皆须安全检查，非美产品尤然，并以区块链追踪。2025 年 12 月签署的五年谅解备忘录提供近 20 亿美元递减美方拨款用于艾滋病等卫生项目，尼日利亚同步将本国投入提至约 30 亿美元以增强自立。",
-      "url": "https://x.com/i/trending/2112833225118625949",
+      "title_en": "UN Report: 1.5°C Warming Limit Now Unavoidable with Overshoot",
+      "title_zh": "联合国报告：暂时超越 1.5°C 已不可避免，但仍可逆转",
+      "hook_en": "The world has missed its chance to cap warming at 1.5°C without going over, says a new UN report. Now the focus shifts to keeping any exceedance as short and small as possible.",
+      "hook_zh": "联合国传来沉重消息：数十年气候行动迟缓意味着将暂时突破 1.5°C 升温上限；但领导层称紧急行动仍可在本世纪末把温度拉回。",
+      "summary_en": "The UN Environment Programme’s 2026 Emissions Gap Report states current policies could lead to 2.8°C warming by 2100, while full national pledges aim for 2.6°C—both higher than last year due to U.S. Paris Agreement withdrawal and updated emissions data. Even the best case sees temperatures peaking at 1.7–1.8°C mid-century with a 50% chance of returning to 1.5°C later. To minimize overshoot, emissions must drop 18% by 2030 and 45% by 2035 from 2025 levels, through tripling renewables, slashing coal by 75%, cutting methane 25%, and scaling carbon removal. The report notes progress in renewables but warns commitments fall short, urging action ahead of COP31 talks.",
+      "summary_zh": "联合国环境规划署《2026 排放差距报告》警告，现行政策指向升温约 2.8°C，国家承诺可压至约 2.6°C。即便乐观路径，本世纪中叶仍见 1.7–1.8°C，之后才可能于 2100 年回到 1.5°C，需相对 2025 年水平在 2030 年减排 18%、2035 年 45%、2040 年 69%，并大规模碳移除。UNEP 负责人 Inger Andersen 与古特雷斯强调，要将「超标」幅度压到最小，必须立即全力以赴，在煤油气排放仍升之际依托可再生扩张。",
+      "body_en": "UN Report: 1.5°C Limit Overshoot Now Inevitable.\n\nYears of slow action have closed the door on staying below 1.5°C warming without a temporary breach. The focus shifts to limiting how high and how long temperatures climb before dropping back.\n\nThe UN Environment Programme’s 2026 Emissions Gap Report states that global warming will exceed the Paris Agreement’s 1.5°C target in coming years, with the best-case peak at 1.7–1.8°C mid-century and a 50% chance of returning below 1.5°C by 2100. This requires emissions cuts of 18% by 2030, 45% by 2035, and 69% by 2040 from 2025 levels, plus large-scale carbon removal.\n\nCurrent pledges only achieve 5–8% cuts by 2030, heading toward 2.6°C or more warming. UNEP’s Inger Andersen calls for urgent action to minimize risks like floods and heatwaves ahead of COP31 talks.",
+      "body_zh": "联合国报告：暂时超越 1.5°C 已不可避免，但仍可逆转。\n\n联合国传来沉重消息：数十年气候行动迟缓意味着将暂时突破 1.5°C 升温上限；但领导层称紧急行动仍可在本世纪末把温度拉回。\n\n联合国环境规划署《2026 排放差距报告》警告，现行政策指向升温约 2.8°C，国家承诺可压至约 2.6°C。即便乐观路径，本世纪中叶仍见 1.7–1.8°C，之后才可能于 2100 年回到 1.5°C，需相对 2025 年水平在 2030 年减排 18%、2035 年 45%、2040 年 69%，并大规模碳移除。\n\nUNEP 负责人 Inger Andersen 与古特雷斯强调，要将「超标」幅度压到最小，必须立即全力以赴，在煤油气排放仍升之际依托可再生扩张。",
+      "url": "https://x.com/i/trending/2112802744491000212",
       "category": "News",
       "topics": [
-        "News"
+        "Science"
       ],
-      "updated_at": "2026-10-21T11:29:22.000Z"
+      "updated_at": "2026-10-21T14:31:49.000Z"
+    },
+    {
+      "id": "2112769667550888269",
+      "domain": "科学",
+      "title_en": "APA Faces Accreditation Scrutiny Over Activism in Psychology Conferences",
+      "title_zh": "美国心理学会因会议政治化面临认证审查",
+      "hook_en": "Psychologists gathered in New York for a major conference, but the panels leaned heavily into political themes like abolishing the family and queer anarchist psychoanalysis, with no conservative voices in sight.",
+      "hook_zh": "心理学家齐聚纽约参加重要会议，但议程大量偏向「废除家庭」「酷儿无政府精神分析」等政治主题，几乎不见保守派声音。",
+      "summary_en": "A Wall Street Journal opinion piece by Colin Wright and Andrew Hartz highlights criticism of the American Psychological Association for blending activism with science, spotlighting Division 39's recent conference where about 70 of 90 panels pushed left-wing topics and sessions like 'Feel the F— Fantasy' offered continuing education credits. A bipartisan board voted 7-4 last month to recommend suspending the APA's federal accreditation authority, amid concerns over antisemitism allegations and elected president Candice Hargons' focus on 'systemic intersectional oppression.' Similar issues appear at the American Academy of Child and Adolescent Psychiatry, which declined to discuss evidence on childhood gender transitions. Critics argue this erodes public trust in evidence-based care for vulnerable patients.",
+      "summary_zh": "科林·赖特与安德鲁·哈茨在《华尔街日报》评论中批评美国心理学会把行动主义与科学混为一谈，点名第 39 分会近期会议约 90 场专题中约 70 场偏向左翼议题，且如「Feel the F— Fantasy」等场次仍可获继续教育学分。两党组成的委员会上月以 7 比 4 建议暂停该协会的联邦认证授权，背景还包括反犹指控争议，以及当选会长 Candice Hargons 聚焦「系统性交叉压迫」的取向。美国儿童与青少年精神病学学会也出现类似问题，并拒绝讨论童年性别过渡相关证据。批评者认为，这侵蚀公众对面向脆弱患者的循证照护的信任。",
+      "body_en": "APA Faces Accreditation Scrutiny Over Activism in Psychology Conferences.\n\nPsychologists gathered in New York for a major conference, but the panels leaned heavily into political themes like abolishing the family and queer anarchist psychoanalysis, with no conservative voices in sight.\n\nA Wall Street Journal opinion piece by Colin Wright and Andrew Hartz highlights criticism of the American Psychological Association for blending activism with science, spotlighting Division 39's recent conference where about 70 of 90 panels pushed left-wing topics and sessions like 'Feel the F— Fantasy' offered continuing education credits.\n\nA bipartisan board voted 7-4 last month to recommend suspending the APA's federal accreditation authority, amid concerns over antisemitism allegations and elected president Candice Hargons' focus on 'systemic intersectional oppression.' Similar issues appear at the American Academy of Child and Adolescent Psychiatry, which declined to discuss evidence on childhood gender transitions. Critics argue this erodes public trust in evidence-based care for vulnerable patients.",
+      "body_zh": "美国心理学会因会议政治化面临认证审查。\n\n心理学家齐聚纽约参加重要会议，但议程大量偏向「废除家庭」「酷儿无政府精神分析」等政治主题，几乎不见保守派声音。\n\n科林·赖特与安德鲁·哈茨在《华尔街日报》评论中批评美国心理学会把行动主义与科学混为一谈，点名第 39 分会近期会议约 90 场专题中约 70 场偏向左翼议题，且如「Feel the F— Fantasy」等场次仍可获继续教育学分。两党组成的委员会上月以 7 比 4 建议暂停该协会的联邦认证授权，背景还包括反犹指控争议，以及当选会长 Candice Hargons 聚焦「系统性交叉压迫」的取向。\n\n美国儿童与青少年精神病学学会也出现类似问题，并拒绝讨论童年性别过渡相关证据。批评者认为，这侵蚀公众对面向脆弱患者的循证照护的信任。",
+      "url": "https://x.com/i/trending/2112769667550888269",
+      "category": "News",
+      "topics": [
+        "Politics"
+      ],
+      "updated_at": "2026-10-21T14:50:00.000Z"
     },
     {
       "id": "2112684362596766177",
@@ -1629,22 +1650,22 @@
       "updated_at": "2026-10-20T20:33:11.000Z"
     },
     {
-      "id": "2112802744491000212",
+      "id": "2112820742060495085",
       "domain": "科学",
-      "title_en": "UN Report: 1.5°C Warming Limit Now Requires Temporary Overshoot",
-      "title_zh": "联合国报告：暂时超越 1.5°C 已不可避免，但仍可逆转",
-      "hook_en": "The UN's latest report delivers a sobering update: holding global warming to 1.5°C means briefly exceeding it before pulling back. UNEP chief Inger Andersen insists it's still possible to limit the damage.",
-      "hook_zh": "联合国传来沉重消息：数十年气候行动迟缓意味着将暂时突破 1.5°C 升温上限；但领导层称紧急行动仍可在本世纪末把温度拉回。",
-      "summary_en": "The annual UN Emissions Gap Report, released ahead of COP31 in Turkey, states that the Paris Agreement's 1.5°C goal can no longer be met without overshooting to about 1.7-1.8°C mid-century, then returning by 2100. This demands global emissions cuts of 18% by 2030, 45% by 2035, and 69% by 2040 from 2025 levels, plus massive carbon removal—far beyond current pledges that lead to 2.6°C warming. Current policies without change point to 2.8°C, amid record-high emissions and reliance on coal. Andersen calls for urgent action across energy, industry, and methane to shorten any overshoot.",
-      "summary_zh": "联合国环境规划署《2026 排放差距报告》警告，现行政策指向升温约 2.8°C，国家承诺可压至约 2.6°C。即便乐观路径，本世纪中叶仍见 1.7–1.8°C，之后才可能于 2100 年回到 1.5°C，需相对 2025 年水平在 2030 年减排 18%、2035 年 45%、2040 年 69%，并大规模碳移除。UNEP 负责人 Inger Andersen 与古特雷斯强调，要将「超标」幅度压到最小，必须立即全力以赴，在煤油气排放仍升之际依托可再生扩张。",
-      "body_en": "UN Report: 1.5°C Limit Overshoot Now Inevitable.\n\nYears of slow action have closed the door on staying below 1.5°C warming without a temporary breach. The focus shifts to limiting how high and how long temperatures climb before dropping back.\n\nThe UN Environment Programme’s 2026 Emissions Gap Report states that global warming will exceed the Paris Agreement’s 1.5°C target in coming years, with the best-case peak at 1.7–1.8°C mid-century and a 50% chance of returning below 1.5°C by 2100. This requires emissions cuts of 18% by 2030, 45% by 2035, and 69% by 2040 from 2025 levels, plus large-scale carbon removal.\n\nCurrent pledges only achieve 5–8% cuts by 2030, heading toward 2.6°C or more warming. UNEP’s Inger Andersen calls for urgent action to minimize risks like floods and heatwaves ahead of COP31 talks.",
-      "body_zh": "联合国报告：暂时超越 1.5°C 已不可避免，但仍可逆转。\n\n联合国传来沉重消息：数十年气候行动迟缓意味着将暂时突破 1.5°C 升温上限；但领导层称紧急行动仍可在本世纪末把温度拉回。\n\n联合国环境规划署《2026 排放差距报告》警告，现行政策指向升温约 2.8°C，国家承诺可压至约 2.6°C。即便乐观路径，本世纪中叶仍见 1.7–1.8°C，之后才可能于 2100 年回到 1.5°C，需相对 2025 年水平在 2030 年减排 18%、2035 年 45%、2040 年 69%，并大规模碳移除。\n\nUNEP 负责人 Inger Andersen 与古特雷斯强调，要将「超标」幅度压到最小，必须立即全力以赴，在煤油气排放仍升之际依托可再生扩张。",
-      "url": "https://x.com/i/trending/2112802744491000212",
+      "title_en": "Rizhao Residents Watch Rocket Launch from Home Windows",
+      "title_zh": "日照市民在家门口「看火箭」升空",
+      "hook_en": "People in Rizhao, China, peered out their bedroom windows to see a rocket soar into the sky over the Yellow Sea. It was a stunning, everyday view of space history unfolding right outside.",
+      "hook_zh": "中国日照居民透过卧室窗户，便能看见火箭从黄海上空腾起——航天发射成了海边日常景观。",
+      "summary_en": "On October 21, 2026, Galactic Energy’s Ceres-1S Y8 rocket lifted off at 11:39 a.m. Beijing Time from an offshore platform near Rizhao in Shandong Province, successfully placing the XiGuang-4-01 Earth-observation satellite into a 541-kilometer orbit. The satellite features high-resolution cameras and sensors to support monitoring in areas like the Guangdong-Hong Kong-Macao Greater Bay Area and along the Maritime Silk Road. This seventh sea-based mission for the Ceres-1 series used a new shore-based command center, giving coastal residents a clear, front-row view of the liftoff from their homes.",
+      "summary_zh": "2026 年 10 月 21 日北京时间 11:39，银河动力（Galactic Energy）的朱雀一号（Ceres-1S）Y8 运载火箭在山东日照附近海上平台升空，成功将「羲光四号 01」对地观测卫星送入约 541 公里轨道。卫星搭载高分相机与传感器，服务粤港澳大湾区及海上丝绸之路等监测需求。这是朱雀一号系列第七次海上发射，并启用新的岸基指挥中心，让沿海居民能在家清晰目睹发射。",
+      "body_en": "Rizhao Residents Watch Rocket Launch from Home Windows.\n\nPeople in Rizhao, China, peered out their bedroom windows to see a rocket soar into the sky over the Yellow Sea. It was a stunning, everyday view of space history unfolding right outside.\n\nOn October 21, 2026, Galactic Energy’s Ceres-1S Y8 rocket lifted off at 11:39 a.m. Beijing Time from an offshore platform near Rizhao in Shandong Province, successfully placing the XiGuang-4-01 Earth-observation satellite into a 541-kilometer orbit.\n\nThe satellite features high-resolution cameras and sensors to support monitoring in areas like the Guangdong-Hong Kong-Macao Greater Bay Area and along the Maritime Silk Road. This seventh sea-based mission for the Ceres-1 series used a new shore-based command center, giving coastal residents a clear, front-row view of the liftoff from their homes.",
+      "body_zh": "日照市民在家门口「看火箭」升空。\n\n中国日照居民透过卧室窗户，便能看见火箭从黄海上空腾起——航天发射成了海边日常景观。\n\n2026 年 10 月 21 日北京时间 11:39，银河动力（Galactic Energy）的朱雀一号（Ceres-1S）Y8 运载火箭在山东日照附近海上平台升空，成功将「羲光四号 01」对地观测卫星送入约 541 公里轨道。\n\n卫星搭载高分相机与传感器，服务粤港澳大湾区及海上丝绸之路等监测需求。这是朱雀一号系列第七次海上发射，并启用新的岸基指挥中心，让沿海居民能在家清晰目睹发射。",
+      "url": "https://x.com/i/trending/2112820742060495085",
       "category": "News",
       "topics": [
-        "Science"
+        "Space"
       ],
-      "updated_at": "2026-10-21T12:07:55.000Z"
+      "updated_at": "2026-10-21T08:24:00.000Z"
     },
     {
       "id": "2111892089000915435",
@@ -1663,25 +1684,6 @@
         "Health & Fitness"
       ],
       "updated_at": "2026-10-20T06:36:12.000Z"
-    },
-    {
-      "id": "2112414671194009776",
-      "domain": "科学",
-      "title_en": "Rocket Lab Videos Automated Machine Building Neutron Rocket Dome",
-      "title_zh": "火箭实验室晒自动铺丝机制作 Neutron 整流罩穹顶",
-      "hook_en": "Thousands of hair-thin carbon fibers whip into place at blistering speeds, forming the massive forward dome for Neutron's Stage 1 tank. It's a glimpse into the precision powering Rocket Lab's next big leap.",
-      "hook_zh": "成千上万根发丝般碳纤维高速铺就 Neutron 一级贮箱巨大前穹顶。",
-      "summary_en": "Rocket Lab released footage of its automated fiber placement machine at the Maryland facility laying down carbon strands up to 100 meters per minute on custom molds for the Neutron rocket's large composite forward dome. This step follows last week's news of a 2027 first-launch target after fixing voids in a prior manual dome, with CEO Peter Beck confirming refined processes and a successful aft dome. Investors and fans praised the update for building excitement around production progress toward a reusable rocket carrying 13,000 kg to orbit, with upcoming tests ahead.",
-      "summary_zh": "火箭实验室公布马里兰工厂自动铺丝机画面：以最高约每分钟 100 米在定制模具上铺碳丝，制作 Neutron 大型复合材料前穹顶。此前手工穹顶空隙问题已修复，CEO 彼得·贝克确认工艺改进与后穹顶成功，首飞目标 2027 年。投资者与粉丝为可复用、运力约 1.3 万公斤入轨的火箭量产进展叫好，后续测试将至。",
-      "body_en": "Rocket Lab Videos Automated Machine Building Neutron Rocket Dome.\n\nThousands of hair-thin carbon fibers whip into place at blistering speeds, forming the massive forward dome for Neutron's Stage 1 tank. It's a glimpse into the precision powering Rocket Lab's next big leap.\n\nRocket Lab released footage of its automated fiber placement machine at the Maryland facility laying down carbon strands up to 100 meters per minute on custom molds for the Neutron rocket's large composite forward dome.\n\nThis step follows last week's news of a 2027 first-launch target after fixing voids in a prior manual dome, with CEO Peter Beck confirming refined processes and a successful aft dome. Investors and fans praised the update for building excitement around production progress toward a reusable rocket carrying 13,000 kg to orbit, with upcoming tests ahead.",
-      "body_zh": "火箭实验室晒自动铺丝机制作 Neutron 整流罩穹顶。\n\n成千上万根发丝般碳纤维高速铺就 Neutron 一级贮箱巨大前穹顶。\n\n火箭实验室公布马里兰工厂自动铺丝机画面：以最高约每分钟 100 米在定制模具上铺碳丝，制作 Neutron 大型复合材料前穹顶。此前手工穹顶空隙问题已修复，CEO 彼得·贝克确认工艺改进与后穹顶成功，首飞目标 2027 年。\n\n投资者与粉丝为可复用、运力约 1.3 万公斤入轨的火箭量产进展叫好，后续测试将至。",
-      "url": "https://x.com/i/trending/2112414671194009776",
-      "category": "News",
-      "topics": [
-        "Technology",
-        "Space"
-      ],
-      "updated_at": "2026-10-20T05:28:17.000Z"
     }
   ]
 }

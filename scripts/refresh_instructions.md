@@ -9,7 +9,8 @@
 - 合并去重（按 story `id`），**最终 `count >= 30`**，至少覆盖 5 个领域
 - 跳过 NSFW、低质 meme / 纯段子
 - 重写 `/workspace/x-news-site/data/news.json`（或仓库内同路径）
-- `commit` + `push` 到 `feifan19/x-news-hot` 的 `main`，触发 GitHub Pages 更新
+- **每条必须含中英字段**（见下）；中文为新闻体自然表述，勿机翻堆砌
+- `commit` + `push` 到 **feifan19/x-news-hot** 的 `main`，触发 GitHub Pages 更新
 
 ## 采集建议
 
@@ -29,7 +30,7 @@
 
 速率：约 30 次/分钟、1000 次/天；单次最多约 25 条。
 
-## news.json 结构
+## news.json 结构（双语必填）
 
 ```json
 {
@@ -40,9 +41,12 @@
   "items": [{
     "id": "...",
     "domain": "科技",
-    "title": "...",
-    "hook": "...",
-    "summary": "...",
+    "title_en": "...",
+    "title_zh": "...",
+    "hook_en": "...",
+    "hook_zh": "...",
+    "summary_en": "...",
+    "summary_zh": "...",
     "url": "https://x.com/i/trending/...",
     "category": "News",
     "topics": [],
@@ -51,15 +55,19 @@
 }
 ```
 
+- `domain` 在数据中保持中文标签；站点 UI 在 `lang=en` 时映射显示：科技→Tech，商业→Business，中国→China，国际→World，体育→Sports，娱乐→Entertainment，科学→Science。
+- 站点默认语言为中文（`x-news-lang` 缺省 `zh`）；摘要须足够完整，页内可独立阅读，无需打开 X。
+- 只翻译已有事实，勿编造数字或情节。
+
 领域映射：`Technology/AI`→科技，`Business/Finance/Stocks`→商业，中国/亚太相关→中国，`Politics` 国际向→国际，`Sports`→体育，`Entertainment`→娱乐，`Science/Health/Space/Biotech`→科学。
 
 ## 发布步骤
 
-1. 写好 `data/news.json`
+1. 写好双语 `data/news.json`（可选同步 `data/news.js`）
 2. （可选）`python3 scripts/build_site.py`
 3. 在仓库根目录：
    ```bash
-   git add data/news.json
+   git add data/news.json data/news.js
    git commit -m "chore: refresh X hot news $(date +%Y-%m-%d-%H)"
    git push origin main
    ```
@@ -68,5 +76,5 @@
 ## 注意
 
 - 仅相对路径；静态站无服务端。
-- 标题/摘要可保留 X 返回语言；UI 中文。
+- 推送到 **feifan19/x-news-hot**（非旧账号仓库）。
 - 不可发送对外邮件/帖子，除非用户明确授权。

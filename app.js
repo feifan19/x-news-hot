@@ -24,7 +24,7 @@
       loadFailMeta: "无法加载数据",
       xLink: "在 X 查看原文 →",
       footer:
-        "内容来自 X 帖子汇总，可能随后变化。重要事实建议点开原文核对。全文可在本页直接阅读，无需跳转 X。",
+        "内容来自 X 帖子汇总，可能随后变化。正文在本页可直接阅读；重要事实建议核对原文。",
       source: "源码",
       filtersAria: "领域筛选",
       locale: "zh-CN",
@@ -41,7 +41,7 @@
       loadFailMeta: "Could not load data",
       xLink: "View on X →",
       footer:
-        "Summaries from X posts; details may change. Verify important facts on the original. Full text is readable here without opening X.",
+        "From X post summaries; details may change. Full article body is readable on this page; verify key facts on the original.",
       source: "Source",
       filtersAria: "Domain filters",
       locale: "en-US",
@@ -174,11 +174,24 @@
     return allItems.filter((i) => i.domain === activeDomain);
   }
 
+  function renderBodyHtml(item) {
+    const raw = pick(item, "body") || pick(item, "summary");
+    const paras = String(raw)
+      .split(/\n+/)
+      .map((p) => p.trim())
+      .filter(Boolean);
+    if (!paras.length) return "";
+    return paras
+      .map((p) => `<p class="body-p">${escapeHtml(p)}</p>`)
+      .join("");
+  }
+
   function renderCard(item) {
     const topics = (item.topics || [])
       .slice(0, 3)
       .map((topic) => `<span class="topic">${escapeHtml(topic)}</span>`)
       .join("");
+    const bodyHtml = renderBodyHtml(item);
     return `
       <article class="card">
         <div class="card-top">
@@ -189,7 +202,7 @@
         </div>
         <h2>${escapeHtml(pick(item, "title"))}</h2>
         <p class="hook">${escapeHtml(pick(item, "hook"))}</p>
-        <p class="summary">${escapeHtml(pick(item, "summary"))}</p>
+        <div class="article-body">${bodyHtml}</div>
         <div class="card-footer">
           <div class="topics">${topics}</div>
           <a class="card-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(

@@ -33,7 +33,7 @@ a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .container {
-  width: min(980px, calc(100% - 2rem));
+  width: min(1100px, calc(100% - 2rem));
   margin: 0 auto;
 }
 
@@ -260,7 +260,8 @@ a:hover { text-decoration: underline; }
 .card .hook {
   color: var(--accent);
   font-size: 0.92rem;
-  line-height: 1.5;
+  line-height: 1.55;
+  margin-bottom: 0.1rem;
 }
 
 .card .summary {
@@ -270,6 +271,25 @@ a:hover { text-decoration: underline; }
   flex: 1;
   white-space: normal;
   overflow: visible;
+}
+
+.card .article-body {
+  color: #d5deef;
+  font-size: 0.95rem;
+  line-height: 1.75;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  white-space: normal;
+  overflow: visible;
+  -webkit-line-clamp: unset;
+  max-height: none;
+}
+
+.card .article-body .body-p {
+  margin: 0;
+  color: #d5deef;
 }
 
 .card-footer {

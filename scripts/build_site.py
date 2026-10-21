@@ -7,7 +7,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 NEWS = ROOT / "data" / "news.json"
 FALLBACK = ROOT / "data" / "news.js"
-REQUIRED = ("title_en", "title_zh", "hook_en", "hook_zh", "summary_en", "summary_zh")
+REQUIRED = ("title_en", "title_zh", "hook_en", "hook_zh", "summary_en", "summary_zh", "body_en", "body_zh")
 
 def main():
     if not NEWS.exists():

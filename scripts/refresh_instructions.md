@@ -30,7 +30,7 @@
 
 速率：约 30 次/分钟、1000 次/天；单次最多约 25 条。
 
-## news.json 结构（双语必填）
+## news.json 结构（双语 + 正文必填）
 
 ```json
 {
@@ -47,6 +47,8 @@
     "hook_zh": "...",
     "summary_en": "...",
     "summary_zh": "...",
+    "body_en": "...",
+    "body_zh": "...",
     "url": "https://x.com/i/trending/...",
     "category": "News",
     "topics": [],
@@ -55,20 +57,29 @@
 }
 ```
 
-- `domain` 在数据中保持中文标签；站点 UI 在 `lang=en` 时映射显示：科技→Tech，商业→Business，中国→China，国际→World，体育→Sports，娱乐→Entertainment，科学→Science。
-- 站点默认语言为中文（`x-news-lang` 缺省 `zh`）；摘要须足够完整，页内可独立阅读，无需打开 X。
-- 只翻译已有事实，勿编造数字或情节。
+### 字段硬性要求
+
+- **`summary_en` / `summary_zh`**：必须保留 X API 返回的**完整** summary（全文翻译），**禁止截断、禁止压缩成一两句**。X 的 summary 已是该接口能给到的最长正文来源。
+- **`hook_en` / `hook_zh`**：完整保留 X hook，勿缩短。
+- **`body_en` / `body_zh`（必填）**：在 title + hook + summary 已有事实基础上，扩写成可供页内直接阅读的新闻体正文。
+  - 中文约 180–350 字；英文约 120–250 词；2–4 个短段落，段落之间用 `\n\n` 分隔。
+  - **只重述与组织已有事实**，不得编造新数字、人名、机构或情节。
+  - 若源文偏短，可把同一事实写得更顺、略长，仍不得添加未出现的信息。
+- 站点 UI 主展示 **body**（多段 `<p>`）；X 链接仅为「在 X 查看原文」次要入口。页脚提示：**正文在本页可直接阅读**。
+
+- `domain` 在数据中保持中文标签；站点 UI 在 `lang=en` 时映射：科技→Tech，商业→Business，中国→China，国际→World，体育→Sports，娱乐→Entertainment，科学→Science。
+- 默认语言中文（`x-news-lang` 缺省 `zh`）。
 
 领域映射：`Technology/AI`→科技，`Business/Finance/Stocks`→商业，中国/亚太相关→中国，`Politics` 国际向→国际，`Sports`→体育，`Entertainment`→娱乐，`Science/Health/Space/Biotech`→科学。
 
 ## 发布步骤
 
-1. 写好双语 `data/news.json`（可选同步 `data/news.js`）
+1. 写好含 `body_en`/`body_zh` 与完整 summary 的双语 `data/news.json`
 2. （可选）`python3 scripts/build_site.py`
 3. 在仓库根目录：
    ```bash
-   git add data/news.json data/news.js
-   git commit -m "chore: refresh X hot news $(date +%Y-%m-%d-%H)"
+   git add data/news.json app.js styles.css scripts/refresh_instructions.md
+   git commit -m "chore: refresh X hot news with full on-page bodies $(date +%Y-%m-%d-%H)"
    git push origin main
    ```
 4. Pages 通常 1–2 分钟内生效：https://feifan19.github.io/x-news-hot/
@@ -78,3 +89,4 @@
 - 仅相对路径；静态站无服务端。
 - 推送到 **feifan19/x-news-hot**（非旧账号仓库）。
 - 不可发送对外邮件/帖子，除非用户明确授权。
+- **不可在此例程内自行修改 Grok Bot routines**；若需改例程提示词，由主代理更新「X新闻整点更新」。

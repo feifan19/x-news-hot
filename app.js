@@ -10,6 +10,7 @@
     科学: "Science",
   };
   const LANG_KEY = "x-news-lang";
+  const TEASER_MAX = 150;
 
   const UI = {
     zh: {
@@ -23,8 +24,11 @@
       loadFail: (m) => `加载失败：${m}`,
       loadFailMeta: "无法加载数据",
       xLink: "在 X 查看原文 →",
+      readMore: "阅读全文 →",
+      back: "← 返回列表",
+      notFound: "未找到该文章",
       footer:
-        "内容来自 X 帖子汇总，可能随后变化。正文在本页可直接阅读；重要事实建议核对原文。",
+        "内容来自 X 帖子汇总，可能随后变化。点击标题或「阅读全文」查看完整正文；重要事实建议核对原文。",
       source: "源码",
       filtersAria: "领域筛选",
       locale: "zh-CN",
@@ -40,8 +44,11 @@
       loadFail: (m) => `Failed to load: ${m}`,
       loadFailMeta: "Could not load data",
       xLink: "View on X →",
+      readMore: "Read article →",
+      back: "← Back to list",
+      notFound: "Article not found",
       footer:
-        "From X post summaries; details may change. Full article body is readable on this page; verify key facts on the original.",
+        "From X post summaries; details may change. Open a title or “Read article” for the full body; verify key facts on the original.",
       source: "Source",
       filtersAria: "Domain filters",
       locale: "en-US",
@@ -53,6 +60,7 @@
   let lang = localStorage.getItem(LANG_KEY) === "en" ? "en" : "zh";
   let metaUpdatedAt = "";
   let metaUpdatedIso = "";
+  let route = { view: "list", id: null };
 
   const elGrid = document.getElementById("newsGrid");
   const elFilters = document.getElementById("filters");
@@ -65,6 +73,7 @@
   const elFooterSource = document.getElementById("footerSource");
   const elLangZh = document.getElementById("langZh");
   const elLangEn = document.getElementById("langEn");
+  const elBrand = document.getElementById("brandLink");
 
   function t() {
     return UI[lang];
@@ -107,10 +116,50 @@
     }
   }
 
+  function parseRoute() {
+    const raw = (location.hash || "").replace(/^#/, "");
+    const path = raw.replace(/^\/+/, "");
+    const m = path.match(/^item\/([^/?#]+)/);
+    if (m) return { view: "detail", id: decodeURIComponent(m[1]) };
+    return { view: "list", id: null };
+  }
+
+  function goList() {
+    location.hash = "/";
+  }
+
+  function teaserText(item) {
+    const raw =
+      pick(item, "summary") ||
+      pick(item, "hook") ||
+      (pick(item, "body") || "").split(/\n+/)[0] ||
+      "";
+    const oneLine = String(raw).replace(/\s+/g, " ").trim();
+    if (oneLine.length <= TEASER_MAX) return oneLine;
+    return oneLine.slice(0, TEASER_MAX).replace(/\s+\S*$/, "") + "…";
+  }
+
+  function renderBodyHtml(item) {
+    const raw = pick(item, "body") || pick(item, "summary");
+    const paras = String(raw)
+      .split(/\n+/)
+      .map((p) => p.trim())
+      .filter(Boolean);
+    if (!paras.length) return "";
+    return paras
+      .map((p) => `<p class="body-p">${escapeHtml(p)}</p>`)
+      .join("");
+  }
+
+  function setListChromeVisible(show) {
+    elFilters.style.display = show ? "" : "none";
+    elStats.style.display = show ? "" : "none";
+    elCount.hidden = !show;
+  }
+
   function applyChrome() {
     const u = t();
     document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
-    document.title = u.title;
     elTitle.textContent = u.title;
     elTagline.textContent = u.tagline;
     elFooterNote.textContent = u.footer;
@@ -120,6 +169,15 @@
     elLangEn.classList.toggle("active", lang === "en");
     const stamp = metaUpdatedAt || formatTime(metaUpdatedIso);
     elUpdated.textContent = stamp ? u.updated(stamp) : u.loading;
+
+    if (route.view === "detail" && route.id) {
+      const item = allItems.find((i) => String(i.id) === String(route.id));
+      document.title = item
+        ? `${pick(item, "title")} · ${u.title}`
+        : `${u.notFound} · ${u.title}`;
+    } else {
+      document.title = u.title;
+    }
   }
 
   function setLang(next) {
@@ -174,24 +232,13 @@
     return allItems.filter((i) => i.domain === activeDomain);
   }
 
-  function renderBodyHtml(item) {
-    const raw = pick(item, "body") || pick(item, "summary");
-    const paras = String(raw)
-      .split(/\n+/)
-      .map((p) => p.trim())
-      .filter(Boolean);
-    if (!paras.length) return "";
-    return paras
-      .map((p) => `<p class="body-p">${escapeHtml(p)}</p>`)
-      .join("");
-  }
-
   function renderCard(item) {
     const topics = (item.topics || [])
       .slice(0, 3)
       .map((topic) => `<span class="topic">${escapeHtml(topic)}</span>`)
       .join("");
-    const bodyHtml = renderBodyHtml(item);
+    const detailHref = `#/item/${encodeURIComponent(item.id)}`;
+    const title = escapeHtml(pick(item, "title"));
     return `
       <article class="card">
         <div class="card-top">
@@ -200,20 +247,58 @@
           )}</span>
           <time class="card-time">${escapeHtml(formatTime(item.updated_at))}</time>
         </div>
-        <h2>${escapeHtml(pick(item, "title"))}</h2>
+        <h2><a class="card-title-link" href="${detailHref}">${title}</a></h2>
         <p class="hook">${escapeHtml(pick(item, "hook"))}</p>
-        <div class="article-body">${bodyHtml}</div>
+        <p class="teaser">${escapeHtml(teaserText(item))}</p>
         <div class="card-footer">
           <div class="topics">${topics}</div>
-          <a class="card-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(
-            t().xLink
-          )}</a>
+          <div class="card-actions">
+            <a class="card-link card-link-primary" href="${detailHref}">${escapeHtml(
+              t().readMore
+            )}</a>
+            <a class="card-link card-link-x" href="${escapeHtml(
+              item.url
+            )}" target="_blank" rel="noopener noreferrer">${escapeHtml(t().xLink)}</a>
+          </div>
         </div>
       </article>
     `;
   }
 
-  function render() {
+  function renderDetail(item) {
+    if (!item) {
+      elGrid.innerHTML = `
+        <div class="detail empty-detail">
+          <a class="back-link" href="#/">${escapeHtml(t().back)}</a>
+          <p class="empty">${escapeHtml(t().notFound)}</p>
+        </div>`;
+      return;
+    }
+    const topics = (item.topics || [])
+      .map((topic) => `<span class="topic">${escapeHtml(topic)}</span>`)
+      .join("");
+    elGrid.innerHTML = `
+      <article class="detail">
+        <a class="back-link" href="#/">${escapeHtml(t().back)}</a>
+        <div class="card-top">
+          <span class="domain-pill domain-${escapeHtml(item.domain)}">${escapeHtml(
+            domainLabel(item.domain)
+          )}</span>
+          <time class="card-time">${escapeHtml(formatTime(item.updated_at))}</time>
+        </div>
+        <h1 class="detail-title">${escapeHtml(pick(item, "title"))}</h1>
+        <p class="hook">${escapeHtml(pick(item, "hook"))}</p>
+        <div class="article-body">${renderBodyHtml(item)}</div>
+        <div class="detail-footer">
+          <div class="topics">${topics}</div>
+          <a class="card-link" href="${escapeHtml(
+            item.url
+          )}" target="_blank" rel="noopener noreferrer">${escapeHtml(t().xLink)}</a>
+        </div>
+      </article>`;
+  }
+
+  function renderList() {
     const items = filteredItems();
     elCount.textContent = t().count(items.length);
     if (!items.length) {
@@ -221,6 +306,22 @@
       return;
     }
     elGrid.innerHTML = items.map(renderCard).join("");
+  }
+
+  function render() {
+    route = parseRoute();
+    applyChrome();
+    if (route.view === "detail") {
+      setListChromeVisible(false);
+      elGrid.classList.add("is-detail");
+      const item = allItems.find((i) => String(i.id) === String(route.id));
+      renderDetail(item || null);
+      window.scrollTo(0, 0);
+      return;
+    }
+    setListChromeVisible(true);
+    elGrid.classList.remove("is-detail");
+    renderList();
   }
 
   async function load() {
@@ -246,6 +347,19 @@
 
   elLangZh.addEventListener("click", () => setLang("zh"));
   elLangEn.addEventListener("click", () => setLang("en"));
+  window.addEventListener("hashchange", () => render());
+
+  if (elBrand) {
+    elBrand.addEventListener("click", (e) => {
+      e.preventDefault();
+      goList();
+      if (parseRoute().view === "list") render();
+    });
+  }
+
+  if (!location.hash || location.hash === "#") {
+    history.replaceState(null, "", "#/");
+  }
 
   load();
 })();

@@ -9,9 +9,35 @@
 - 覆盖领域：科技 / 商业 / 中国 / 国际 / 体育 / 娱乐 / 科学
 - 合并去重（按 story `id`），**最终 `count >= 70`（目标约 80–100）**，各领域尽量 10–15 条，至少覆盖 5 个领域
 - 跳过 NSFW、低质 meme / 纯段子
-- 重写 `/workspace/x-news-site/data/news.json`（或仓库内同路径）
-- **每条必须含中英字段**（见下）；中文为新闻体自然表述，勿机翻堆砌
+- **按日历日归档**（见下），**永不删除**历史 `data/days/*.json`
+- 每条必须含中英字段（见下）；中文为新闻体自然表述，勿机翻堆砌
 - `commit` + `push` 到 **feifan19/x-news-hot** 的 `main`，触发 GitHub Pages 更新
+
+## 按日归档（必做）
+
+采集日 = **昨天**（Asia/Shanghai 日历日），记为 `YYYY-MM-DD`。
+
+1. 写/覆盖 **仅该日** 文件：`data/days/YYYY-MM-DD.json`  
+   形状：
+   ```json
+   {
+     "date": "YYYY-MM-DD",
+     "updated_at": "YYYY-MM-DD HH:MM Asia/Shanghai",
+     "updated_at_iso": "...Z",
+     "count": N,
+     "domains": ["科技","商业","中国","国际","体育","娱乐","科学"],
+     "items": [ /* 双语条目，同下 */ ]
+   }
+   ```
+2. **不要删除**任何更早的 `data/days/*.json`。只更新当天这一份。
+3. 重建 `data/days.json` 清单（`days` 最新在前，`latest` 为最新日）：
+   ```json
+   { "latest": "YYYY-MM-DD", "days": ["YYYY-MM-DD", "...更早..."] }
+   ```
+4. 将最新日文件**整份同步**到 `data/news.json`（内容相同，含 `date`），以便旧书签/工具仍可用。
+5. （可选）跑 `python3 scripts/build_site.py` 以校验并写出 `data/news.js`。
+
+站点首页默认展示 `latest`；用户可在日期条切换历史日；详情路由为 `#/day/YYYY-MM-DD/item/<id>`。
 
 ## 采集建议
 
@@ -31,30 +57,24 @@
 
 速率：约 30 次/分钟、1000 次/天；单次最多约 25 条。
 
-## news.json 结构（双语 + 正文必填）
+## 条目字段（双语 + 正文必填）
 
 ```json
 {
-  "updated_at": "YYYY-MM-DD HH:MM Asia/Shanghai",
-  "updated_at_iso": "...Z",
-  "count": N,
-  "domains": ["科技","商业","中国","国际","体育","娱乐","科学"],
-  "items": [{
-    "id": "...",
-    "domain": "科技",
-    "title_en": "...",
-    "title_zh": "...",
-    "hook_en": "...",
-    "hook_zh": "...",
-    "summary_en": "...",
-    "summary_zh": "...",
-    "body_en": "...",
-    "body_zh": "...",
-    "url": "https://x.com/i/trending/...",
-    "category": "News",
-    "topics": [],
-    "updated_at": "..."
-  }]
+  "id": "...",
+  "domain": "科技",
+  "title_en": "...",
+  "title_zh": "...",
+  "hook_en": "...",
+  "hook_zh": "...",
+  "summary_en": "...",
+  "summary_zh": "...",
+  "body_en": "...",
+  "body_zh": "...",
+  "url": "https://x.com/i/trending/...",
+  "category": "News",
+  "topics": [],
+  "updated_at": "..."
 }
 ```
 
@@ -66,7 +86,7 @@
   - 中文约 180–350 字；英文约 120–250 词；2–4 个短段落，段落之间用 `\n\n` 分隔。
   - **只重述与组织已有事实**，不得编造新数字、人名、机构或情节。
   - 若源文偏短，可把同一事实写得更顺、略长，仍不得添加未出现的信息。
-- 站点 UI：列表卡片只展示 teaser（summary 截断）；完整 **body**（多段 `<p>`）在详情页 `#/item/<id>`；X 链接保留为「在 X 查看原文」。
+- 站点 UI：列表卡片只展示 teaser（summary 截断）；完整 **body**（多段 `<p>`）在详情页 `#/day/YYYY-MM-DD/item/<id>`；X 链接保留为「在 X 查看原文」。
 
 - `domain` 在数据中保持中文标签；站点 UI 在 `lang=en` 时映射：科技→Tech，商业→Business，中国→China，国际→World，体育→Sports，娱乐→Entertainment，科学→Science。
 - 默认语言中文（`x-news-lang` 缺省 `zh`）。
@@ -75,19 +95,21 @@
 
 ## 发布步骤
 
-1. 写好含 `body_en`/`body_zh` 与完整 summary 的双语 `data/news.json`
-2. （可选）`python3 scripts/build_site.py`
-3. 在仓库根目录：
+1. 写好含 `body_en`/`body_zh` 与完整 summary 的双语 `data/days/YYYY-MM-DD.json`（昨天）
+2. 重建 `data/days.json`；同步最新日 → `data/news.json`
+3. （可选）`python3 scripts/build_site.py`
+4. 在仓库根目录：
    ```bash
-   git add data/news.json app.js styles.css scripts/refresh_instructions.md
-   git commit -m "chore: refresh X hot news with full on-page bodies $(date +%Y-%m-%d-%H)"
+   git add data/days/ data/days.json data/news.json data/news.js app.js styles.css index.html scripts/refresh_instructions.md
+   git commit -m "chore: archive prior-day X news $(date +%Y-%m-%d)"
    git push origin main
    ```
-4. Pages 通常 1–2 分钟内生效：https://feifan19.github.io/x-news-hot/
+5. Pages 通常 1–2 分钟内生效：https://feifan19.github.io/x-news-hot/
 
 ## 注意
 
 - 仅相对路径；静态站无服务端。
 - 推送到 **feifan19/x-news-hot**（非旧账号仓库）。
 - 不可发送对外邮件/帖子，除非用户明确授权。
-- **不可在此例程内自行修改 Grok Bot routines**；若需改例程提示词，由主代理更新「X新闻整点更新」。
+- **不可在此例程内自行修改 Grok Bot routines**；若需改例程提示词，由主代理更新「X新闻每日更新」。
+- **禁止**整份覆盖历史：每次只写/覆盖「昨天」那一天的文件，并保留所有更早的 `data/days/*.json`。

@@ -1,9 +1,10 @@
-# 整点刷新例程说明（Grok Bot）
+# 每日刷新例程说明（Grok Bot）
 
-面向每小时自动更新 `x-news-hot` 站点数据的例程。
+面向每天早上 7:30（Asia/Shanghai）自动采集**前一天**新闻并更新 `x-news-hot` 站点的例程。
 
 ## 目标
 
+- **节奏**：每天 07:30 Asia/Shanghai 跑一次，汇总前一天热点（不再每小时刷新）
 - 使用 `x` MCP：`search_news`（必要时辅以 `get_trends_by_woeid`）
 - 覆盖领域：科技 / 商业 / 中国 / 国际 / 体育 / 娱乐 / 科学
 - 合并去重（按 story `id`），**最终 `count >= 70`（目标约 80–100）**，各领域尽量 10–15 条，至少覆盖 5 个领域
@@ -14,7 +15,7 @@
 
 ## 采集建议
 
-每个领域优先 1–2 次不同角度的 `search_news`，`max_results` 15–25（贴近单次上限），`max_age_hours` 24–48。示例 query：
+每个领域优先 1–2 次不同角度的 `search_news`，`max_results` 15–25（贴近单次上限），`max_age_hours` 约 24–36（覆盖昨天 Asia/Shanghai 日历日）。示例 query：
 
 | 领域 | query 示例 |
 |------|-----------|
